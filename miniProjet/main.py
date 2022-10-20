@@ -18,6 +18,5 @@ print(f"Your weekly wage is € { hourly * wage }.")
 
 # name + weekly wage
 print(f"{ name } received { round((hourly * wage), 2 ) } this week.")
-# print ("%0.2f" % (hourly * wage))
 earnings = float(wage) * float(hourly)
 print(f"{ name } received { earnings:.2f } this week.")

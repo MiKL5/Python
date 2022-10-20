@@ -13,4 +13,4 @@ Pour fonnctionner, il à besoin :
 Une capture vous donne un aperçu.
 ```
 
-![Capture](../src/screenshots/calculateurDeSalaireHebdomadaire..png)
+![Capture](../src/screenshots/calculateurDeSalaireHebdomadaire.png)
