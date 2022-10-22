@@ -5,7 +5,10 @@
 ```
 [Jeu Snake]() ······ > *(soon)*  
 ```
-    Mini projet
+    Défi Fizz buzz
+```
+```
+        Mini projet
 ```
 [Mini projet](miniProjet) ······ > Calculateur de revenus  
 ```
@@ -14,3 +17,4 @@
 [Exercice 1](practice1) ······ > Afficher et calculer les nombres  
 [Exercice 2](practice2) ······ > Chaînes de caractères, variable et saisi de données par l'utilisateur  
 [Exercice 3](practice3) ······ > Formatage des chaînes de caractères et traitement des entrèes utilisateur  
+[Exercice 4](practice4) ······ > Bases des collection : liste et tuples
