@@ -3,14 +3,14 @@
 ```
     Projet
 ```
-[Jeu Snake]() - - > *(soon)*  
+[Jeu Snake]() ······ > *(soon)*  
 ```
     Mini projet
 ```
-[Mini projet](miniProjet) - - > Calculateur de revenus  
+[Mini projet](miniProjet) ······ > Calculateur de revenus  
 ```
     Exercices
 ```
-[Exercice 1](practice1) - - > Afficher et calculer les nombres  
-[Exercice 2](practice2) - - > Chaînes de caractères, variable et saisi de données par l'utilisateur  
-[Exercice 3](practice3) - - > Formatage des chaînes de caractères et traitement des entrèes utilisateur  
+[Exercice 1](practice1) ······ > Afficher et calculer les nombres  
+[Exercice 2](practice2) ······ > Chaînes de caractères, variable et saisi de données par l'utilisateur  
+[Exercice 3](practice3) ······ > Formatage des chaînes de caractères et traitement des entrèes utilisateur  
