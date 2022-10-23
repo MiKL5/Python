@@ -6,8 +6,6 @@
 [Jeu Snake]() ······ > *(soon)*  
 ```
     Défi Fizz buzz
-
-        Mini projet
 ```
 [Mini projet](miniProjet) ······ > Calculateur de revenus  
 ```
@@ -18,3 +16,4 @@
 [Exercices 3](practice3) ······ > Formatage des chaînes de caractères et traitement des entrèes utilisateur  
 [Exercices 4](practice4) ······ > Bases des collection : liste et tuples  
 [Exercices 5](practice5) ······ > Conditions et booléens  
+[Exercices 6](practice6) ······ > Boucles FOR  
