@@ -6,15 +6,15 @@
 [Jeu Snake]() ······ > *(soon)*  
 ```
     Défi Fizz buzz
-```
-```
+
         Mini projet
 ```
 [Mini projet](miniProjet) ······ > Calculateur de revenus  
 ```
     Exercices
 ```
-[Exercice 1](practice1) ······ > Afficher et calculer les nombres  
-[Exercice 2](practice2) ······ > Chaînes de caractères, variable et saisi de données par l'utilisateur  
-[Exercice 3](practice3) ······ > Formatage des chaînes de caractères et traitement des entrèes utilisateur  
-[Exercice 4](practice4) ······ > Bases des collection : liste et tuples
+[Exercices 1](practice1) ······ > Afficher et calculer les nombres  
+[Exercices 2](practice2) ······ > Chaînes de caractères, variable et saisi de données par l'utilisateur  
+[Exercices 3](practice3) ······ > Formatage des chaînes de caractères et traitement des entrèes utilisateur  
+[Exercices 4](practice4) ······ > Bases des collection : liste et tuples  
+[Exercices 5](practice5) ······ > Conditions et booléens  
