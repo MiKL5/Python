@@ -3,7 +3,7 @@
 ```
     Projet
 ```
-[Fizz Buzz]() ······ > *(soon)*  
+[Fizz Buzz](FizzBuzz) ······ > *(soon)*  
 [Jeu Snake]() ······ > *(soon)*  
 ```
     Défi Fizz buzz
