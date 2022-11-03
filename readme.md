@@ -8,7 +8,7 @@
     Défi Fizz buzz
 ```
 [Mini projet](miniProjet) ······ > Calculateur de revenus  
-[Fizz Buzz](FizzBuzz) ·········· > FizzBuzz   
+[Fizz Buzz](FizzBuzz) ······ > FizzBuzz   
 ```
     Exercices
 ```
