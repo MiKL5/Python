@@ -3,6 +3,7 @@
 ```
     Projet
 ```
+[Fizz Buzz]() ······ > *(soon)*  
 [Jeu Snake]() ······ > *(soon)*  
 ```
     Défi Fizz buzz
@@ -17,3 +18,4 @@
 [Exercices 4](practice4) ······ > Bases des collection : liste et tuples  
 [Exercices 5](practice5) ······ > Conditions et booléens  
 [Exercices 6](practice6) ······ > Boucles FOR  
+[Exercices 7](practice7) ······ > Split, join et slices  
