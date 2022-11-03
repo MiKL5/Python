@@ -12,11 +12,11 @@
 ```
     Exercices
 ```
-[Exercices 1](practice1) ······ > Afficher et calculer les nombres  
-[Exercices 2](practice2) ······ > Chaînes de caractères, variable et saisi de données par l'utilisateur  
-[Exercices 3](practice3) ······ > Formatage des chaînes de caractères et traitement des entrèes utilisateur  
-[Exercices 4](practice4) ······ > Bases des collection : liste et tuples  
-[Exercices 5](practice5) ······ > Conditions et booléens  
-[Exercices 6](practice6) ······ > Boucles FOR  
-[Exercices 7](practice7) ······ > Split, join et slices  
-[Exercices 8](practice8) ······ > *(soon)*
+[Exercices 1](exercises/practice1) ······ > Afficher et calculer les nombres  
+[Exercices 2](exercises/practice2) ······ > Chaînes de caractères, variable et saisi de données par l'utilisateur  
+[Exercices 3](exercises/practice3) ······ > Formatage des chaînes de caractères et traitement des entrèes utilisateur  
+[Exercices 4](exercises/practice4) ······ > Bases des collection : liste et tuples  
+[Exercices 5](exercises/practice5) ······ > Conditions et booléens  
+[Exercices 6](exercises/practice6) ······ > Boucles FOR  
+[Exercices 7](exercises/practice7) ······ > Split, join et slices  
+[Exercices 8](exercises/practice8) ······ > *(soon)*
