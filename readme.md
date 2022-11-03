@@ -5,7 +5,7 @@
 ```
 [Jeu Snake]() ······ > *(soon)*  
 ```
-    Défi Fizz buzz
+    Défis
 ```
 [Mini projet](miniProjet) ······ > Calculateur de revenus  
 [Fizz Buzz](FizzBuzz) ······· > FizzBuzz   
@@ -19,3 +19,4 @@
 [Exercices 5](practice5) ······ > Conditions et booléens  
 [Exercices 6](practice6) ······ > Boucles FOR  
 [Exercices 7](practice7) ······ > Split, join et slices  
+[Exercices 8](practice8) ······ > *(soon)*
