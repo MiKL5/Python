@@ -1,4 +1,5 @@
-# Projet Fizz Buzz
+# Projet Fizz Buzz <img align="right" src="../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px">
+
 
 Chaque jouur commance par dire le chiffre 1.  
 * Si le chiffre ou nombre est divisible par 3 dire, **"Fizz"** ;
