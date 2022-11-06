@@ -5,6 +5,7 @@
 # Si vous souhaitez relever un défi supplémentaire, permettez aux utilisateurs d’ajouter des films à l’ensemble des données avant d’effectuer les calculs.
 # Pour ce faire, demandez à l’utilisateur combien de films il souhaite ajouter, ce qui vous permettra d’utiliser une boucle for et un range pour répéter un code un nombre donné de fois. À l’intérieur de la boucle for, vous pouvez écrire un code qui prend en compte une entrée utilisateur et ajoute à la liste de films un tuple de films contenant les données collectées.
 
+# liste
 movies = [
     ("Eternal Sunshine of the Spotless Mind", 20000000),
     ("Memento", 9000000),
@@ -18,7 +19,7 @@ movies = [
 new_movie_count = int(input("Comnbien de film.s voulez vous ajouter : "))
 for _ in range(new_movie_count):
     name = input("Saisissez un titre de film : ")
-    budget = input("Saisissez son budget : ")
+    budget = int(input("Saisissez son budget : "))
     movie_added = (name, budget)
     movies.append(movie_added)
 # variables
@@ -33,5 +34,5 @@ for movie in movies:
     if movie[1] > average_budget:
         high_budget_movies.append(movie)
         over_average_cost = movie[1] - average_budget
-        print(f"{movie[0]} a coûté {movie[1]} € : {over_average_cost} € de plus que la moyenne.")
-print(f"{movie[0]} coûte {movie[1]:,} € : {over_average_cost:,} € de plus que la moyenne.")
+        print(f"{movie[0]} a coûté {movie[1]} €, dont {over_average_cost} € de plus que la moyenne.")
+print(f"Il y a {len(high_budget_movies)} film.s au budget supérieur à la moyenne.")
