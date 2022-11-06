@@ -7,10 +7,10 @@
 ```
     Défis
 ```
-[Mini projet](miniProjet "Calculateur simple de revenus") ······ > Calculateur de revenus  
-[Fizz Buzz](FizzBuzz "FizzBuzz") ······· > FizzBuzz   
+[Mini projet](miniProjet "Calculateur simple de revenus") ···············Ò > Calculateur de revenus  
+[Fizz Buzz](FizzBuzz "FizzBuzz") ················ > FizzBuzz   
 [Budgets des films](filmBudgets "Troisième defi : Budget des films") ······· > *Budget des films*    
-```
+```ÒÒ
     Exercices
 ```
 [Exercices 1](exercises/practice1) ······ > Afficher et calculer les nombres  
