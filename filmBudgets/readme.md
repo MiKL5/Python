@@ -1,5 +1,5 @@
 # Budet des films <img align="right" src="../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px">
-Consigne
+Consigne  
 * Calcul du budget moyen des films
 * Imprimer la quantité de film supérieur au budget moyen
 * Imprimr les films au budget supérieur à la moyenne calculée
@@ -8,7 +8,7 @@ Consigne
         * Demander combien
         * Demandr le titre
 
-Code
+Code  
 ```python
 # liste
 movies = [
@@ -42,5 +42,5 @@ for movie in movies:
         print(f"{movie[0]} a coûté {movie[1]} €, dont {over_average_cost} € de plus que la moyenne.")
 print(f"Il y a {len(high_budget_movies)} film.s au budget supérieur à la moyenne.")
 ```
-Aperçu
+Aperçu  
 ![Aperçu](console.png "Aperçu")
