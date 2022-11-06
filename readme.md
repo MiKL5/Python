@@ -20,4 +20,5 @@
 [Exercices 5](exercises/practice5) ······ > Conditions et booléens  
 [Exercices 6](exercises/practice6) ······ > Boucles FOR  
 [Exercices 7](exercises/practice7) ······ > Split, join, slices et len  
-[Exercices 8](exercises/practice8) ······ > *Bloucles WHILE* ***wip***  
+[Exercices 8](exercises/practice8) ······ > *Boucles WHILE* - ***wip***  
+[Exercices 9](exercises/practice9) ······ > *Unpacking, énumération et fonction zip* *(soun)*  
