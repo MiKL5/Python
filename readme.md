@@ -9,6 +9,7 @@
 ```
 [Mini projet](miniProjet) ······ > Calculateur de revenus  
 [Fizz Buzz](FizzBuzz) ······· > FizzBuzz   
+[Budegets des films](filmBudgets "Troisième defi : Budget des films") ······· > *Budget des films* *wip*  
 ```
     Exercices
 ```
