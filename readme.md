@@ -9,7 +9,7 @@
 ```
 [Mini projet](miniProjet "Calculateur simple de revenus") ······ > Calculateur de revenus  
 [Fizz Buzz](FizzBuzz "FizzBuzz") ······· > FizzBuzz   
-[Budgets des films](filmBudgets "Troisième defi : Budget des films") ······· > *Budget des films* ***wip***  
+[Budgets des films](filmBudgets "Troisième defi : Budget des films") ······· > *Budget des films*    
 ```
     Exercices
 ```
@@ -20,4 +20,4 @@
 [Exercices 5](exercises/practice5) ······ > Conditions et booléens  
 [Exercices 6](exercises/practice6) ······ > Boucles FOR  
 [Exercices 7](exercises/practice7) ······ > Split, join, slices et len  
-[Exercices 8](exercises/practice8) ······ > *Bloucles WHILE* *(soon)*
+[Exercices 8](exercises/practice8) ······ > *Bloucles WHILE* ***wip***  
