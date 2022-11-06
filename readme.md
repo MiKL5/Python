@@ -7,8 +7,8 @@
 ```
     Défis
 ```
-[Mini projet](miniProjet "Calculateur simple de revenus") ···············Ò > Calculateur de revenus  
-[Fizz Buzz](FizzBuzz "FizzBuzz") ················ > FizzBuzz   
+[Mini projet](miniProjet "Calculateur simple de revenus") ··················· > Calculateur de revenus  
+[Fizz Buzz](FizzBuzz "FizzBuzz") ···················· > FizzBuzz   
 [Budgets des films](filmBudgets "Troisième defi : Budget des films") ······· > *Budget des films*    
 ```
     Exercices
