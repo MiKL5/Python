@@ -1,11 +1,11 @@
-# Devinette <img align="right" src="../../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px">
+# Devinette <img align="right" src="../../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px">  
 
 * Écrire un programme de devinette avec un boucle while.
 * Le but est de deviner un chiffre ou nombre de 1 à 100.
 * Dire si c'est au dessus ou en dessous
-* La boucle s'arrête dés que le chiffre ou nombre et trouvé.
+* La boucle s'arrête dés que le chiffre ou nombre et trouvé.  
 
-```python
+```python  
 # définition du nombre à deviner
 target_number = int(input("saisisser le chiffre ou nombre à deviner : "))
 # devinette
@@ -19,5 +19,5 @@ while guess != target_number:
     guess = int(input("Ressaisissez : "))
 print("Bravo !")
 ```
-Aperçu
+Aperçu  
 ![Overview](overview.png "Aperçu")
