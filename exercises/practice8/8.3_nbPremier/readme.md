@@ -18,4 +18,4 @@ print(", ".join(primes))
 ```
 
 #### Aperçu  
-[overview](exercises/practice8/8.3_nbPremier/overview.png)
+![overview](overview.png)
