@@ -1,9 +1,11 @@
 # Nombre premier <img align="right" src="../../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px">
 
-#### Consigne  
-* Imprimer les nombres premiers entre 1 et 100.
+#### Consigne
 
-#### Code  
+- Imprimer les nombres premiers entre 1 et 100.
+
+#### Code
+
 ```python
 dividend = int(input('Saisissez un chiffre / nombre : '))
 
@@ -17,5 +19,6 @@ for dividend in range(2, 101):
 print(", ".join(primes))
 ```
 
-#### Aperçu  
+#### Aperçu
+
 ![overview](overview.png)
