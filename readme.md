@@ -3,7 +3,8 @@
 ```
     Projet
 ```
-[Jeu Snake]() ······ > *(soon)*  
+[Valideur de carte de crédit](creditCardValidator) _(soon)_  
+[Jeu Snake]() ······ > _(soon)_  
 ```
     Défis
 ```
@@ -20,5 +21,5 @@
 [Exercices 5](exercises/practice5) ······ > Conditions et booléens  
 [Exercices 6](exercises/practice6) ······ > Boucles FOR  
 [Exercices 7](exercises/practice7) ······ > Split, join, slices et len  
-[Exercices 8](exercises/practice8) ······ > *Boucles WHILE* - ***wip***  
-[Exercices 9](exercises/practice9) ······ > *Unpacking, énumération et fonction zip* *(soun)*  
+[Exercices 8](exercises/practice8) ······ > *Boucles WHILE* - **_wip_**  
+[Exercices 9](exercises/practice9) ······ > *Unpacking, énumération et fonction zip* _(soun)_  
