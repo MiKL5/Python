@@ -78,5 +78,10 @@ print(student)  # ('John Smith', [88, 76, 92, 85, 69, 77])
 On ne peut donc utiliser comme clé dans un dictionnaire qu’un tuple qui ne contient pas de valeurs mutables.
 
 ___
+>>> NB :  
+Si la clé n'existe pas on obtient un keyError.
+Cependant, si on est pas sûr qu'une clé existe sans levé d'error, il y a le méthode `get`.  
+Ce dernier fonctionne comme une expression de souscription mais renvoi `None` sans planter le programme.
+
 >> cf. [ce lien Docstring](https://www.docstring.fr/glossaire/dictionnaire/)  
 cf. [ce lien W3school](https://www.w3schools.com/python/python_dictionaries.asp)
