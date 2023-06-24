@@ -1,4 +1,4 @@
-# Qu'est qu'un dictionnaire ?
+# **Qu'est qu'un dictionnaire ?**
 
 Un tableau associatif est pour Python un dictionnaire, et fonctionne un peu différemment des listes, des chaînes de caractères et des tuples.
 
@@ -18,6 +18,65 @@ Un cas d’utilisation courant des dictionnaires est très similaire à la faço
 ```
 Nous pourrions utiliser un dictionnaire avec trois clés : "title", "director", et "release_year". Nous pourrions ensuite récupérer la valeur que nous voulons en demandant au dictionnaire la valeur associée à une clé donnée. Par exemple, nous pourrions vouloir la valeur associée à la clé "title". Dans ce cas, on nous donnerait la chaîne "Up".
 
+## **Le définir**
 
+Nous créons un dictionnaire en utilisant une paire d’accolades : `{}`
+Il s’agit en fait d’un dictionnaire vide, tout comme `[]` est une liste vide.
+
+Lorsque nous voulons créer un dictionnaire avec du contenu, nous devons travailler par paires de clés et de valeurs. Un dictionnaire ne peut pas avoir de clé sans valeur, et nous ne pouvons pas avoir de valeur qui ne soit pas associée à une clé.
+
+Imaginons que nous créons un dictionnaire pour un élève et que nous voulons commencer par une clé et une valeur représentant son nom :
+```py
+student = {"name": "John Smith"}
+```
+Tout d’abord, nous avons la clé – qui, dans ce cas, est la chaîne "name" – suivie de deux points ( :), puis la valeur associée à cette clé.
+
+Si nous voulons ajouter plusieurs clés et valeurs, nous devons séparer chaque paire clé-valeur à l’aide de virgules.
+
+Par exemple, ajoutons une liste de notes pour cet étudiant à côté de son nom :
+```py
+student = {
+    "name": "John Smith",
+    "grades": [88, 76, 92, 85, 69]
+}
+```
+Note de style
+Dans l’exemple ci-dessus, le dictionnaire a été réparti sur plusieurs lignes, comme nous l’avons fait avec nos tuples et nos listes. C’est une pratique courante lorsque le dictionnaire devient assez long, car elle facilite la lisibilité.
+
+Ne vous sentez pas obligé de tout faire tenir sur une seule ligne comme ceci :
+```py
+student = {"name": "John Smith", "grades": [88, 76, 92, 85, 69]}
+```
+Si le dictionnaire peut facilement tenir sur une ligne, veillez à toujours mettre un espace après chaque virgule, comme nous le faisons pour les autres collections.
+
+Un autre facteur important pour créer des dictionnaires lisibles consiste à ajouter un espace après les deux points. Cela permet de séparer les clés et les valeurs, ce qui permet de les repérer plus rapidement d’un coup d’œil.
+
+## **Les noms de clés**
+
+Il existe également certaines limitations techniques quant à ce que nous pouvons utiliser comme clé dans les dictionnaires Python.
+
+Comme nous l’avons déjà vu, les chaînes de caractères conviennent parfaitement, mais aussi les nombres et même les tuples. Cependant, _nous ne pouvons jamais utiliser une liste comme clé_. Pourquoi pas ? _Parce qu’une liste peut changer_.
+
+L’_une des principales caractéristiques des dictionnaires_ est que leurs _clés_ sont _uniques_. C’est très important pour la récupération des valeurs. Le problème des _listes est qu’elles offrent la possibilité de violer cette règle_, car nous pouvons modifier une liste après l’avoir définie comme clé. En ajoutant ou en supprimant des éléments, nous pouvons modifier une paire de listes de sorte qu’elles finissent par être identiques.
+
+Le fait que cela puisse se produire signifie que Python ne nous permet tout simplement pas d’utiliser des listes comme clés, et il en va de même pour tout autre type que nous pouvons modifier.
+
+Certains d’entre vous se demandent peut-être pourquoi nous pouvons utiliser des chaînes de caractères comme clés, puisqu’il semble que nous puissions également modifier des chaînes de caractères. Cependant, nous ne modifions jamais réellement une chaîne de caractères : nous en créons toujours une nouvelle.
+
+Nous pouvons utiliser un tuple comme clé, avec quelques limitations. En effet, _les tuples peuvent pas contenir des éléments tels que des listes_, et nous pouvons modifier ces listes internes.
+
+Par exemple, nous pouvons faire ceci :
+```py
+student = (
+    "John Smith",
+    [88, 76, 92, 85, 69]
+)
+# Ajouter 77 à la liste à l'index 1
+student[1].append(77)
+print(student)  # ('John Smith', [88, 76, 92, 85, 69, 77])
+```
+On ne peut donc utiliser comme clé dans un dictionnaire qu’un tuple qui ne contient pas de valeurs mutables.
+
+___
 >> cf. [ce lien Docstring](https://www.docstring.fr/glossaire/dictionnaire/)  
 cf. [ce lien W3school](https://www.w3schools.com/python/python_dictionaries.asp)
