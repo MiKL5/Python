@@ -14,12 +14,13 @@
 ```
     Exercices
 ```
-[Exercices 1](exercises/practice1) ······ > Afficher et calculer les nombres  
-[Exercices 2](exercises/practice2) ······ > Chaînes de caractères, variable et saisi de données par l'utilisateur  
-[Exercices 3](exercises/practice3) ······ > Formatage des chaînes de caractères et traitement des entrèes utilisateur  
-[Exercices 4](exercises/practice4) ······ > Bases des collection : liste et tuples  
-[Exercices 5](exercises/practice5) ······ > Conditions et booléens  
-[Exercices 6](exercises/practice6) ······ > Boucles FOR  
+[Exercice 1](exercises/practice1) ······· > Afficher et calculer les nombres  
+[Exercice 2](exercises/practice2) ······· > Chaînes de caractères, variable et saisi de données par l'utilisateur  
+[Exercice 3](exercises/practice3) ······· > Formatage des chaînes de caractères et traitement des entrèes utilisateur  
+[Exercice 4](exercises/practice4) ······· > Bases des collection : liste et tuples  
+[Exercice 5](exercises/practice5) ······· > Conditions et booléens  
+[Exercice 6](exercises/practice6) ······· > Boucles FOR  
 [Exercices 7](exercises/practice7) ······ > Split, join, slices et len  
 [Exercices 8](exercises/practice8) ······ > *Boucles WHILE* - **_wip_**  
-[Exercices 9](exercises/practice9) ······ > *Unpacking, énumération et fonction zip* _(soun)_  
+[Exercices 9](exercises/practice9) ······ > *Unpacking, énumération et fonction zip*  
+[Exercices 10](exercises/practice10) ······ > Dictionnaires  
