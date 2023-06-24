@@ -84,4 +84,5 @@ Cependant, si on est pas sûr qu'une clé existe sans levé d'error, il y a le m
 Ce dernier fonctionne comme une expression de souscription mais renvoi `None` sans planter le programme.
 
 >> cf. [ce lien Docstring](https://www.docstring.fr/glossaire/dictionnaire/)  
+cf. [Doc de Python](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict)  
 cf. [ce lien W3school](https://www.w3schools.com/python/python_dictionaries.asp)
