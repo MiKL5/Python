@@ -3,7 +3,7 @@
 ```
     Projet
 ```
-[Valideur de carte de crédit](creditCardValidator) _(soon)_  
+[Valideur de carte de crédit](creditCardValidator)  
 [Jeu Snake]() ······ > _(soon)_  
 ```
     Défis
