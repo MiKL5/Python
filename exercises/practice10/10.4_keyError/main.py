@@ -2,7 +2,7 @@ album = {
     "title": "The Dark Side of the Moon",
     "artist": "Pink Floyd",
     "year": 1973,
-    "tracks": [
+    "tracks": (
         "Speak to Me",
         "Breathe",
         "On the Run",
@@ -13,8 +13,8 @@ album = {
         "Any Colour You Like",
         "Brain Damage",
         "Eclipse"
-    ]
-}
+        )
+    }
 
 del album["year"]
 album.update({"Release date": "1er mars 1973"})
@@ -25,3 +25,4 @@ for key, value in album.items():
 
 # print(album("year")) # affiche la keyError
 print(album.get("year")) # affiche none dans le terminal
+print(album.get("year", "unknow")) # affiche unknow qui est une valeur par défaut dans le terminal

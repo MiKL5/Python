@@ -4,7 +4,7 @@ album = {
     "title": "The Dark Side of the Moon",
     "artist": "Pink Floyd",
     "year": 1973,
-    "tracks": [
+    "tracks": (
         "Speak to Me",
         "Breathe",
         "On the Run",
@@ -15,7 +15,7 @@ album = {
         "Any Colour You Like",
         "Brain Damage",
         "Eclipse"
-    ]
-}
+        )
+    }
 
 # 4) Essayez de récupérer l’une des valeurs que vous avez supprimées du dictionnaire. Cela devrait vous donner une KeyError. Une fois que vous avez essayé, répétez l’étape en utilisant la méthode get pour éviter que l’exception ne soit levée.
