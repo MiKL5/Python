@@ -6,7 +6,7 @@ reading_list = []
 menu_prompt = """Veuillez saisir l'une des options suivantes :
 - 'a' pour ajouter un livre
 - 'd' pour lister les livres
-- q' pour quitter
+- 'q' pour quitter
 Que voulez-vous faire ? """
 
 selected_option = input(menu_prompt).strip().lower()
@@ -33,14 +33,13 @@ def show_books():
 while selected_option != "q":
     if selected_option == "a":
         add_book()
-        print("Ajout...")
+        print("Ajouté...")
     elif selected_option == "d":
         if reading_list:
             show_books()
         else:
             print("La liste de lecture est vide.")
-        print("Affichage...")
-        show_books()
+        print("Fin de la liste")
     else:
         print(f"Désolé, '{selected_option}' n'est pas une option valide.")
 

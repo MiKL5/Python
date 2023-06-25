@@ -6,3 +6,5 @@ Pour ce projet, l’application doit avoir les fonctionnalités suivantes :
 * Les utilisateurs doivent pouvoir sélectionner ces options à partir d’un menu texte et effectuer plusieurs opérations sans redémarrer le programme. 
 
 Il est important de noter que, comme les livres de la liste de lecture sont stockés dans une liste Python, les données de la liste de lecture seront perdues à la fin du programme.
+
+![screenshot](../src\screenshots\readinList.png)
