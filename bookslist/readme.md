@@ -7,4 +7,4 @@ Pour ce projet, l’application doit avoir les fonctionnalités suivantes :
 
 Il est important de noter que, comme les livres de la liste de lecture sont stockés dans une liste Python, les données de la liste de lecture seront perdues à la fin du programme.
 
-![screenshot](../src\screenshots\readinList.png)
+![screenshot](../src/screenshots/readinList.png)
