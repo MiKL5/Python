@@ -12,6 +12,7 @@
 [Budgets des films](filmBudgets "Troisième defi : Budget des films")    
 [Valideur de carte de crédit](creditCardValidator)  
 [Liste de lecture](bookslist)  
+[Liste de lecture dans un fichier CSV](booklist2 "Liste de lecture dans un fichier (Comma Separated Values [valeurs séparées par des virgules])")  
 ```
     Exercices
 ```
