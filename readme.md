@@ -12,11 +12,10 @@
 [Budgets des films](filmBudgets "Troisième defi : Budget des films")    
 [Valideur de carte de crédit](creditCardValidator)  
 [Liste de lecture](bookslist)  
-[Liste de lecture dans un fichier CSV](booklist2 "Liste de lecture dans un fichier (Comma Separated Values [valeurs séparées par des virgules])")  
+[Liste de lecture dans un fichier CSV](booklist2 "Liste de lecture sauvegardée dans un fichier CSV (Comma Separated Values [valeurs séparées par des virgules] )")  
 ```
     Exercices
 ```
-
 [Exercice 1](exercises/practice1) ········ > Afficher et calculer les nombres  
 [Exercice 2](exercises/practice2) ········ > Chaînes de caractères, variable et saisi de données par l'utilisateur  
 [Exercice 3](exercises/practice3) ········ > Formatage des chaînes de caractères et traitement des entrèes utilisateur  
@@ -24,11 +23,12 @@
 [Exercice 5](exercises/practice5) ········ > Conditions et booléens  
 [Exercice 6](exercises/practice6) ········ > Boucles FOR  
 [Exercices 7](exercises/practice7) ······ > Split, join, slices et len  
-[Exercices 8](exercises/practice8) ······ > *Boucles WHILE*  
-[Exercices 9](exercises/practice9) ······ > *Unpacking, énumération et fonction zip*  
+[Exercices 8](exercises/practice8) ······ > Boucles WHILE  
+[Exercices 9](exercises/practice9) ······ > Unpacking, énumération et fonction zip  
 [Exercices 10](exercises/practice10) ···· > Dictionnaires  
 [Exercices 11](exercises/practice11) ···· > Sets  
 [Exercices 12](exercises/practice12) ···· > Fonctions  
 [Exercices 13](exercises/practice13) ···· > Scope et valeurs retournées par des fonctions  
 [Exercices 14](exercises/practice14) ···· > Travailler avec des fichiers  
 [Exercices 15](exercises/practice15) ···· > Les comphréhensions  
+[Exercices 16](exercises/practice16) ···· > Fonctions de prmières classes et expressions ordinaires  
