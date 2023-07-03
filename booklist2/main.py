@@ -24,6 +24,7 @@ def find_books():
     for book in reading_list:
         if search_term in book["title"].lower():
             matching_books.append(book)
+    return matching_books
 
 # Fonction d'aide pour récupérer les données du fichier csv
 def get_all_books():
@@ -75,7 +76,7 @@ while selected_option != "q" :
         if matching_books:
             show_books(matching_books)
         else:
-            print("Désolé, aucun livre pour ce terme de recherche.")
+            print("Désolé, il n'y aaucun livre à ce terme de recherche.")
     else:
         print(f"Désolé, '{selected_option}' n'est pas une option valide.")
     # Permettre à l'utilisateur de modifier sa sélection à la fin de chaque itération
