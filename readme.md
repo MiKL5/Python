@@ -11,6 +11,7 @@
 [Fizz Buzz](FizzBuzz "Fizz Buzz")   
 [Budgets des films](filmBudgets "Troisième defi : Budget des films")    
 [Valideur de carte de crédit](creditCardValidator "Validateur de carte de crédit")  
+[Calculatrice avec opérations multiples](calculator "Calculatrice avec opérations multiples")  
 [Liste de lecture](bookslist "Liste de lecture très simple")  
 [Liste de lecture dans un fichier CSV](booklist2 "Liste de lecture sauvegardée dans un fichier CSV (Comma Separated Values [valeurs séparées par des virgules] )")  
 ```
