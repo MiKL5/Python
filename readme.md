@@ -5,7 +5,7 @@
 ```
 [Jeu Snake]() - _(soon)_  
 ```
-    Défis
+    Mini-projets
 ```
 [Calculateur de revenus](miniProjet "Calculateur simple de revenus")  
 [Fizz Buzz](FizzBuzz "Fizz Buzz")   
@@ -14,6 +14,7 @@
 [Calculatrice avec opérations multiples](calculator "Calculatrice avec opérations multiples")  
 [Liste de lecture](bookslist "Liste de lecture très simple")  
 [Liste de lecture dans un fichier CSV](booklist2 "Liste de lecture sauvegardée dans un fichier CSV (Comma Separated Values [valeurs séparées par des virgules] )")  
+[Bot Discord](DocBot)
 ```
     Exercices
 ```
@@ -23,7 +24,7 @@
 [Exercices 4](exercises/practice4) ······ > Bases des collection : liste et tuples  
 [Exercices 5](exercises/practice5) ······ > Conditions et booléens  
 [Exercices 6](exercises/practice6) ······ > Boucles for  
-[Exercices 7](exercises/practice7) ······ > `Split`, `join`, `slices` et `len`  
+[Exercices 7](exercises/practice7) ······ > `split`, `join`, `slices` et `len`  
 [Exercices 8](exercises/practice8) ······ > Boucles while  
 [Exercices 9](exercises/practice9) ······ > Unpacking, énumération et fonction zip  
 [Exercices 10](exercises/practice10) ···· > Dictionnaires  
