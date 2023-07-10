@@ -71,3 +71,9 @@ src/._screenshots
 ._miniProjet
 ._readme.md
 ._src
+DocBot/.env/config
+DocBot/.idea/.gitignore
+DocBot/.idea/DocBot.iml
+DocBot/.idea/misc.xml
+DocBot/.idea/modules.xml
+DocBot/.idea/inspectionProfiles/profiles_settings.xml
