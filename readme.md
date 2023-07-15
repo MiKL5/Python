@@ -35,3 +35,4 @@
 [Exercices 15](exercises/practice15) ···· > Les comphréhensions  
 [Exercices 16](exercises/practice16) ···· > Fonctions de prmières classes et expressions lambda  
 [Exercices 17](exercises/practice17) ···· > Fonctions flexibles avec `*args` et `**kwargs`  
+[Exercices 18](exercises/practice18) ···· > Les importations  
