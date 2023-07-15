@@ -14,7 +14,8 @@
 [Calculatrice avec opérations multiples](calculator "Calculatrice avec opérations multiples")  
 [Liste de lecture](bookslist "Liste de lecture très simple")  
 [Liste de lecture dans un fichier CSV](booklist2 "Liste de lecture sauvegardée dans un fichier CSV (Comma Separated Values [valeurs séparées par des virgules] )")  
-[Bot Discord](DocBot)
+[Bot Discord](DocBot)  
+[Liste de lecture JSON](jsonList)  
 ```
     Exercices
 ```
