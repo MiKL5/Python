@@ -38,4 +38,5 @@
 [Exercices 17](exercises/practice17) ···· > Fonctions flexibles avec `*args` et `**kwargs`  
 [Exercices 18](exercises/practice18) ···· > Les importations  
 [Exercices 19](exercises/practice19) ···· > La gestion des exceptions  
-[Exercices 20](exercises/practice20) ···· > La fonction `map`, `filter` et les compréhensions conditionnelles
+[Exercices 20](exercises/practice20) ···· > Les fonctions `map`, `filter` et les compréhensions conditionnelles
+[Exercices 21](exercises/practice21) ···· > Diviser le code dans plusieurs fichiers
