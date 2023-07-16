@@ -15,7 +15,7 @@
 [Liste de lecture](bookslist "Liste de lecture très simple")  
 [Liste de lecture dans un fichier CSV](booklist2 "Liste de lecture sauvegardée dans un fichier CSV (Comma Separated Values [valeurs séparées par des virgules] )")  
 [Bot Discord](DocBot)  
-[Liste de lecture JSON](jsonList)  
+[Liste de lecture JSON](jsonList "Liste de lecture dans un fichier JSON")  
 ```
     Exercices
 ```
@@ -38,3 +38,4 @@
 [Exercices 17](exercises/practice17) ···· > Fonctions flexibles avec `*args` et `**kwargs`  
 [Exercices 18](exercises/practice18) ···· > Les importations  
 [Exercices 19](exercises/practice19) ···· > La gestion des exceptions  
+[Exercices 20](exercises/practice20) ···· > La fonction `map`, `filter` et les compréhensions conditionnelles
