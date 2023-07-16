@@ -76,7 +76,7 @@ Nonobstant, nous n'avons pas toujours besoin de la clause `else`.
 
 Utilisez votre jugement. Pour des exemples très simples, cela peut être exagéré, comme dans cet exemple :
 
-## **La clause finally**
+## **La clause `finally`**
 
 La clause `finally` aussi facultative, car sa présence est déterminée par les besoins.  
 La clause `finally` est importante pour les instructins `try`. `Finally` est très spèciale car elle s'exécute toujours.  
