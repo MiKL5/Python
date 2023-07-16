@@ -2,7 +2,8 @@
 
 _**Les compréhensions sont des fonctions comme des boucles for ordinaires**._
 
-On utilise une comprehension pour créer une nouvelle collection à partir d’un autre itérable. Cependant, il y a des cas où on veut créer une nouvelle collection et où une compréhension n’est pas nécessaire. La compréhension est utilisée que lorsque l'on veut changer quelque chose concernant les valeurs lorsque nous créons cette nouvelle collection.
+On utilise une comprehension pour créer une nouvelle collection à partir d’un autre itérable. Cependant, il y a des cas où on veut créer une nouvelle collection et où une compréhension n’est pas nécessaire. La compréhension est utilisée que lorsque l'on veut changer quelque chose concernant les valeurs lorsque nous créons cette nouvelle collection.  
+On puet considérer les comprehensions comme un moyen d’exécuter une action pour chaque élément d’un itérable, puis de stocker les résultats.
 
 ## **La compréhension de liste**
 
