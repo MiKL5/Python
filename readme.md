@@ -16,6 +16,7 @@
 [Liste de lecture dans un fichier CSV](booklist2 "Liste de lecture sauvegardée dans un fichier CSV (Comma Separated Values [valeurs séparées par des virgules] )")  
 [Bot Discord](DocBot)  
 [Liste de lecture JSON](jsonList "Liste de lecture dans un fichier JSON")  
+[Tracer des graphiques]() _(soon)_
 ```
     Exercices
 ```
