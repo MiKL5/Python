@@ -1,4 +1,4 @@
-# Python <img align="right" src="src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px">
+# **Python** <img align="right" src="src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px">
 
 ```
     Projet
@@ -9,14 +9,17 @@
 ```
 [Calculateur de revenus](miniProjet "Calculateur simple de revenus")  
 [Fizz Buzz](FizzBuzz "Fizz Buzz")   
-[Budgets des films](filmBudgets "Troisième defi : Budget des films")    
+[Budgets des films](filmBudgets "Troisième defi : Budget des films")  
+[Nombre premier](nombrePremier "Nombre premier")  
 [Valideur de carte de crédit](creditCardValidator "Validateur de carte de crédit")  
 [Calculatrice avec opérations multiples](calculator "Calculatrice avec opérations multiples")  
+[Conversion d'entier et de binaire](integerBinaryConversion "Conversion de binaire en entier et vice versa")  
+[Calcul d'addresse et de masque réseau](networkAdressMask "Conversion de binaire en entier et vice versa")  
 [Liste de lecture](bookslist "Liste de lecture très simple")  
 [Liste de lecture dans un fichier CSV](booklist2 "Liste de lecture sauvegardée dans un fichier CSV (Comma Separated Values [valeurs séparées par des virgules] )")  
-[Bot Discord](DocBot)  
+[Bot Discord](DocBot "Bot très basique")  
 [Liste de lecture JSON](jsonList "Liste de lecture dans un fichier JSON")  
-[Tracer des graphiques]() _(soon)_
+[Tracer des graphiques]() _(soon)_  
 ```
     Exercices
 ```
