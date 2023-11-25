@@ -10,7 +10,7 @@
 [Calculateur de revenus](miniProjet "Calculateur simple de revenus")  
 [Fizz Buzz](FizzBuzz "Fizz Buzz")   
 [Budgets des films](filmBudgets "Troisième defi : Budget des films")  
-[Nombre premier](nombrePremier "Nombre premier")  
+[Nombre premier](primeNomber "Nombre premier")  
 [Valideur de carte de crédit](creditCardValidator "Validateur de carte de crédit")  
 [Calculatrice avec opérations multiples](calculator "Calculatrice avec opérations multiples")  
 [Conversion d'entier et de binaire](integerBinaryConversion "Conversion de binaire en entier et vice versa")  
