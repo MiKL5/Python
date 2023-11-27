@@ -1,18 +1,30 @@
 class Personnage :
     # Constructeur
     def __init__(self, nom) :
-        self.nom = nom
-        self.vie = 5
+        self._nom = nom # Les propriétés précédés d'un underscore ne sont pas directement accessibles, c'est une protection illusoir, mais ça permet de garder un code propre
+        self._vie = 5
     # Augmentation de vie
     def augmanterVie(self, vieEnPlus = 1) : # s'il n'y a pas `=1`, alors 1 en plus par défaut
-        self.vie += vieEnPlus
+        self._vie += vieEnPlus
     # Diminution de vie en évitant d'être inférieur à 0
     def diminueVie(self, vieEnMoins = 1) :
-        self.vie = max(0, self.vie - vieEnMoins)
+        self._vie = max(0, self._vie - vieEnMoins)
     # Attaqque un personnage
     def attaque(self, unPersonnage) :
         unPersonnage.diminueVie(2) # Pas de chiffre en () si diminueVie était initialisé à 2, ici, je met 2
         self.augmanterVie()
+    # Getter et setter sur le nom
+    def _getNom(self):
+        return self._nom
+    def _setNom(self,nom):
+        self._nom = nom
+    # Getter sur la vie
+    def _getVie(self):
+        return self._vie
+    # Affectation des getters et setters
+    nom = property(_getNom, _setNom)
+    vie= property(_getVie)
+
 
 # Code principal
 # liste de personnage
