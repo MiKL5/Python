@@ -1,9 +1,9 @@
 # **Python** <img align="right" src="src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px">
 
-```
+<!--```
     Projet
 ```
-[Jeu Snake]() - _(soon)_  
+[Jeu Snake]() - _(soon)_  -->
 ```
     Mini-projets
 ```
@@ -20,9 +20,8 @@
 [Liste des 50 premiers nombre premier](miniProjets/listPrimeNumber "Liste des 50 premiers nombre premier")  
 [Liste de lecture dans un fichier CSV](miniProjets/booklist2 "Liste de lecture sauvegardée dans un fichier CSV (Comma Separated Values [valeurs séparées par des virgules] )")  
 [Dictionnaire de villes](miniProjets/dictionaryOfCities "Dictionnaire de ville")  
-[Gestion de personnages](miniProjets/characterManagement "Gestion de personnage")  
-[Bot Discord](miniProjets/DocBot "Bot très basique")  
 [Liste de lecture JSON](miniProjets/jsonList "Liste de lecture dans un fichier JSON")  
+[Gestion de personnages](miniProjets/characterManagement "Gestion de personnage")  
 <!-- [Tracer des graphiques](drawGraphs) _(soon)_   -->
 ```
     Exercices
@@ -47,4 +46,4 @@
 [Exercices 18](exercises/practice18) ···· > Les importations  
 [Exercices 19](exercises/practice19) ···· > La gestion des exceptions  
 [Exercices 20](exercises/practice20) ···· > Les fonctions `map`, `filter` et les compréhensions conditionnelles  
-[Exercices 21](exercises/practice21) ···· > Diviser le code dans plusieurs fichiers
+[Exercices 21](exercises/practice21) ····· > Diviser le code dans plusieurs fichiers
