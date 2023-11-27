@@ -15,11 +15,15 @@
 [Calculatrice avec opérations multiples](calculator "Calculatrice avec opérations multiples")  
 [Conversion d'entier et de binaire](integerBinaryConversion "Conversion de binaire en entier et vice versa")  
 [Calcul d'addresse et de masque réseau](networkAdressMask "Conversion de binaire en entier et vice versa")  
+[L'année de naissance](ageAndYearOfBirth "Saisir l'âge et afficher l'annèe de naissance")  
 [Liste de lecture](bookslist "Liste de lecture très simple")  
+[Liste des 50 premiers nombre premier](listPrimeNumber "Liste des 50 premiers nombre premier")  
 [Liste de lecture dans un fichier CSV](booklist2 "Liste de lecture sauvegardée dans un fichier CSV (Comma Separated Values [valeurs séparées par des virgules] )")  
+[Dictionnaire de villes](dictionaryOfCities "Dictionnaire de ville")  
+[Gestion de personnages](characterManagement "Gestion de personnage")  
 [Bot Discord](DocBot "Bot très basique")  
 [Liste de lecture JSON](jsonList "Liste de lecture dans un fichier JSON")  
-[Tracer des graphiques]() _(soon)_  
+<!-- [Tracer des graphiques](drawGraphs) _(soon)_   -->
 ```
     Exercices
 ```
