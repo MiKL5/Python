@@ -84,3 +84,16 @@ jsonList/.idea/misc.xml
 jsonList/.idea/modules.xml
 jsonList/.idea/vcs.xml
 jsonList/.idea/workspace.xml
+dictionaryOfCities/.idea/.gitignore
+dictionaryOfCities/.idea/dictionaryOfCities.iml
+dictionaryOfCities/.idea/misc.xml
+dictionaryOfCities/.idea/modules.xml
+dictionaryOfCities/.idea/vcs.xml
+dictionaryOfCities/.idea/inspectionProfiles/profiles_settings.xml
+networkAdressMask/__pycache__/conversion.cpython-311.pyc
+characterManagement/.idea/.gitignore
+characterManagement/.idea/characterManagement.iml
+characterManagement/.idea/misc.xml
+characterManagement/.idea/modules.xml
+characterManagement/.idea/vcs.xml
+characterManagement/.idea/inspectionProfiles/profiles_settings.xml
