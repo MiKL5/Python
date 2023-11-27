@@ -7,22 +7,22 @@
 ```
     Mini-projets
 ```
-[Calculateur de revenus](miniProjet "Calculateur simple de revenus")  
-[Fizz Buzz](FizzBuzz "Fizz Buzz")   
-[Budgets des films](filmBudgets "Troisième defi : Budget des films")  
-[Nombre premier](primeNomber "Nombre premier")  
-[Valideur de carte de crédit](creditCardValidator "Validateur de carte de crédit")  
-[Calculatrice avec opérations multiples](calculator "Calculatrice avec opérations multiples")  
-[Conversion d'entier et de binaire](integerBinaryConversion "Conversion de binaire en entier et vice versa")  
-[Calcul d'addresse et de masque réseau](networkAdressMask "Conversion de binaire en entier et vice versa")  
-[L'année de naissance](ageAndYearOfBirth "Saisir l'âge et afficher l'annèe de naissance")  
-[Liste de lecture](bookslist "Liste de lecture très simple")  
-[Liste des 50 premiers nombre premier](listPrimeNumber "Liste des 50 premiers nombre premier")  
-[Liste de lecture dans un fichier CSV](booklist2 "Liste de lecture sauvegardée dans un fichier CSV (Comma Separated Values [valeurs séparées par des virgules] )")  
-[Dictionnaire de villes](dictionaryOfCities "Dictionnaire de ville")  
-[Gestion de personnages](characterManagement "Gestion de personnage")  
-[Bot Discord](DocBot "Bot très basique")  
-[Liste de lecture JSON](jsonList "Liste de lecture dans un fichier JSON")  
+[Calculateur de revenus](miniProjets/weeklySalaryCalculator "Calculateur simple de revenus")  
+[Fizz Buzz](miniProjets/FizzBuzz "Fizz Buzz")   
+[Budgets des films](miniProjets/filmBudgets "Troisième defi : Budget des films")  
+[Nombre premier](miniProjets/primeNomber "Nombre premier")  
+[Valideur de carte de crédit](miniProjets/creditCardValidator "Validateur de carte de crédit")  
+[Calculatrice avec opérations multiples](miniProjets/calculator "Calculatrice avec opérations multiples")  
+[Conversion d'entier et de binaire](miniProjets/integerBinaryConversion "Conversion de binaire en entier et vice versa")  
+[Calcul d'addresse et de masque réseau](miniProjets/networkAdressMask "Conversion de binaire en entier et vice versa")  
+[L'année de naissance](miniProjets/ageAndYearOfBirth "Saisir l'âge et afficher l'annèe de naissance")  
+[Liste de lecture](miniProjets/bookslist "Liste de lecture très simple")  
+[Liste des 50 premiers nombre premier](miniProjets/listPrimeNumber "Liste des 50 premiers nombre premier")  
+[Liste de lecture dans un fichier CSV](miniProjets/booklist2 "Liste de lecture sauvegardée dans un fichier CSV (Comma Separated Values [valeurs séparées par des virgules] )")  
+[Dictionnaire de villes](miniProjets/dictionaryOfCities "Dictionnaire de ville")  
+[Gestion de personnages](miniProjets/characterManagement "Gestion de personnage")  
+[Bot Discord](miniProjets/DocBot "Bot très basique")  
+[Liste de lecture JSON](miniProjets/jsonList "Liste de lecture dans un fichier JSON")  
 <!-- [Tracer des graphiques](drawGraphs) _(soon)_   -->
 ```
     Exercices
