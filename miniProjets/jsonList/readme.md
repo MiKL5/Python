@@ -1,4 +1,4 @@
-# **Liste des livres en JSON**
+# **Liste des livres en JSON** <img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px">
 
 Le programme doit permettre : 
 * d'ajouter un livre ;
@@ -10,4 +10,4 @@ Le programme doit permettre :
 
 La lsite est dans un fichier JSON.
 
-![capture](../src/screenshots/jsonList.png)
+![capture](../../src/screenshots/jsonList.png)

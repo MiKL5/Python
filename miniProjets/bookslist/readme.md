@@ -1,3 +1,5 @@
+# **Liste de livres** <img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px">
+
 Pour ce projet, l’application doit avoir les fonctionnalités suivantes :
 
 * Les utilisateurs doivent pouvoir ajouter un livre à leur liste de lecture en fournissant un titre de livre, un nom d’auteur et une année de publication.
@@ -7,4 +9,4 @@ Pour ce projet, l’application doit avoir les fonctionnalités suivantes :
 
 Il est important de noter que, comme les livres de la liste de lecture sont stockés dans une liste Python, les données de la liste de lecture seront perdues à la fin du programme.
 
-![screenshot](../src/screenshots/readinList.png)
+![screenshot](../../src/screenshots/readinList.png)

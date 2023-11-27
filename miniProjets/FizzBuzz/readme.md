@@ -1,4 +1,4 @@
-# Projet Fizz Buzz <img align="right" src="../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px">
+# Projet Fizz Buzz <img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px">
 
 
 Chaque jouur commance par dire le chiffre 1.  

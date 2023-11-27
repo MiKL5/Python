@@ -1,4 +1,4 @@
-# **Calculatrice à opérations multiples**
+# **Calculatrice à opérations multiples** <img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px">
 
 L'opération devra avoir la forme suivante : `nombre` `opérateur` `nombre`.
 
@@ -22,4 +22,4 @@ Si l'opération est invalide, le programme demande à l'utilisateur de rentrer d
 
 Une fois que l'opération rentrée par l'utilisateur est validée, vous devez afficher le résultat de l'opération :
 
-![Calculatrice](../src/screenshots/calculator.png)
+![Calculatrice](../../src/screenshots/calculator.png)
