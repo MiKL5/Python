@@ -1,4 +1,4 @@
-# **Les 50 premiers nombre premiers** <img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px">
+# **Les 50 premiers nombres premiers** <img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px">
 
 
 Écrire une liste permettant de trouver et d’afficher les 50 premiers nombres premiers.  
