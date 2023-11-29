@@ -64,7 +64,7 @@ while choix != "Q" and choix != 'q' :
     if choix == "1" :
         nom = input("        Saisissez le nom                 : ")
         type = input("        Est-il mortel (M) ou immortel (I) ? ")
-        if type == "I" :
+        if type == "I" or type == "i" :
             pouvoir = input("        Son pouvoir est                  : ")
             nouveau = Immortel(nom, pouvoir)
         else :
