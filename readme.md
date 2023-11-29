@@ -3,7 +3,7 @@
 <!--```
     Projet
 ```
-[Jeu Snake]() - _(soon)_  -->
+[Jeu Snake](projects/snake) - _(soon)_  -->
 ```
     Mini-projets
 ```
@@ -18,11 +18,10 @@
 [L'année de naissance](miniProjets/ageAndYearOfBirth "Saisir l'âge et afficher l'annèe de naissance")  
 [Liste de lecture](miniProjets/bookslist "Liste de lecture très simple")  
 [Liste des 50 premiers nombre premier](miniProjets/listPrimeNumber "Liste des 50 premiers nombre premier")  
-[Liste de lecture dans un fichier CSV](miniProjets/booklist2 "Liste de lecture sauvegardée dans un fichier CSV (Comma Separated Values [valeurs séparées par des virgules] )")  
+[Liste de lecture dans un fichier CSV](miniProjets/booklist2 "Liste de lecture sauvegardée dans un fichier CSV (Comma Separated Values [valeurs séparées par des virgules])")  
 [Dictionnaire de villes](miniProjets/dictionaryOfCities "Dictionnaire de ville")  
-[Liste de lecture JSON](miniProjets/jsonList "Liste de lecture dans un fichier JSON")  
 [Gestion de personnages](miniProjets/characterManagement "Gestion de personnage")  
-<!-- [Tracer des graphiques](drawGraphs) _(soon)_   -->
+[Tracer des graphiques](drawGraphs "Tracer un graphique")   
 ```
     Exercices
 ```
@@ -46,4 +45,5 @@
 [Exercices 18](exercises/practice18) ···· > Les importations  
 [Exercices 19](exercises/practice19) ···· > La gestion des exceptions  
 [Exercices 20](exercises/practice20) ···· > Les fonctions `map`, `filter` et les compréhensions conditionnelles  
-[Exercices 21](exercises/practice21) ····· > Diviser le code dans plusieurs fichiers
+[Exercices 21](exercises/practice21) ···· > Diviser le code dans plusieurs fichiers  
+[Exercices 22](exercises/practice22) ···· > Les itérations
