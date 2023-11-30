@@ -1,6 +1,6 @@
 # **Python** <img align="right" src="src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px">
 
-<!--```
+<!-- ```
     Projet
 ```
 [Jeu Snake](projects/snake) - _(soon)_  -->
@@ -46,4 +46,4 @@
 [Exercices 19](exercises/practice19) ···· > La gestion des exceptions  
 [Exercices 20](exercises/practice20) ···· > Les fonctions `map`, `filter` et les compréhensions conditionnelles  
 [Exercices 21](exercises/practice21) ···· > Diviser le code dans plusieurs fichiers  
-[Exercices 22](exercises/practice22) ···· > Les itérations
+[Exercices 22](exercises/practice22) ···· > Les itérateurs
