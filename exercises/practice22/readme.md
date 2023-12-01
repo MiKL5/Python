@@ -41,3 +41,25 @@ Tous les itérateurs ne récupèrent pas les valeurs d’un autre itérable. De 
 Il existe de nombreux exemples de ce type d’itérateurs dans le module [itertools](https://docs.python.org/3.12/library/itertools.html?highlight=itertools#module-itertools).
 
 Cela fonctionne parce que les itérateurs sont des itérables (ce qui signifie que nous pouvons itérer sur eux pour obtenir les valeurs que l'on veut), et les itérateurs sont capables de nous fournir des valeurs sans l’aide d’un autre itérateur. Il suffit qu’un itérateur ait un moyen de générer des valeurs en interne, plutôt que de nous fournir un moyen d’accéder à des valeurs définies ailleurs.
+
+## Propriétés importantes des itérateurs
+
+Ils possèdent plusieurs propriétés utiles et importantes.  
+
+Tout d’abord, la plupart des itérateurs sont de type “paresseux”, notamment ceux définis dans la bibliothèque standard. Cela signifie qu’ils ne prennent pas la peine de calculer toutes leurs valeurs à l’avance, comme les objets range.
+
+Cela est considérablement avantageux pour la mémoire, car seule la valeur la plus récente est conservée. Une fois que nous avons fini de l’utiliser, nous pouvons la jeter, libérant ainsi potentiellement cette mémoire.
+
+Il y a également des économies potentielles en calculs, car, il se peut que l'on est pas besoin de toutes les valeurs qu’un itérateur peut fournir. Si seules les trois premières valeurs nous intéressent, il n’est pas nécessaire de déterminer quelles sont les 200 suivantes.
+
+Mais pour cela, il faut faire des compromis.
+
+Tout d’abord, il est souvent impossible de déterminer la longueur d’un type paresseux, car le nombre d’éléments qu’il contient peut n’apparaître qu’après le calcul de ces valeurs. 
+
+### Les valeurs de l’itérateur sont consommées
+
+Il est très important de garder ceci à l’esprit, car il s’agit d’un “piège” commun qui fait généralemment trébucher les nouveaux développeurs Python.
+
+### Les modifications apportées aux collections mutables peuvent affecter un itérateur
+
+C’est un autre effet secondaire assez logique de la paresse. L'itérateur se contente de référencer celle que nous avons déjà en mémoire.
