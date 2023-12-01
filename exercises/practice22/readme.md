@@ -38,7 +38,6 @@ ___
 
 Important
 Tous les itérateurs ne récupèrent pas les valeurs d’un autre itérable. De nombreux itérateurs génèrent spontanément des valeurs pour nous à la place.
-Il existe de nombreux exemples de ce type d’itérateurs dans le module [itertools](https://docs.python.org/3.12/library/itertools.html?highlight=itertools#module-itertools).
 
 Cela fonctionne parce que les itérateurs sont des itérables (ce qui signifie que nous pouvons itérer sur eux pour obtenir les valeurs que l'on veut), et les itérateurs sont capables de nous fournir des valeurs sans l’aide d’un autre itérateur. Il suffit qu’un itérateur ait un moyen de générer des valeurs en interne, plutôt que de nous fournir un moyen d’accéder à des valeurs définies ailleurs.
 
@@ -58,7 +57,7 @@ Tout d’abord, il est souvent impossible de déterminer la longueur d’un type
 
 ### Les valeurs de l’itérateur sont consommées
 
-Il est très important de garder ceci à l’esprit, car il s’agit d’un “piège” commun qui fait généralemment trébucher les nouveaux développeurs Python.
+Il est très important de garder ceci à l’esprit, car il s’agit d’un “piège” commun dans lequel tonmbent généralemment les nouveaux développeurs Python.
 
 ### Les modifications apportées aux collections mutables peuvent affecter un itérateur
 
