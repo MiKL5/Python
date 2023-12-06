@@ -11,7 +11,7 @@
 [Fizz Buzz](miniProjets/FizzBuzz "Fizz Buzz")   
 [Budgets des films](miniProjets/filmBudgets "Troisième defi : Budget des films")  
 [Nombre premier](miniProjets/primeNomber "Nombre premier")  
-[Valideur de carte de crédit](miniProjets/creditCardValidator "Validateur de carte de crédit")  
+[Validateur de carte de crédit](miniProjets/creditCardValidator "Validateur de carte de crédit")  
 [Calculatrice avec opérations multiples](miniProjets/calculator "Calculatrice avec opérations multiples")  
 [Conversion d'entier et de binaire](miniProjets/integerBinaryConversion "Conversion de binaire en entier et vice versa")  
 [Calcul d'addresse et de masque réseau](miniProjets/networkAdressMask "Conversion de binaire en entier et vice versa")  
@@ -21,13 +21,16 @@
 [Les 50 premiers nombres premier](miniProjets/ListPrimeNumber "Liste des 50 premiers nombres premier")  
 [Dictionnaire de villes](miniProjets/dictionaryOfCities "Dictionnaire de ville")  
 [Gestion de personnages](miniProjets/characterManagement "Gestion de personnage")  
-[Tracer des graphiques](drawGraphs "Tracer un graphique")   
+<!-- [Tracer des graphiques](drawGraphs "Tracer un graphique")    -->
+<!-- [Lancer les dés](rollTheDices "Lancer les dés")    -->
+<!-- [Avocats](lawyers "Avocats")    -->
+<!-- [Web Scraping](webScraping "Web Scraping")    -->
 ```
     Exercices
 ```
 [Exercices 1](exercises/practice1) ······ > Afficher et calculer les nombres  
 [Exercices 2](exercises/practice2) ······ > Chaînes de caractères, variable et saisi de données par l'utilisateur  
-[Exercices 3](exercises/practice3) ······ > Formatage des chaînes de caractères et traitement des entrèes utilisateur  
+[Exercices 3](exercises/practice3) ······ > Formatage des chaînes de caractères et traitement des entrées utilisateur  
 [Exercices 4](exercises/practice4) ······ > Bases des collections : liste et tuples  
 [Exercices 5](exercises/practice5) ······ > Conditions et booléens  
 [Exercices 6](exercises/practice6) ······ > Boucles for  
@@ -46,5 +49,12 @@
 [Exercices 19](exercises/practice19) ···· > La gestion des exceptions  
 [Exercices 20](exercises/practice20) ···· > Les fonctions `map`, `filter` et les compréhensions conditionnelles  
 [Exercices 21](exercises/practice21) ···· > Diviser le code dans plusieurs fichiers  
-[Exercices 22](exercises/practice22) ···· > Les itérateurs
-<!-- [Exercices 22](exercises/practice22) ···· > Les générateurs et expressions génératrices -->
+[Exercices 22](exercises/practice22) ···· > Les itérateurs  
+[Exercices 23](exercises/practice23) ···· > Les générateurs et expressions génératrices  
+<!-- [Exercices 24](exercises/practice24) ···· > La gestion avancée des exceptions et levée des exceptions   -->
+<!-- [Exercices 25](exercises/practice25) ···· > L'écriture de Python idiomatique   -->
+<!-- [Exercices 26](exercises/practice26) ···· > Tirer parti de la bibliothèque standard   -->
+<!-- [Exercices 27](exercises/practice27) ···· > La mise en place d'un environnement de développement local   -->
+<!-- [Exercices 28](exercises/practice28) ···· > L'identification de type   -->
+<!-- [Exercices 29](exercises/practice29) ···· > Les décorateurs   -->
+<!-- [Exercices 30](exercises/practice30) ···· > Les bases de pygame   -->
