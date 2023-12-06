@@ -9,7 +9,7 @@ def gen_primes(limit):
             yield dividend
 
 
-primes = gen_primes(100) # Limite à 100
+primes = gen_primes(101) # Limite à 100
 
 for num in primes:
     print(num)
