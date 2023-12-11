@@ -51,7 +51,7 @@
 [Exercices 21](exercises/practice21) ···· > Diviser le code dans plusieurs fichiers  
 [Exercices 22](exercises/practice22) ···· > Les itérateurs  
 [Exercices 23](exercises/practice23) ···· > Les générateurs et expressions génératrices  
-<!-- [Exercices 24](exercises/practice24) ···· > La gestion avancée des exceptions et levée des exceptions   -->
+[Exercices 24](exercises/practice24) ···· > Gestion avancée des exceptions et levée des exceptions  
 <!-- [Exercices 25](exercises/practice25) ···· > L'écriture de Python idiomatique   -->
 <!-- [Exercices 26](exercises/practice26) ···· > Tirer parti de la bibliothèque standard   -->
 <!-- [Exercices 27](exercises/practice27) ···· > La mise en place d'un environnement de développement local   -->
