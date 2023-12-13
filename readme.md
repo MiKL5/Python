@@ -1,4 +1,4 @@
-# **Python** <img align="right" src="src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px">
+# **Python** <img align="right" src="src/images/Python-logo-notext.svg" alt="Python" title="Python" widht="auto" height="64px">
 
 <!-- ```
     Projet
