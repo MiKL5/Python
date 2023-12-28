@@ -21,8 +21,8 @@
 [Les 50 premiers nombres premier](miniProjets/ListPrimeNumber "Liste des 50 premiers nombres premier")  
 [Dictionnaire de villes](miniProjets/dictionaryOfCities "Dictionnaire de ville")  
 [Gestion de personnages](miniProjets/characterManagement "Gestion de personnage")  
-<!-- [Tracer des graphiques](drawGraphs "Tracer un graphique")    -->
-<!-- [Lancer les dés](rollTheDices "Lancer les dés")    -->
+[Tracer des graphiques](drawGraphs "Tracer un graphique")   
+[Lancer les dés](rollTheDices "Lancer les dés")   
 <!-- [Avocats](lawyers "Avocats")    -->
 <!-- [Web Scraping](webScraping "Web Scraping")    -->
 ```
