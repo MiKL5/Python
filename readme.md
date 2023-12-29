@@ -22,7 +22,7 @@
 [Dictionnaire de villes](miniProjets/dictionaryOfCities "Dictionnaire de ville")  
 [Gestion de personnages](miniProjets/characterManagement "Gestion de personnage")  
 [Tracer des graphiques](miniProjets/drawGraphs "Tracer un graphique")   
-[Lancer les dés](miniProjets/rollTheDices "Lancer les dés")   
+<!-- [Lancer les dés](miniProjets/rollTheDices "Lancer les dés")    -->
 <!-- [Avocats](miniProjets/lawyers "Avocats")    -->
 <!-- [Web Scraping](miniProjets/webScraping "Web Scraping")    -->
 ```
