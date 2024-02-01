@@ -1,4 +1,4 @@
-# **Liste de livres** <img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px">
+# **Liste de livres**  <a href="../../"><img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
 
 Pour ce projet, l’application doit avoir les fonctionnalités suivantes :
 

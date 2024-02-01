@@ -1,4 +1,4 @@
-# Projet Fizz Buzz <a href="../"><img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
+# Projet Fizz Buzz <a href="../../"><img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
 
 
 Un joueur commence par dire le chiffre 1, puis chaque joueur dit à son tour le suivant.  

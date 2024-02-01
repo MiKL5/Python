@@ -1,4 +1,4 @@
-# **Tracer des graphiques** <a href="../"><img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
+# **Tracer des graphiques** <a href="../../"><img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
 
 Construire une application qui permet de créer des graphiques (ou diagrammes) pour les données sur les fleurs.  
 

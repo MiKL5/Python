@@ -1,4 +1,4 @@
-# **Calculatrice à opérations multiples** <img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px">
+# **Calculatrice à opérations multiples**  <a href="../../"><img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
 
 L'opération devra avoir la forme suivante : `nombre` `opérateur` `nombre`.
 

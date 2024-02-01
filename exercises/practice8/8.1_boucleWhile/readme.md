@@ -1,4 +1,4 @@
-# Devinette <a href="../"><img align="right" src="../../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
+# Devinette <a href="../../../"><img align="right" src="../../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
 
 * Écrire un programme de devinette avec un boucle while.
 * Le but est de deviner un chiffre ou nombre de 1 à 100.

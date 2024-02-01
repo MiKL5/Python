@@ -1,4 +1,4 @@
-# Budet des films <a href="../"><img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
+# Budet des films <a href="../../"><img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
 Consigne  
 * Calcul du budget moyen des films
 * Imprimer la quantité de film supérieur au budget moyen
