@@ -6,4 +6,4 @@ PyQt est la plus ancienne, qui a été développée par River Bank Computing en 
 
 Longtemps PyQt a eu une longueur d'avance sur PySide. Cela a récemment changer, car QT a récupéré PySide en tant que binding Python officiel. Et il fut renommé Qt for Python, par contre le module reste PySide. Qt for Python est le nom la bibliothèque.  
 Néanmoins, il y a peu de différences entre PySide et PyQt dans le code. Pour convertir un programme entier de l'un à l'autre, il suffit souvent de changer les imports.  
-La plus importante différence concerne la licence. Pour distribuer une appli commercialement sans donner accès au code source, il faut acheter une licence à River Bank Computing. Avec PySide, ce n'est pas utile. Nonobstant, pour distribuer un programme commercialement, il faut acquérir une licence de Qt. 
+La plus importante différence concerne la licence. Pour distribuer une appli commercialement sans donner accès au code source, il faut acheter une licence à River Bank Computing. Avec PySide, ce n'est pas utile. Nonobstant, pour distribuer un programme commercialement, il faut acquérir une licence de Qt.
