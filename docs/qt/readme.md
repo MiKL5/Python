@@ -1,8 +1,8 @@
-# **Le framework QT** <img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" title="Python" widht="auto" height="64px">
+# **Le framework Qt** <img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" title="Python" widht="auto" height="64px">
 
 Som se prononce 'cutty' ou 'cute".  
 C'est un framework open source créé en 1991 (plus de 30 ans) en C++. Il est multiplateforme permettant de créer des interfaces graphiques pour Windows, Max, Linux et Android avec le même code source.  
-QT dispose de nombreux widgets permettant de réaliser tous types d'applications et aussi ses propres widgets.  
+Qt dispose de nombreux widgets permettant de réaliser tous types d'applications et aussi ses propres widgets.  
 Deux nombreuses compagnies l'utilisent pour créer leurs applications de bureau.
 * VLC
 * SKype
