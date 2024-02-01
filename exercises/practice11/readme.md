@@ -1,4 +1,4 @@
-# **Les `Sets`**
+# **Les `Sets`**  <a href="../"><img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
 
 Ils sont un peu différents car ils ne sont pas ordonnés de manière fiable. Une liste ou un tuple imprime les éléments dans l’ordre défini. Ce n’est pas le cas pour un set (ensemble).
 

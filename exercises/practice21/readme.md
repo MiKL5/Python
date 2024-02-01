@@ -1,4 +1,4 @@
-# **Séparer le code en plusieurs fichiers**
+# **Séparer le code en plusieurs fichiers** <a href="../"><img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
 
 ## **Pourquoi ?**
 

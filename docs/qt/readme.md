@@ -1,4 +1,4 @@
-# **Le framework Qt** <img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" title="Python" widht="auto" height="64px">
+# **Le framework Qt** <a href="../"><img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" title="Python" widht="auto" height="64px"></a>
 
 Se prononce 'cutty' ou 'cute".  
 C'est un framework open source créé en 1991 (plus de 30 ans) en C++. Il est multiplateforme permettant de créer des interfaces graphiques pour Windows, Max, Linux et Android avec le même code source.  

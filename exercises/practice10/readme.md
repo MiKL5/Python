@@ -1,4 +1,4 @@
-# **Qu'est qu'un dictionnaire ?**
+# **Qu'est qu'un dictionnaire ?**  <a href="../"><img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
 
 Un tableau associatif est pour Python un dictionnaire, et fonctionne un peu différemment des listes, des chaînes de caractères et des tuples.
 
