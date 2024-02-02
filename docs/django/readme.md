@@ -1,4 +1,4 @@
-# **Le framework Django** <a href="../../"><img align="right" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="Django" title="Django" widht="auto" height="64px"></a>
+# **Le framework Django** <a href="../"><img align="right" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="Django" title="Django" widht="auto" height="64px"></a>
 
 Développé en 2003 pour le journal local de Lawrence (État du Kansas - États-Unis) puis publié sous licence BSD à partir de juillet 2005.  
 Django est un framework web open-source et gratuit écrit en Python. Il est conçu pour développer des applications web complexes et évolutives.  
