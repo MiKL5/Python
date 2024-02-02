@@ -22,4 +22,5 @@
 > ## **Le framework** <img align="center" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="Django" title="Django" widht="auto" height="36px">
 
 
-[Qu'est-ce que c'est ?](django "Qu'est-ce que Django ?")
+[Qu'est-ce que c'est ?](django "Qu'est-ce que Django ?")  
+[Le langage DTL](django/dtl/ "Le langage de gabarits de Django") <kbd>_**Wip**_</kbd>  
