@@ -4,14 +4,14 @@
 [Les sets](../exercises/practice11)  
 [Les fonctions](../exercises/practice12)  
 [Les compréhensions](exercises/practice15)  
-[Les fonctions de première classe et expressions lambda](exercises/practice16)  
-[Les importations](exercises/practice18)  
-[La gestion des exceptions](exercises/practice19)  
-[Les fonctions `map`, `filter` et les compréhensions conditionnelles](exercises/practice20)  
-[Diviser le code dans plusieurs fichiers](exercises/practice21)  
-[Les itérateurs](exercises/practice22)  
-[Les générateurs et expressions génératrices](exercises/practice23)  
-[Gestion avancée des exceptions et levée des exceptions](exercises/practice24)  
+[Les fonctions de première classe et expressions lambda](../exercises/practice16)  
+[Les importations](../exercises/practice18)  
+[La gestion des exceptions](../exercises/practice19)  
+[Les fonctions `map`, `filter` et les compréhensions conditionnelles](../exercises/practice20)  
+[Diviser le code dans plusieurs fichiers](../exercises/practice21)  
+[Les itérateurs](...exercises/practice22)  
+[Les générateurs et expressions génératrices](../exercises/practice23)  
+[Gestion avancée des exceptions et levée des exceptions](../exercises/practice24)  
 
 > ## **Le framework** <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Qt_logo_neon_2022.svg/langfr-2560px-Qt_logo_neon_2022.svg.png" alt="Qt" title="Qt" widht="auto" height="36px">
 
