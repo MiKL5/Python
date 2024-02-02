@@ -15,8 +15,11 @@
 
 > ## **Le framework** <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Qt_logo_neon_2022.svg/langfr-2560px-Qt_logo_neon_2022.svg.png" alt="Qt" title="Qt" widht="auto" height="36px">
 
-[Qu'est que Qt](qt "Qu'est que le framework Qt")  
+[Qu'est que Qt ?](qt "Qu'est que le framework Qt")  
 [Les bindings](qt/bindings "Les bindings")  
 [L'anatomie d'une application](qt/anatomyOfAnApp "L'anatomie d'une application Qt")
 
-<!-- > ## **Le framework** <img align="center" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="Django" title="Django" widht="auto" height="36px"> -->
+> ## **Le framework** <img align="center" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="Django" title="Django" widht="auto" height="36px">
+
+
+[Qu'est-ce que c'est ?](django "Qu'est-ce que Django ?")
