@@ -24,3 +24,4 @@
 
 [Qu'est-ce que c'est ?](django "Qu'est-ce que Django ?")  
 [Le langage DTL](django/dtl/ "Le langage de gabarits de Django") <kbd>_**Wip**_</kbd>  
+[Liste des balises DTL](django/dtl/balises "La liste des balises DTL")  

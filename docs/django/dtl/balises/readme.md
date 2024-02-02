@@ -1,4 +1,4 @@
-# Liste des balises DTL<a href="../../"><img align="right" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="Django" title="Django" widht="auto" height="64px"></a>
+# Liste des balises DTL<a href="../../../"><img align="right" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="Django" title="Django" widht="auto" height="64px"></a>
 <div align="center">
 
 >## **Balises de base**
