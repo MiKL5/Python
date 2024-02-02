@@ -1,4 +1,4 @@
-# **Les bindings avec Qt** <a href="../../"><img align="right" src="../../../src/images/Python-logo-notext.svg" alt="Python" title="Python" widht="auto" height="64px"></a>
+# **Les bindings avec Qt** <a href="../../"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Qt_logo_neon_2022.svg/langfr-2560px-Qt_logo_neon_2022.svg.png" alt="Python" title="Python" widht="auto" height="64px"></a>
 
 Ils servent à créer des applications avec Qt et Python.  
 Les deux bibliothèques Python les plus connues sont PySide et PyQt.  

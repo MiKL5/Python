@@ -1,4 +1,4 @@
-# **L'anatomie d'une appli** <a href="../../"><img align="right" src="../../../src/images/Python-logo-notext.svg" alt="Python" title="Python" widht="auto" height="64px"></a>
+# **L'anatomie d'une appli** <a href="../../"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Qt_logo_neon_2022.svg/langfr-2560px-Qt_logo_neon_2022.svg.png" alt="Python" title="Python" widht="auto" height="64px"></a>
 
 La première chose que l'on a dans une application avec interface graphique, c'est l'application. Elle peut avoir qu'une seule application, mais plusieurs fenêtres.  
 Ensuite, il y a les éléments individuels. Ce sont les widgets (barre d'adresse et de recherche, un onglet, le bouton nouvel onglet, une boîte de texte, une liste, un menu déroulant, etc), c'est le plus petit élément de l'interface. Le widget d'effectuer une action.  
