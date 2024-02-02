@@ -10,15 +10,16 @@
 [Diviser le code dans plusieurs fichiers](../exercises/practice21)  
 [Les itérateurs](../exercises/practice22)  
 
-> ## **Le framework** <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Qt_logo_neon_2022.svg/langfr-2560px-Qt_logo_neon_2022.svg.png" alt="Qt" title="Qt" widht="auto" height="36px">
+> ## **Le framework** <a href="qt"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Qt_logo_neon_2022.svg/langfr-2560px-Qt_logo_neon_2022.svg.png" alt="Qt" title="Qt" widht="auto" height="36px"></a>
 
 [Qu'est que Qt ?](qt "Qu'est que le framework Qt")  
 [Les bindings](qt/bindings "Les bindings")  
 [L'anatomie d'une application](qt/anatomyOfAnApp "L'anatomie d'une application Qt")
 
-> ## **Le framework** <img align="center" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="Django" title="Django" widht="auto" height="36px">
+> ## **Le framework** <a href="django"><img align="center" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="Django" title="Django" widht="auto" height="36px"></a>
 
 
 [Qu'est-ce que c'est ?](django "Qu'est-ce que Django ?")  
-[Le langage DTL](django/dtl/ "Le langage de gabarits de Django") <kbd>_**Wip**_</kbd>  
+[Le langage DTL](django/dtl/ "Le langage de gabarits de Django")  
 [Liste des balises DTL](django/dtl/balises "La liste des balises DTL")  
+<!-- [L'ORM](orm "Object-Relational Mapping") <kbd>**Wip**</kbd>   -->
