@@ -5,7 +5,7 @@ C'est un framework open source créé en 1991 (plus de 30 ans) en C++. Il est mu
 Qt dispose de nombreux widgets permettant de réaliser tous types d'applications et aussi ses propres widgets.  
 Deux nombreuses compagnies l'utilisent pour créer leurs applications de bureau.
 * VLC
-* SKype
+* Skype
 * KDE
 * Google Earth
 * OBS
