@@ -1,4 +1,4 @@
-# Le DTL (Django Template Language) <a href="../../"><img align="right" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="Django" title="Django" widht="auto" height="64px"></a>
+# Le DTL (Django Template Language) <a href="../../"><img align="right" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="Django" height="64px"></a>
 
 
 Le langage de gabarit de Django, appelé DTL (Django Template Language), est un système de gabarits intégré à Django. Il permet de générer du contenu HTML dynamique en combinant du code HTML statique avec des variables et des balises spécifiques.
