@@ -1,9 +1,10 @@
 # **Python** <a href="docs"><img align="right" src="src/images/Python-logo-notext.svg" alt="Python" height="64px"></a>
 
-<!-- ```
+```
     Projet
 ```
-[Jeu Snake](projects/snake) - _(soon)_  -->
+[Casseur de mot de passe](projets/psswdBreaker) <kbd>_**Wip**_</kbd>  
+<!-- [Jeu Snake](projects/snake) - _(soon)_  -->
 ```
     Mini-projets
 ```
