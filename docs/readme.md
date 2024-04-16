@@ -23,3 +23,6 @@
 [Le langage DTL](django/dtl/ "Le langage de gabarits de Django")  
 [Liste des balises DTL](django/dtl/balises "La liste des balises DTL")  
 <!-- [L'ORM](orm "Object-Relational Mapping") <kbd>**Wip**</kbd>   -->
+
+<div align="center">
+<a href="docs"><img src="../src/images/snake1.jpg" alt="Python" ></a>
