@@ -61,4 +61,4 @@
 <!-- [Exercices 30](exercises/practice30) ···· > Les bases de pygame   -->
 
 <div align="center">
-<a href="docs"><img src="src/images/snake.png" alt="Python" ></a>
+<a href="docs"><img src="src/images/snake.png" alt="Python" width="300px"></a>

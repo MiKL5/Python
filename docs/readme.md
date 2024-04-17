@@ -25,4 +25,4 @@
 <!-- [L'ORM](orm "Object-Relational Mapping") <kbd>**Wip**</kbd>   -->
 
 <div align="center">
-<a href="docs"><img src="../src/images/snake1.jpg" alt="Python" ></a>
+<a href="../"><img src="../src/images/snake1.jpg" alt="Python" ></a>
