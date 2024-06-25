@@ -3,7 +3,7 @@
 ```
     Projet
 ```
-[Casseur de mot de passe](projets/psswdBreaker) <kbd>_**Wip**_</kbd>  
+[Casseur de mot de passe](projets/psswdBreaker) <!--<kbd>_**Wip**_</kbd>-->  
 <!-- [Jeu Snake](projects/snake) - _(soon)_  -->
 ```
     Mini-projets
