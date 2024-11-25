@@ -4,6 +4,7 @@
     Projet
 ```
 [Casseur de mot de passe](projets/psswdBreaker) <!--<kbd>_**Wip**_</kbd>-->  
+[Chatbot basé sur l'IA générative](projets/firstChatbot)  
 <!-- [Jeu Snake](projects/snake) - _(soon)_  -->
 ```
     Mini-projets
