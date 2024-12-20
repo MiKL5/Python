@@ -1,7 +1,7 @@
 # Liste des balises DTL<a href="../../../"><img align="right" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="Django" title="Django" widht="auto" height="64px"></a>
 <div align="center">
 
->## **Balises de base**
+>## **Balises basiques**
 `{# this won't be rendered #}` ➜ commenter sue une seule ligne  
 `{% comment %}` ➜ ajouter des commentaires sur plusieurs lignes  
 `{% cycle %}` ➜ faire défiler une liste de valeurs  
@@ -20,12 +20,12 @@
 `{% url %}` ➜ générer des URL Django  
 `{% with %}` ➜ définir un contexte temporaire  
 
->## **Balises pour les variables**  
+>## **Balises de variables**  
 `{{ variable }}` ➜ afficher une variable  
 `{{ variable|default:'valeur par défaut' }}` ➜ afficher une valeur par défaut si la variable est vide  
 `{{ variable|filter1|filter2 }}` ➜ appliquer des filtres à une variable  
 
-> ## **Balises pour les formulaires**  
+> ## **Balises de formulaires**  
 `{% csrf_token %}` ➜ générer un jeton CSRF  
 `{% form %}` ➜ démarrer un formulaire  
 `{% for field in form %}` ➜ boucler sur les champs d'un formulaire  
@@ -34,10 +34,10 @@
 `{{ field.value }}` ➜ afficher la valeur d'un champ  
 `{% endform %}` ➜ terminer un formulaire  
 
-> ## **Balises pour les messages**  
+> ## **Balises de messages**  
 `{% messages %}` ➜ afficher les messages flash  
 
-> ## **Balises pour les modèles**  
+> ## **Balises de modèles**  
 `{% get_model %}` ➜ obtenir un modèle Django  
 `{% object_list %}` ➜ afficher une liste d'objets  
 `{% object_detail %}` ➜  afficher un objet en détail  
@@ -47,12 +47,12 @@
 `{% get_available_languages %}` ➜ obtenir la liste des langues disponibles  
 `{% trans %}` ➜ traduire une chaîne de caractères  
 
-> ## **Balises pour les permissions**  
+> ## **Balises de permissions**  
 `{% if has_permission %}` ➜ tester si un utilisateur a une permission  
 `{% else %}` ➜ définir une alternative à une condition if  
 `{% endif %}` ➜ terminer une instruction if  
 
-> ## **Balises pour les tags**  
+> ## **Balises de tags**  
 `{% get_tags %}` ➜ obtenir la liste des tags disponibles  
 `{% for tag in tags %}` ➜ boucler sur les tags  
 `{% endfor %}` ➜ terminer une boucle  

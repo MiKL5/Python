@@ -13,5 +13,5 @@ Voici quelques exemples de ce que l'on peut faire
 * Afficher des variables dynamiques dans les pages Web ;  
 * Créer des boucles pour itérer sur des listes de données ;  
 * Afficher des conditions et des messages d'erreur ;  
-* Inclure d'autres gabarits dans la page;  
+* Inclure d'autres gabarits dans la page ;  
 * Formater le texte et les dates.  
