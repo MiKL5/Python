@@ -1,4 +1,4 @@
-# **Liste de livres**  <a href="../../"><img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
+# **Liste de livres**  <a href="../../"><img align="right" src="../../assets/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
 
 Pour ce projet, l’application doit avoir les fonctionnalités suivantes :
 
@@ -9,4 +9,4 @@ Pour ce projet, l’application doit avoir les fonctionnalités suivantes :
 
 Il est important de noter que, comme les livres de la liste de lecture sont stockés dans une liste Python, les données de la liste de lecture seront perdues à la fin du programme.
 
-![screenshot](../../src/screenshots/readinList.png)
+![screenshot](../../assets/screenshots/readinList.png)

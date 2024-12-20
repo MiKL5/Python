@@ -1,4 +1,4 @@
-# **Qu'est qu'un dictionnaire ?**  <a href="../../"><img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
+# **Qu'est-ce qu'un dictionnaire ?**  <a href="../../"><img align="right" src="../../assets/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
 
 Un tableau associatif est pour Python un dictionnaire, et fonctionne un peu différemment des listes, des chaînes de caractères et des tuples.
 
@@ -8,7 +8,7 @@ Dans un tableau associatif, et donc un dictionnaire, les valeurs sont plutôt as
 
 Une clé (`key`) est un peu comme une variable, c’est-à-dire qu’il s’agit d’un élément que nous pouvons utiliser pour faire référence à une valeur. Contrairement aux variables, les clés sont elles-mêmes des valeurs, car elles s’écrivent sous forme de chaînes de caractères, d’entiers, etc.
 
-Dans un seul dictionnaire, chaque clé doit être unique, mais des dictionnaires différents peuvent avoir les mêmes clés les uns que les autres.
+Dans un seul dictionnaire, chaque clé doit être unique, mais différents dictionnaires peuvent avoir les mêmes clés les uns que les autres.
 
 Un dictionnaire peut avoir plusieurs clés, mais chaque clé doit être unique à l’intérieur de ce dictionnaire, et chaque clé doit avoir une seule valeur. Cette valeur peut toutefois être une collection, y compris un autre dictionnaire.
 

@@ -1,4 +1,4 @@
-# **Gestion de personnages**  <a href="../../"><img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
+# **Gestion de personnages**  <a href="../../"><img align="right" src="../../assets/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
 
 L'utilisateur peux :
 * Créer un personnage ;
@@ -13,4 +13,4 @@ L'attaqué mortel en perd 2.
 Il est impossibe d'avoir moins de 0 vie.
 
 
-![Gestion de personnages](../../src/screenshots/characterManagement.png "Gestion de personnages")
+![Gestion de personnages](../../assets/screenshots/characterManagement.png "Gestion de personnages")

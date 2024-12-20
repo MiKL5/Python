@@ -1,4 +1,4 @@
-# **Fonctions de premières classes et compréhensions lambda**  <a href="../../"><img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
+# **Fonctions de premières classes et compréhensions lambda**  <a href="../../"><img align="right" src="../../assets/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
 
 Toutes les fonctions en Python sont des fonctions de première classes. 
 

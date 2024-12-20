@@ -1,4 +1,4 @@
-# **Casseur de mot de passe** <a href="../../"><img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" height="64px"></a>
+# **Casseur de mot de passe** <a href="../../"><img align="right" src="../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
 
 Ce programme est capable de 
 * deviner un mot de passe
@@ -7,3 +7,5 @@ Ce programme est capable de
 * Générer des mots de passe ; -->
 
 _D'autres fonctionnalités arriveront._
+
+<!-- [Cahier des charges]() -->

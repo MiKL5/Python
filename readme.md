@@ -1,4 +1,4 @@
-# **Python** <a href="docs"><img align="right" src="src/images/Python-logo-notext.svg" alt="Python" height="64px"></a>
+# **Python** <a href="docs"><img align="right" src="assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
 
 ```
     Projet
@@ -62,4 +62,4 @@
 <!-- [Exercices 30](exercises/practice30) ···· > Les bases de pygame   -->
 
 <!-- <div align="center">
-<a href="docs"><img src="src/images/snake.png" alt="Python" width="300px"></a> -->
+<a href="docs"><img assets="assets/images/snake.png" alt="Python" width="300px"></a> -->

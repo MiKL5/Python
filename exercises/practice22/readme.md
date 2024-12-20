@@ -1,4 +1,4 @@
-# **Qu'est-ce qu'un itérateur** <a href="../../"><img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
+# **Qu'est-ce qu'un itérateur** <a href="../../"><img align="right" src="../../assets/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
 
 Les itérateurs ont une définition technique en [Python](https://docs.python.org/3/glossary.html#term-iterator "Documentation Python à propos de l'itérateur"). C'est un terme connexe.
 

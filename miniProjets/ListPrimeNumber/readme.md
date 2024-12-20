@@ -1,4 +1,4 @@
-# **Les 50 premiers nombres premiers** <a href="../../"><img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
+# **Les 50 premiers nombres premiers** <a href="../../"><img align="right" src="../../assets/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
 
 
 Écrire une liste permettant de trouver et d’afficher les 50 premiers nombres premiers.  
@@ -9,4 +9,4 @@ Le but est d’optimiser la recherche de ces derniers :
     
 <br>
 
-![the first 50 prime numbers](../../src/screenshots/ListPrimeNumber.png "50 premiers nombres premiers")
+![the first 50 prime numbers](../../assets/screenshots/ListPrimeNumber.png "50 premiers nombres premiers")

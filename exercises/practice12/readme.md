@@ -1,4 +1,4 @@
-# Les fonctions  <a href="../../"><img align="right" src="../../src/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
+# Les fonctions  <a href="../../"><img align="right" assets="../../assets/images/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
 
 Elles permettent de réduire la longueure du code et les répétitions pour les opérations a effectuer plusieurs fois.  
 Le code est donc plus lisible est plus facile à comprendre.  
