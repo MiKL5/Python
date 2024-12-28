@@ -27,6 +27,8 @@
 
 > ## **Bibliothèque de ML et DL** <a href="pyTorch"><img align="center" src="../assets/PyTorch.svg" alt="PyTorch" height="36px"></a>
 [Définition](pyTorch)
+
+[Les librairies](chooseLibrary)
 ___
 <div align="center">
 
