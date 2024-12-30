@@ -25,10 +25,15 @@
 > ## **L'environnement de développement interactif** <a href="jupyter"><img align="center" src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="Jupyter Notebook" height="36px"></a>
 [Définition](jupyter)
 
+<<<<<<< HEAD
 > ## **Bibliothèque de ML et DL**
 [À propos de PyTorch](pyTorch) <a href="pyTorch"><img align="center" src="../assets/PyTorch.svg" alt="PyTorch" height="24px"></a>  
 <!-- [À propos de Tensorflow](tensorflow) <a href="Tensorflow"><img align="center" src="../assets/Tensorflow.svg" alt="Tensorflow" height="24px"></a> -->
 <!-- [À propos de Keras](keras) <a href="Keras"><img align="center" src="../assets/Keras.svg" alt="Keras" height="24px"></a> -->
+=======
+> ## **Bibliothèque de ML et DL** <a href="pyTorch"><img align="center" src="../assets/PyTorch.svg" alt="PyTorch" height="36px"></a>
+[Définition](pyTorch)
+>>>>>>> 7a32f2d7f77100554ac1d64c1509999c6a4fbeae
 
 [Les librairies](chooseLibrary)
 ___
