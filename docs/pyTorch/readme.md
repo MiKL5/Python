@@ -34,7 +34,7 @@ Module|Utilisation
 * Les modèles génératifs (`GAN`, `VAEs`).
 1. La recherche et le prototypage :
 * PyTorch est souvent utilisé dans les laboratoires académiques et industriels pour tester des idées innovantes.
-## **Quels sont les avantages par rapport à TensorFlow**
+## **Quels sont les avantages par rapport à TensorFlow ?**
 Critère	| PyTorch | TensorFlow
 :-:|---|---
 Facilité d'utilisation | Plus intuitif et adapté pour le prototypage rapide. | Peut être plus complexe pour les débutants.
