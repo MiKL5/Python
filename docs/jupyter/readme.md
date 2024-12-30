@@ -22,5 +22,5 @@ Un Jupyter Notebook est composé de cellules, pouvant être :
 * Il est peu adapté pour les projets complexes nécessitant des environnements fortement structurés.
 * Car il peut devenir lent avec des volumes de données importants.
 ___
-> Cf.  
+>>> Cf.  
 [Jupyter.org](https://jupyter.org/)
