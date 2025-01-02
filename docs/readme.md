@@ -26,8 +26,8 @@
 [Définition](jupyter)
 
 > ## **Bibliothèque de ML et DL**
-[À propos de PyTorch](pyTorch) <a href="pyTorch"><img align="center" src="../assets/PyTorch.svg" alt="PyTorch" height="24px"></a>  
-<!-- [À propos de Tensorflow](tensorflow) <a href="Tensorflow"><img align="center" src="../assets/Tensorflow.svg" alt="Tensorflow" height="24px"></a> -->
+[À propos de PyTorch](pyTorch) <a href="pyTorch"><img align="center" src="../assets/PyTorch.svg" alt="PyTorch" height="18px"></a>  
+[À propos de Tensorflow](tensorflow) <a href="Tensorflow"><img align="center" src="../assets/Tensorflow.png" alt="Tensorflow" height="18px"></a>
 <!-- [À propos de Keras](keras) <a href="Keras"><img align="center" src="../assets/Keras.svg" alt="Keras" height="24px"></a> -->
 > ## **Bibliothèque de ML et DL** <a href="pyTorch"><img align="center" src="../assets/PyTorch.svg" alt="PyTorch" height="36px"></a>
 [Définition](pyTorch)
