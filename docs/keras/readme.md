@@ -8,3 +8,9 @@ Permettant la création des modèles de réseaux de neurones de manière intuiti
 Offre aussi des fonctionnalités de prétraitement des données, la définition de fonctions de perte, l'optimisation et le suivi des performances des modèles.
 
 Keras est largement utilisée dans la recherche et l'industrie pour le prototypage rapide et le déploiement de modèles d'apprentissage profond. Elle est reconnue pour sa simplicité d'utilisation et sa capacité à s'adapter à divers environnements, y compris les appareils mobiles et les systèmes embarqués.
+
+___
+>>> Cf.  
+[Wikipédia](https://en.wikipedia.org/wiki/Keras?utm_source=chatgpt.com)  
+[Keras: The functional API](https://keras.io/guides/functional_api/?utm_source=chatgpt.com)
+[Keras: Deep Learning for humans](https://keras.io/?utm_source=chatgpt.com)
