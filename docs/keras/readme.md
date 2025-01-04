@@ -11,6 +11,6 @@ Keras est largement utilisée dans la recherche et l'industrie pour le prototypa
 
 ___
 >>> Cf.  
-[Wikipédia](https://en.wikipedia.org/wiki/Keras?utm_source=chatgpt.com)  
-[Keras: The functional API](https://keras.io/guides/functional_api/?utm_source=chatgpt.com)
-[Keras: Deep Learning for humans](https://keras.io/?utm_source=chatgpt.com)
+[Wikipédia](https://en.wikipedia.org/wiki/Keras)  
+[Keras: The functional API](https://keras.io/guides/functional_api/)
+[Keras: Deep Learning for humans](https://keras.io/)

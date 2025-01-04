@@ -45,6 +45,6 @@ ___
 
 ___
 >>> Cf.  
-[IBM](https://www.ibm.com/fr-fr/topics/api?utm_source=chatgpt.com)  
-[La Horde](https://lahorde.tech/difference-programmation-bas-haut-niveau?utm_source=chatgpt.com)  
-[Mingxu](https://fr.aminecatalyst.com/info/what-are-the-three-levels-of-api--91869183.html?utm_source=chatgpt.com)
+[IBM](https://www.ibm.com/fr-fr/topics/api)  
+[La Horde](https://lahorde.tech/difference-programmation-bas-haut-niveau)  
+[Mingxu](https://fr.aminecatalyst.com/info/what-are-the-three-levels-of-api--91869183.html)
