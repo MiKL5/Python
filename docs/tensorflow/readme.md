@@ -33,7 +33,7 @@ JAX | Est un framework moderne de Google conçu pour le calcul numérique et le 
 * Son écosystème est complet  
     Grâce à des outils comme TensorFlow Extended (TFX), TensorFlow Lite, et `TensorBoard`, il couvre tout le cycle de vie des modèles, du développement au déploiement.
 * Sa polyvalence  
-    Convient aux débutants (via Keras) et aux experts (via des APIs bas niveau).
+    Convient aux débutants (via Keras) et aux experts (via des API bas niveau).
 * Son optimisation pour le cloud  
     À une forte intégration avec Google Cloud Platform (GCP) et compatibilité avec d'autres clouds.
 * Son support pour des matériels variés  
