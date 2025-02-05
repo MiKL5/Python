@@ -47,3 +47,19 @@ Désactiver l'environnement.
 ```pwsh
 desactivate
 ```
+Créer un projet
+```pwsh
+django-admin startproject DocBlog
+```
+Toutes les commandes de `django-admin`
+```pwsh
+django-admin --help
+```
+## L'architecture du projet
+`manage.py` permet d'exécuter des commandes avec Python.
+`__init__.py` est vide.
+`asgi.py` & `wsgi` sont utilisés lors du déploiement sur un server.
+`urls.py` pour définir les chemins et vers quelles vues pointer.
+`settings.py` contient toutes les préférences de l'application.  
+↪ La variavle '`debug`' passera à '`false`' quand le server sera en production.  
+↪ Il y a aussi les applications utilisées, middlewares, templates, la base de données (sur sqlite3 par défaut car elle est très légère, et peut être changée.), langugage_code, et cætera.
