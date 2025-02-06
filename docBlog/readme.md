@@ -72,3 +72,7 @@ Lancer le server de production
 ```pwsh
 python manage.py runserver
 ```
+## **Créer une application <!-- (dans le projet)-->**
+```pwsh
+python manage.py startapp blog
+```

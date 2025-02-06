@@ -534,3 +534,12 @@ docBlog/.idea/._modules.xml
 docBlog/.idea/._vcs.xml
 docBlog/.idea/._workspace.xml
 docBlog/src/DocBlog/._templates
+docBlog/src/blog/migrations/.___init__.py
+docBlog/src/blog/.___init__.py
+docBlog/src/blog/._admin.py
+docBlog/src/blog/._apps.py
+docBlog/src/blog/._migrations
+docBlog/src/blog/._models.py
+docBlog/src/blog/._tests.py
+docBlog/src/blog/._views.py
+docBlog/src/._blog
