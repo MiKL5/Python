@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Site web</title>
+</head>
+
+<body>
+    <h1>Bonjour <i>{{ prenom|upper }}</i> et bienvenue !</h1>
+    <br>
+    <br>
+    <br>
+    <br>
+    <p>🚧 Au {{ date|date:"l d F Y" }} à {{ date|date:"H:i:s:u"}}<!-- et dont le fuseau est {{ date|date:'GMT'}}-->, le
+        site est en construction... 🚧</p>
+</body>
+
+</html>
