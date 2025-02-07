@@ -76,3 +76,11 @@ python manage.py runserver
 ```pwsh
 python manage.py startapp blog
 ```
+## **Ajouter du style**
+Dans une application, il faut créer un dossier `static`.  
+Hors d'une application, il faut ajouter ce qui suit à '`settings.py`'.
+```py
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, "DocBlog/static"),
+]
+```
