@@ -62,10 +62,6 @@ django-admin --help
 ↪ La variavle '`debug`' passera à '`false`' quand le server sera en production.  
 ↪ Il y a aussi les applications utilisées, middlewares, templates, la base de données (sur sqlite3 par défaut car elle est très légère, et peut être changée.), langugage_code, et cætera.
 ## **Utiliser le server**
-Migration
-```pwsh
-python manage.py migrate
-```
 Lancer le server de production
 ```pwsh
 python manage.py runserver
@@ -84,3 +80,28 @@ STATICFILES_DIRS = [
 ```
 ## **Automatiser `runserver` avec PyCharm**
 Edit configuration > Name : Django Server > script : adresse du fichier manage.py > OK ou Run
+## **Créer les migrations**
+```pwsh
+manage.py makemigrations 
+```
+ou que pour l'appli blog
+```pwsh
+manage.py makemigrations blog
+```
+## **Migration**
+Aperçu du code à migrer
+```pwsh
+python manage.py sqlmigrate blog 0001_initial # l'app et le fichier sans l'éextension
+```
+Aperçu de plusieurs
+```pwsh
+python manage.py sqlmigrate blog 0001_initial && python manage.py sqlmigrate blog 0002_blogpost_description
+```
+Migrer
+```pwsh
+python manage.py migrate
+```
+ou que blog
+```pwsh
+python manage.py migrate blog
+```
