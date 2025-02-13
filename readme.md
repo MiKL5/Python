@@ -7,6 +7,11 @@
 [Chatbot basé sur l'IA générative](projets/firstChatbot)  
 <!-- [Jeu Snake](projects/snake) - _(soon)_  -->
 ```
+    Projets avec Django
+```
+[Docblog]()
+[Website](projects/website)
+```
     Mini-projets
 ```
 [Calculateur de revenus](miniProjets/weeklySalaryCalculator "Calculateur simple de revenus")  
