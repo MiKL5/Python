@@ -1,7 +1,7 @@
 # **Python** <a href="docs"><img align="right" src="assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
 
 ```
-    Projet
+    Projets
 ```
 [Casseur de mot de passe](projets/psswdBreaker) <!--<kbd>_**Wip**_</kbd>-->  
 [Chatbot basé sur l'IA générative](projets/firstChatbot)  
@@ -9,7 +9,7 @@
 ```
     Projets avec Django
 ```
-[Docblog]()
+[Docblog]()  
 [Website](projects/django/website)
 ```
     Mini-projets
