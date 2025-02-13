@@ -20,7 +20,7 @@
 [Définition](django "Qu'est-ce que Django ?")  
 [Le langage DTL](django/dtl/ "Le langage de gabarits de Django")  
 [Liste des balises DTL](django/dtl/balises "La liste des balises DTL")  
-[Quelques types de BDD](typeOfBdd)
+[Quelques types de BDD](typeOfBdd)  
 [L'ORM](./django/orm)
 
 > ## **L'environnement de développement interactif** <a href="jupyter"><img align="center" src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="Jupyter Notebook" height="36px"></a>
