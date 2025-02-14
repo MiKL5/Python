@@ -6,3 +6,6 @@ Nonobstant, il est utile siil n'y a pas de valeur par défault (e.g. `default = 
 ## **`Null`**
 Il s'agit d'une valeur qui n'en a pas (`NULL` équivalent de none), quand `null = True`.  
 `null = True` est à éviter avec les champs tels que les chaîne de caractères ; il prendre forcément la chaîne de caractère vide.
+___
+>>> NOTA  
+Si une date peut être vide, il faut ajouter `null = True` ; pour autoriser autre chose qu'une date dans le champ.
