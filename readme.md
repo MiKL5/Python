@@ -9,8 +9,8 @@
 ```
     Projets avec Django
 ```
-[Docblog]()  
-[Website](projects/django/website)
+[Docblog](projets/django/docBlog)  
+[Website](projets/django/website)
 ```
     Mini-projets
 ```
