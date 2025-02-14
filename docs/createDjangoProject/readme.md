@@ -82,11 +82,11 @@ STATICFILES_DIRS = [
 Edit configuration > Name : Django Server > script : adresse du fichier manage.py > OK ou Run
 ## **Créer les migrations**
 ```pwsh
-manage.py makemigrations 
+python manage.py makemigrations 
 ```
 ou que pour l'appli blog
 ```pwsh
-manage.py makemigrations blog
+python manage.py makemigrations blog
 ```
 ## **Migration**
 Aperçu du code à migrer
