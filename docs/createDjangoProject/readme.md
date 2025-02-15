@@ -6,7 +6,7 @@ python3.12 -m venv .env
 <!-- ou venvv -->
 Le sourcer<!-- en allant chercher le fichier `activate` dans `venv` ou `env`. Sourcer veut dire activer. -->.
 ```pwsh
-source .env/bin/activate # L'environnement est activé.
+source .venv/bin/activate # L'environnement est activé.
 ```
 Connaître la version Python du projet.
 ```pwsh
@@ -18,13 +18,17 @@ pip install --upgrade pip
 ```
 Installer django
 ```pwsh
-pip install django==3.1.6 # django en minuscule
+pip install django==5.1.6 # django en minuscule
 ```
 Vérifier l'installation
 ```pwsh
-python -m django --version # 3.1.6
-```
+python -m django --version
+````
 ou
+```pwsh
+python3 -m django --version
+```
+ou encore
 ```pwsh
 python
 import django
