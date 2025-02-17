@@ -1,4 +1,4 @@
-# **Qu'est-ce que Keras ?** <a href="../"><img align="right" src="../../assets/keras.svg" alt="l'API Keras" height="64px"></a>
+# **Qu'est-ce que Keras ?** <a href="../"><img align="right" src="../../assets/Keras.svg" alt="l'API Keras" height="64px"></a>
 C'est une API de haut niveau pour le développement de modèles d'apprentissage profond.
 
 Son abstraction est simplifiée ; elle repose sur des frameworks comme TensorFlow ou CNTK pour exécuter les calculs. Elle n’implémente pas elle-même ces calculs bas niveau, ce qui en fait une interface (API) plutôt qu’une bibliothèque autonome.
@@ -12,5 +12,5 @@ Keras est largement utilisée dans la recherche et l'industrie pour le prototypa
 ___
 >>> Cf.  
 [Wikipédia](https://en.wikipedia.org/wiki/Keras)  
-[Keras: The functional API](https://keras.io/guides/functional_api/)
+[Keras: The functional API](https://keras.io/guides/functional_api/)  
 [Keras: Deep Learning for humans](https://keras.io/)

@@ -29,8 +29,10 @@
 
 > ## **Bibliothèque de ML et DL**
 > _Une **bibliothèque** est un ensemble de fonctions, classes et outils prêts à l’emploi qu’un développeur peut importer et utiliser dans son programme._  
-[À propos de PyTorch](pyTorch) <a href="pyTorch"><img align="center" src="../assets/PyTorch.svg" alt="PyTorch" height="18px"></a>  
-[À propos de Tensorflow](tensorflow) <a href="Tensorflow"><img align="center" src="../assets/Tensorflow.png" alt="Tensorflow" height="18px"></a>  
+[PyTorch](pyTorch) <a href="pyTorch"><img align="center" src="../assets/PyTorch.svg" alt="PyTorch" height="18px"></a>  
+[Tensorflow](tensorflow) <a href="Tensorflow"><img align="center" src="../assets/Tensorflow.png" alt="Tensorflow" height="18px"></a>  
+[Keras](keras) <a href="Tensorflow"><img align="center" src="../assets/Keras.svg" alt="Keras" height="18px"></a>  
+
 
 [Quelle librairie choisir ?](chooseLibrary)
 > ## **API de ML et DL**
