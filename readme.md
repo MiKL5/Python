@@ -12,6 +12,14 @@
 [Docblog](projets/django/docBlog)  
 [Website](projets/django/website)
 ```
+    Projets en machine learning
+```
+[Prédiction du score de dépences des clients](https://github.com/MiKL5/machineLearning/blob/master/projects/spendingScore)  
+[Prédition de la qualité du vin](https://github.com/MiKL5/machineLearning/blob/master/projects/wineQuality)  
+[Prédiction du courrier iindésirable](https://github.com/MiKL5/machineLearning/blob/master/projects/spam)  
+[Prédiction immobilière à Melbourne](https://github.com/MiKL5/machineLearning/blob/master/projects/melbourne)  
+[Prédiction du prix des maissons](https://github.com/MiKL5/machineLearning/blob/master/projects/house)  
+```
     Mini-projets
 ```
 [Calculateur de revenus](miniProjets/weeklySalaryCalculator "Calculateur simple de revenus")  
