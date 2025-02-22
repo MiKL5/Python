@@ -38,6 +38,11 @@
 > ## **API de ML et DL**
 > _Une API (Application Programming Interface) est une interface (un ensemble de règles et de protocoles) fournissant des fonctionnalités d’une bibliothèque ou d’un framework, souvent avec une couche d’abstraction (dit "haut niveau" ; la syntaxe est intuitive<!--, comme Python-->) simplifiant l'utilisation. Une API de bas niveau fournit un accès plus direct aux ressources matérielles et aux fonctionnalités du système d'exploitation ; nécessite une compréhension approfondie de l'architecture système et permettent une manipulation fine des ressources, offrant plus de contrôle aux développeurs._ <!-- En résumé, les API de haut niveau simplifient le développement en masquant la complexité sous-jacente, tandis que les API de bas niveau offrent un contrôle détaillé au prix d'une complexité accrue. -->  
 [À propos de Keras](keras) <a href="Keras"><img align="center" src="../assets/Keras.svg" alt="Keras" height="18px"></a>
+>
+>>> Cf.  
+[IBM](https://www.ibm.com/fr-fr/topics/api)  
+[La Horde](https://lahorde.tech/difference-programmation-bas-haut-niveau)  
+[Mingxu](https://fr.aminecatalyst.com/info/what-are-the-three-levels-of-api--91869183.html)
 ___
 <div align="center">
 
@@ -47,8 +52,3 @@ ___
 <!-- <a href="../"><img assets="../assets/images/snake1.jpg" alt="Python" ></a> -->
 </div>
 
-___
->>> Cf.  
-[IBM](https://www.ibm.com/fr-fr/topics/api)  
-[La Horde](https://lahorde.tech/difference-programmation-bas-haut-niveau)  
-[Mingxu](https://fr.aminecatalyst.com/info/what-are-the-three-levels-of-api--91869183.html)
