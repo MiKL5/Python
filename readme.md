@@ -73,9 +73,8 @@
 <!-- [Exercices 28](exercises/practice28) ···· > L'identification de type   -->
 <!-- [Exercices 29](exercises/practice29) ···· > Les décorateurs   -->
 <!-- [Exercices 30](exercises/practice30) ···· > Les bases de pygame   -->
-## **Sujets connexes**
+<h2 align="center"><b>🔗 Sujets connexes</b></h2>
+
 [Machine Learning](https://github.com/MiKL5/machineLearning)
-
-
 <!-- <div align="center">
 <a href="docs"><img assets="assets/images/snake.png" alt="Python" width="300px"></a> -->
