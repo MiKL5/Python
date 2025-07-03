@@ -6,6 +6,6 @@ Cet obhet est unique.
 Tel que `none`, ainsi que `True` et `False`, ou `id = (c)`.  
 Ainsi que les nombres de `-5` à `256`. Pour optimiser, il sont en mémoire.
 C'est la pareil pour toutes les chaînes de caractères inférieure à 20 caractères.
-
 ### **Le Small integer caching**
-E.g. `500` car ça place en mémoire change.
+E.g. `500` car ça place en mémoire change.  
+Comme tout ce qui est en dehors de `-5` et `256`.
