@@ -46,8 +46,6 @@
 ___
 <div align="center">
 
-## **Sujets connexes**
-[Machine Learning](https://github.com/MiKL5/machineLearning)
 
 <!-- <a href="../"><img assets="../assets/images/snake1.jpg" alt="Python" ></a> -->
 </div>
