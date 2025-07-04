@@ -1,4 +1,4 @@
-# **Les constucteurs natifs**<a href="../"><img align="right" src="../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
+# **Les constucteurs natifs**<a href="../../../"><img align="right" src="../../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
 Ils sont créés par leur classe.  
 * `str()` 👉 Chaîne de caractères
 * `int()` 👉 Nombres entiers

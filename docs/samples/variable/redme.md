@@ -1,5 +1,4 @@
-# **Variable** <a href="../"><img align="right" src="../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
-La variable est le nom associé à l'objet, facilitant son accès.
+# **Variable** <a href="../"><a href="../../../"><img align="right" src="../../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
 ```py
 chiffre = 5 # python créer un int
 chiffre_2 = chiffre # chiffre_2 = 5 pas nombre

@@ -1,4 +1,4 @@
-# **Conversion d'`int` et `str`** <a href="../../"><img align="right" src="../../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
+# **Conversion d'`int` et `str`**<a href="../../../../"><img align="right" src="../../../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
 <!-- C'est le seul moyen de savoir son type -->
 ```py
 a =   5
