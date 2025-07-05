@@ -12,3 +12,12 @@ True
 
 "20yo".isdigit()
 False
+
+"Bonjour le jour".count("jour")
+2
+
+"Bonjour le jour".count(" jour")
+1
+
+"Bonjour le jour".count("   jour    ")
+0

@@ -1,4 +1,4 @@
-# **Manipuler les chaînes de caractères**<a href="../../../"><img align="right" src="../../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
+# **Manipuler les chaînes de caractères**<a href="../../../"><img align="right"src="../../../assets/Python-logo-notext.svg"alt="Python"height="64px"></a>
 ## **Les méthodes pour changer la case**
 ```py
 "Bonjour".uipper()            # BONJOUR
@@ -50,3 +50,11 @@ for i in range(100):
 "20yo".isdigit()           # Falsse
 ```
 `isdigit()` est très utile pour savoir si une chaîne de caractère peut-être convertie en nombre. D'autant plus avec `input()`.
+## **Compter les occurences**
+```py
+"Bonjour le jour".count("jour").  # 2
+"Bonjour le jour".count(" jour")  # 1
+"Bonjour le jour".count(" jour ") # 0
+```
+La méhode compte les caractères, pas les mots. Il faut mettre un espace pour compter les mots complet.
+<!-- ## **Trouver une chaîne** -->
