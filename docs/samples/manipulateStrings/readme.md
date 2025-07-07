@@ -32,7 +32,7 @@ En programmation, il est commun que les données ne soient pas du bon type. 2 m�
 ## **Remplir de zéros**
 Utile pour nommer. les séquences d'image par exemple.
 ```py
-"1".zfill(4)              # '0001'
+"1".zfill(4)               # '0001'
 
 for i in range(100):
     print(i)               # Pas propore
@@ -43,11 +43,11 @@ for i in range(100):
 `zfill` ne fonctionne que sur les chaînes de caractères.
 ## **Les méthodes 'is'**
 ```py
-"bonjour".islower()        # True
-"bonjour".isupper()        # False
-"Bonjour À Tous".istitle() # True
-"000020".isdigit()         # True
-"20yo".isdigit()           # Falsse
+"bonjour".islower()               # True
+"bonjour".isupper()               # False
+"Bonjour À Tous".istitle()        # True
+"000020".isdigit()                # True
+"20yo".isdigit()                  # Falsse
 ```
 `isdigit()` est très utile pour savoir si une chaîne de caractère peut-être convertie en nombre. D'autant plus avec `input()`.
 ## **Compter les occurences**
@@ -57,4 +57,24 @@ for i in range(100):
 "Bonjour le jour".count(" jour ") # 0
 ```
 La méhode compte les caractères, pas les mots. Il faut mettre un espace pour compter les mots complet.
-<!-- ## **Trouver une chaîne** -->
+## **Trouver une chaîne**
+Il y a 3 méthodes `find()`, `index()` et `rfind()`.
+```py
+"Bonjour".find("jour")            # 3
+"Bonjour".index("jour")           # 3
+"Bonjour".find("soir")            # -1
+"Bonjour".index("soir")           # ValueError
+"Bonjour le jour".rfind("jour")   # 11
+```
+## **Chercher au début et à la fin**
+Savoir si le fichier est au bon forrmat
+```py
+"image,png".endswith(".png")      # True
+"image,png".endswith(".jpg")      # False
+```
+Le fichier commence-t-il par image ?
+```py
+"image,png".stratswith("image")     # True
+"image,png".stratswith("dsc")       # False
+"dsc0001,jpg".stratswith("dsc")     # True
+```
