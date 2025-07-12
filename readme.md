@@ -22,7 +22,7 @@
 ```
     Mini-projets
 ```
-[Calculateur de revenus](miniProjets/weeklySalaryCalculator "Calculateur simple de revenus")  
+[Calculateur de revenus](miniProjects/weeklySalaryCalculator "Calculateur simple de revenus")  
 [Fizz Buzz](miniProjets/FizzBuzz "Fizz Buzz")   
 [Budgets des films](miniProjets/filmBudgets "Troisième defi : Budget des films")  
 [Nombre premier](miniProjets/primeNomber "Nombre premier")  
