@@ -8,3 +8,17 @@ L'indentation (est moins permisive, alège le code) indique que cette ligne est 
 Ce blocs peuvent êtres imbriqués les uns aux autres.
 
 ⚠️ Avec Python, il faut être attentif à l'indentation.
+```py
+age = int(input("how old are you? "))
+if   age >= 18:
+    print("You're over 18.")
+elif age <  18:
+    print("Wait until you're 18.")
+```
+```py
+age = int(input("how old are you? "))
+if age >= 18:
+    print("You're over 18.")
+else:
+    print("Wait until you're 18.")
+```
