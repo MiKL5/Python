@@ -24,22 +24,22 @@
 ```
 [Calculateur de revenus](miniProjects/weeklySalaryCalculator "Calculateur simple de revenus")  
 [Fizz Buzz](miniProjets/FizzBuzz "Fizz Buzz")   
-[Budgets des films](miniProjets/filmBudgets "Troisième defi : Budget des films")  
-[Nombre premier](miniProjets/primeNomber "Nombre premier")  
-[Validateur de carte de crédit](miniProjets/creditCardValidator "Validateur de carte de crédit")  
-[Calculatrice avec opérations multiples](miniProjets/calculator "Calculatrice avec opérations multiples")  
-[Conversion d'entier et de binaire](miniProjets/integerBinaryConversion "Conversion de binaire en entier et vice versa")  
-[Calcul d'addresse et de masque réseau](miniProjets/networkAdressMask "Conversion de binaire en entier et vice versa")  
-[L'année de naissance](miniProjets/ageAndYearOfBirth "Saisir l'âge et afficher l'annèe de naissance")  
-[Liste de lecture](miniProjets/bookslist "Liste de lecture très simple")  
-[Liste de lecture dans un fichier CSV](miniProjets/booklist2 "Liste de lecture sauvegardée dans un fichier CSV (Comma Separated Values [valeurs séparées par des virgules])")  
-[Les 50 premiers nombres premier](miniProjets/ListPrimeNumber "Liste des 50 premiers nombres premier")  
-[Dictionnaire de villes](miniProjets/dictionaryOfCities "Dictionnaire de ville")  
-[Gestion de personnages](miniProjets/characterManagement "Gestion de personnage")  
-[Tracer des graphiques](miniProjets/drawGraphs "Tracer un graphique")   
-<!-- [Lancer les dés](miniProjets/rollTheDices "Lancer les dés")    -->
-<!-- [Avocats](miniProjets/lawyers "Avocats")    -->
-<!-- [Web Scraping](miniProjets/webScraping "Web Scraping")    -->
+[Budgets des films](miniProjects/filmBudgets "Troisième defi : Budget des films")  
+[Nombre premier](miniProjects/primeNomber "Nombre premier")  
+[Validateur de carte de crédit](miniProjects/creditCardValidator "Validateur de carte de crédit")  
+[Calculatrice avec opérations multiples](miniProjects/calculator "Calculatrice avec opérations multiples")  
+[Conversion d'entier et de binaire](miniProjects/integerBinaryConversion "Conversion de binaire en entier et vice versa")  
+[Calcul d'addresse et de masque réseau](miniProjects/networkAdressMask "Conversion de binaire en entier et vice versa")  
+[L'année de naissance](miniProjects/ageAndYearOfBirth "Saisir l'âge et afficher l'annèe de naissance")  
+[Liste de lecture](miniProjects/bookslist "Liste de lecture très simple")  
+[Liste de lecture dans un fichier CSV](miniProjects/booklist2 "Liste de lecture sauvegardée dans un fichier CSV (Comma Separated Values [valeurs séparées par des virgules])")  
+[Les 50 premiers nombres premier](miniProjects/ListPrimeNumber "Liste des 50 premiers nombres premier")  
+[Dictionnaire de villes](miniProjects/dictionaryOfCities "Dictionnaire de ville")  
+[Gestion de personnages](miniProjects/characterManagement "Gestion de personnage")  
+[Tracer des graphiques](miniProjects/drawGraphs "Tracer un graphique")   
+<!-- [Lancer les dés](miniProjects/rollTheDices "Lancer les dés")    -->
+<!-- [Avocats](miniProjects/lawyers "Avocats")    -->
+<!-- [Web Scraping](miniProjects/webScraping "Web Scraping")    -->
 ```
     Exercices
 ```
