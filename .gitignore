@@ -577,3 +577,5 @@ docs/samples/nativeBuilders/._readme.md
 .idea/workspace.xml
 .idea/inspectionProfiles/profiles_settings.xml
 ._miniProjects
+exercises/more/passwordChecker/._pwChecker.png
+.gitignore
