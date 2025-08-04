@@ -30,3 +30,4 @@ Choisi une option entre 1 et 5.
 
 Que veux-tu faire ? 👉  
 ```
+![shopingList](screenshot.png)
