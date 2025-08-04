@@ -37,6 +37,8 @@
 [Dictionnaire de villes](miniProjects/dictionaryOfCities "Dictionnaire de ville")  
 [Gestion de personnages](miniProjects/characterManagement "Gestion de personnage")  
 [Tracer des graphiques](miniProjects/drawGraphs "Tracer un graphique")   
+[Password checker](exercises/more/passwordChecker)  
+<!-- [Calculatrice avec gestion d'erreur](exercises/more/calculatorWithErrorHandling) -->
 <!-- [Lancer les dés](miniProjects/rollTheDices "Lancer les dés")    -->
 <!-- [Avocats](miniProjects/lawyers "Avocats")    -->
 <!-- [Web Scraping](miniProjects/webScraping "Web Scraping")    -->

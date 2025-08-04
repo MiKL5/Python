@@ -17,3 +17,6 @@ liste = list(mon_tuple)
 mon_tuple = tuple(liste)
 (1, 2, 3)
 ```
+⚠️ Avec les tuples, il faut aussi utiliser les crochets pour récupérer les éléments.
+⚠️ Avec la méthode '`remove`', il faut désigner l'élément, pas l'indice. S'il y a 2 fois le même élément, le premier est enlevé.  
+⚠️ C'est '`pop`' qui permet le retrait d'un élément via l'indice. Sans précision, c'est le dernier élément qui est retiré.

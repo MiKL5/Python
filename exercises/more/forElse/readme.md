@@ -1,0 +1,2 @@
+# **Utiliser '`else`' dans la boucle '`for`'**<a href="../../../"><img align="right" src="../../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
+Le but est de savoir si l'élément est trouvé.
