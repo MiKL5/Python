@@ -28,6 +28,7 @@
 [Nombre premier](miniProjects/primeNomber "Nombre premier")  
 [nombre mystère](miniProjects/guessTheNumber)
 [Liste de course](exercises/more/shoppingList)
+[Jeu de role](exercises/more/rpg)
 [Validateur de carte de crédit](miniProjects/creditCardValidator "Validateur de carte de crédit")  
 [Calculatrice avec opérations multiples](miniProjects/calculator "Calculatrice avec opérations multiples")  
 [Conversion d'entier et de binaire](miniProjects/integerBinaryConversion "Conversion de binaire en entier et vice versa")  
