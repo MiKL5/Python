@@ -26,9 +26,9 @@
 [Fizz Buzz](miniProjets/FizzBuzz "Fizz Buzz")   
 [Budgets des films](miniProjects/filmBudgets "Troisième defi : Budget des films")  
 [Nombre premier](miniProjects/primeNomber "Nombre premier")  
-[nombre mystère](miniProjects/guessTheNumber)
-[Liste de course](exercises/more/shoppingList)
-[Jeu de role](exercises/more/rpg)
+[Nombre mystère](miniProjects/guessTheNumber)  
+[Liste de course](exercises/more/shoppingList)  
+[Jeu de role](exercises/more/rpg)  
 [Validateur de carte de crédit](miniProjects/creditCardValidator "Validateur de carte de crédit")  
 [Calculatrice avec opérations multiples](miniProjects/calculator "Calculatrice avec opérations multiples")  
 [Conversion d'entier et de binaire](miniProjects/integerBinaryConversion "Conversion de binaire en entier et vice versa")  
@@ -41,7 +41,7 @@
 [Gestion de personnages](miniProjects/characterManagement "Gestion de personnage")  
 [Tracer des graphiques](miniProjects/drawGraphs "Tracer un graphique")   
 [Password checker](exercises/more/passwordChecker)  
-[Calculatrice avec gestion d'erreur](exercises/more/calculatorWithErrorHandling)
+[Calculatrice avec gestion d'erreur](exercises/more/calculatorWithErrorHandling)  
 <!-- [Lancer les dés](miniProjects/rollTheDices "Lancer les dés")    -->
 <!-- [Avocats](miniProjects/lawyers "Avocats")    -->
 <!-- [Web Scraping](miniProjects/webScraping "Web Scraping")    -->
