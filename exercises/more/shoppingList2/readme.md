@@ -16,7 +16,7 @@ Ce script Python permet de gérer une liste de courses de manière interactive. 
 ## **L'utiliser**
 1. Exécutez le script avec Python :
 ```py
-python nom_du_script.py
+python main.py
 ```
 2. Les intructions
 ```
