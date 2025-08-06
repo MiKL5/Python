@@ -579,3 +579,6 @@ docs/samples/nativeBuilders/._readme.md
 ._miniProjects
 exercises/more/passwordChecker/._pwChecker.png
 .gitignore
+exercises/guessTheNumber/._screenshotWin.png
+exercises/guessTheNumber/._screenshotLose.png
+exercises/more/shoppingList2/._screenshot.png
