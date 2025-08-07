@@ -5,8 +5,8 @@ Ce script Python permet de gérer une liste de courses de manière interactive. 
 - **Ajouter un élément** ✅ : Ajoute un article à votre liste de courses.
 - **Retirer un élément** ❌ : Retire un article de votre liste de courses en spécifiant son indice.
 - **Lister les éléments** 📋 : Affiche tous les articles actuellement dans votre liste de courses.
-- **Vider la liste** 🗑️ : Supprime tous les articles de votre liste de courses.
-- **Quitter** 🚪 : Sauvegarde et ferme l'application.
+- **Vider la liste** 🗑️ ·········· : Supprime tous les articles de votre liste de courses.
+- **Quitter** 🚪 ··················· : Sauvegarde et ferme l'application.
 
 ## **Prérequis**
 - Python 3.x
