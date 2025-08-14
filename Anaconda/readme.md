@@ -1,2 +1,2 @@
 # **Python pour la Data Science**<a href="../"><img align="right" src="../assets/Anaconda.svg" alt="Anaconda" height="64px"></a>
-## **Numpy** <a href="#"><img align="left" src="../assets/Numpy.svg" alt="Python" height="24px"></a>
+## **Numpy** <a href="#"><img align="left" src="../assets/numpy.svg" alt="Numpy" height="24px"></a>
