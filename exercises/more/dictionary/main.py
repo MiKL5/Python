@@ -12,7 +12,7 @@ dictionnaire1 = {
         "ville":      "Nantes"}
 }
 
-#print(dictionnaire1[0])                                  # tout
+#print(dictionnaire1[0])                                 # tout
 print(dictionnaire1[0]["prenom"])                        # plus clair qu'une liste
 print(dictionnaire1.get("nom"))    # 'get' retourne 'none' si l'indice n'exite pas
 print(dictionnaire1.get("nom", "La clé n'exite pas"))    # 'get' retourne le message si la clé est inexistante
