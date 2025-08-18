@@ -11,14 +11,14 @@
 ```
 [Docblog](projets/django/docBlog)  
 [Website](projets/django/website)
-```
+<!-- ```
     Projets en machine learning
 ```
 [Prédiction du score de dépences des clients](https://github.com/MiKL5/machineLearning/blob/master/projects/spendingScore)  
 [Prédition de la qualité du vin](https://github.com/MiKL5/machineLearning/blob/master/projects/wineQuality)  
 [Prédiction du courrier iindésirable](https://github.com/MiKL5/machineLearning/blob/master/projects/spam)  
 [Prédiction immobilière à Melbourne](https://github.com/MiKL5/machineLearning/blob/master/projects/melbourne)  
-[Prédiction du prix des maissons](https://github.com/MiKL5/machineLearning/blob/master/projects/house)  
+[Prédiction du prix des maissons](https://github.com/MiKL5/machineLearning/blob/master/projects/house)   -->
 ```
     Mini-projets
 ```
@@ -80,6 +80,7 @@
 <!-- [Exercices 30](exercises/practice30) ···· Les bases de pygame   -->
 <h2 align="center"><b>🔗 Sujets connexes</b></h2>
 
-🛠️🤖 [Machine Learning](https://github.com/MiKL5/machineLearning)
+🧠 [Data Ccience](https://github.com/MiKL5/DataScience)  
+🤖🧠 [Machine Learning](https://github.com/MiKL5/machineLearning)
 <!-- <div align="center">
 <a href="docs"><img assets="assets/images/snake.png" alt="Python" width="300px"></a> -->
