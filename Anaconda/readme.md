@@ -24,4 +24,5 @@ Opération avec les matrice
 Les séries  
 Séries comme dictionnaire  
 Modification d'une série Pandas  
-Création de DataFrame
+Création de DataFrame  
+Dataframe depuis plusieurs séries  
