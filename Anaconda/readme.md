@@ -26,3 +26,4 @@ Séries comme dictionnaire
 Modification d'une série Pandas  
 Création de DataFrame  
 Dataframe depuis plusieurs séries  
+Dataframe depuis une matrice NumPy  
