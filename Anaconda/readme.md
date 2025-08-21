@@ -29,4 +29,4 @@ Dataframe depuis plusieurs séries
 Dataframe depuis une matrice NumPy  
 Modifier un datagrame  
 Sélectionner les données d'un dataframe
-<!-- Sélectioner par tranche les données d'un dataframe -->
+Sélectioner par tranche les données d'un dataframe
