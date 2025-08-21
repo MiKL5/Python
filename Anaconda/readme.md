@@ -8,13 +8,13 @@ La fonction "`arange()`"
 La méthode reshape  
 La méthode resize  
 Concaténer les tableaux  
-Autocontruction de tavleaux  
+Autocontruction de tableaux  
 [La fonction "`linspace()`"](learningNumpy/linspaceFunction)  
 [`arange()` vs `linspace()`](learningNumpy/linspaceVsArange)  
-Création aléatoire de tableaux  
+Créer aléatoirement un tableaux  
 Méthodes de calcul  
-Indexation des tableaux  
-Indexation des tableaux binaires  
+Indexer des tableaux  
+Indexer des tableaux binaires  
 Tableaux et opérateurs de comparaison  
 Modifier des tableaux selon des conditions  
 Binariser une matrice  
@@ -23,10 +23,15 @@ Opération avec les matrice
 ## **[Pandas](learnPandas/)** <a href="learningPandas"><img align="left" src="../assets/Pandas_mark.svg" alt="Pandas" height="24px"></a>
 Les séries  
 Séries comme dictionnaire  
-Modification d'une série Pandas  
-Création de DataFrame  
+Modifier une série Pandas  
+Créer un DataFrame  
 Dataframe depuis plusieurs séries  
 Dataframe depuis une matrice NumPy  
 Modifier un datagrame  
 Sélectionner les données d'un dataframe
-Sélectioner par tranche les données d'un dataframe
+Sélectioner par tranche les données d'un dataframe  
+Séléctionner conditionnelement les données d'un dataframe  
+Sélection des données d'un dataframe selon plusieurs conditions  
+Réinitialistion et modification des des indices dans un dataframe  
+Multi index  
+<!-- Accéder aux données d'un dataframe multi indexé   -->
