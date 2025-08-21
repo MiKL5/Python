@@ -33,5 +33,5 @@ Sélectioner par tranche les données d'un dataframe
 Séléctionner conditionnelement les données d'un dataframe  
 Sélection des données d'un dataframe selon plusieurs conditions  
 Réinitialistion et modification des des indices dans un dataframe  
-Multi index  
-<!-- Accéder aux données d'un dataframe multi indexé   -->
+Créer un dataframe multi-indexé  
+Accéder aux données d'un dataframe multi-indexé  
