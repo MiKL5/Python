@@ -35,3 +35,6 @@ Sélection des données d'un dataframe selon plusieurs conditions
 Réinitialistion et modification des des indices dans un dataframe  
 Créer un dataframe multi-indexé  
 Accéder aux données d'un dataframe multi-indexé  
+Combiner les dataframes  
+Grouper les données  
+Tableaux croisées dynamiques  
