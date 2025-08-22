@@ -38,4 +38,5 @@ Accéder aux données d'un dataframe multi-indexé
 Combiner les dataframes  
 Grouper les données  
 Tableaux croisées dynamiques  
-<!-- Opérations   -->
+Opérations  
+<!-- Traiter les données manquantes   -->
