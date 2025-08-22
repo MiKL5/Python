@@ -39,4 +39,4 @@ Combiner les dataframes
 Grouper les données  
 Tableaux croisées dynamiques  
 Opérations  
-<!-- Traiter les données manquantes   -->
+Traiter les données manquantes  
