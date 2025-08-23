@@ -1,4 +1,4 @@
-# **Tableau structuré et détaillé des concepts clés en data analyse et science des données avec NumPy et Pandas**<a href="../../"><img align="right" src="../../assets/Jupyter.svg" alt="Jupyter" height="64px"></a>
+# **Tableau structuré et détaillé des concepts clés en data analyse et science des données avec NumPy et Pandas**<a href="../"><img align="right" src="../../assets/Jupyter.svg" alt="Jupyter" height="64px"></a>
 
 * NumPy est principalement utilisé pour la création, manipulation, indexation et calculs sur des tableaux numériques multidimensionnels.
 * Pandas étend ces capacités avec des structures de données plus avancées : Series (1D) et DataFrames (2D), adaptées à la gestion et analyse de données tabulaires.

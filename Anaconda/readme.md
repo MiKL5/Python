@@ -1,16 +1,16 @@
 # **Python pour la Data Analyse et la Data Science**<a href="../"><img align="right" src="../assets/Jupyter.svg" alt="Jupyter" height="64px"><img align="right" src="../assets/Anaconda.svg" alt="Anaconda" height="64px"></a>
-## **[Numpy](learningNumpy/)** <a href="learningNumpy"><img align="left" src="../assets/numpy.svg" alt="Numpy" height="24px"></a>
+## **[Numpy](numpy)** <a href="learningNumpy"><img align="left" src="../assets/numpy.svg" alt="Numpy" height="24px"></a>
 Vecteurs  
 Matrices  
 Tableau en 3D  
 La fonction "`arange()`"  
-[Les attributs de l'objet array](learningNumpy/arrayAttribut)  
+[Les attributs de l'objet array](numpy/arrayAttribut)  
 La méthode reshape  
 La méthode resize  
 Concaténer les tableaux  
 Autocontruction de tableaux  
-[La fonction "`linspace()`"](learningNumpy/linspaceFunction)  
-[`arange()` vs `linspace()`](learningNumpy/linspaceVsArange)  
+[La fonction "`linspace()`"](numpy/linspaceFunction)  
+[`arange()` vs `linspace()`](numpy/linspaceVsArange)  
 Créer aléatoirement un tableaux  
 Méthodes de calcul  
 Indexer des tableaux  
@@ -20,7 +20,7 @@ Modifier des tableaux selon des conditions
 Binariser une matrice  
 Opérations d'algèbre linéaire  
 Opération avec les matrice
-## **[Pandas](learnPandas/)** <a href="learningPandas"><img align="left" src="../assets/Pandas_mark.svg" alt="Pandas" height="24px"></a>
+## **[Pandas](pandas/)** <a href="learningPandas"><img align="left" src="../assets/Pandas_mark.svg" alt="Pandas" height="24px"></a>
 Les séries  
 Séries comme dictionnaire  
 Modifier une série Pandas  
@@ -40,3 +40,8 @@ Grouper les données
 Tableaux croisées dynamiques  
 Opérations  
 Traiter les données manquantes  
+Utiliser le format CSV  
+Utiliser le format xlsx  
+Utiliser la format html
+## **[Matplotlib](matplotlib/)** <a href="matplotlib"><img align="left" src="../assets/MatplotlibIcon.svg" alt="Matplotlib" height="24px"></a>
+[Représentation graphiques]()
