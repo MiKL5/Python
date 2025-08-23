@@ -1,4 +1,4 @@
-# **Numpy**<a href="../../"><img align="right" src="../../assets/Numpy.svg" alt="Numpy" height="64px"></a>
+# **Numpy**<a href="../"><img align="right" src="../../assets/NumPy_2020.svg" alt="Numpy" height="64px"></a>
 C'est une bibliothèque, un package Python signifie "`Numerical Python`" et un module C optimisé : son cœur est écrit en C pour la performance.  
 C'est l'une des principale bibliothèque pour l'informatique scientifique.  
 Elle est constituée d'objets, tableaux multidimensionnels (ndarray) & d'une collection de routines pour les tableaux ou les traitements de tableaux.
@@ -40,7 +40,7 @@ Numpy est ultra-rapide pour des données homogènes et volumineuses, grâce à l
 Numpy manipule les tableaux pour le calcule numérique.
 
 Un vecteur peut être d'une seule ligne et colonne. La matrice en a <!--forcément plusieurs--> au moins 2 colonnes et lignes. Au delà, un tableau nD.
-![dimensions](../assets/diagrams/dimension.png)
+![dimensions](../../assets/diagrams/dimension.png)
 
 ##
 Type / Ca | Lignes (m) | Colonnes (n) | Exemple en Numpy | Commentaire 
