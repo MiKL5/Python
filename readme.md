@@ -80,7 +80,7 @@
 <!-- [Exercices 30](exercises/practice30) ···· Les bases de pygame   -->
 <h2 align="center"><b>🔗 Sujets connexes</b></h2>
 
-🧠 [Data Ccience](https://github.com/MiKL5/DataScience)  
+🧠 [Data science](https://github.com/MiKL5/DataScience)  
 🤖🧠 [Machine Learning](https://github.com/MiKL5/machineLearning)
 <!-- <div align="center">
 <a href="docs"><img assets="assets/images/snake.png" alt="Python" width="300px"></a> -->

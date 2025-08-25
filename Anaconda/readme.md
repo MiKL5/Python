@@ -43,7 +43,13 @@ Traiter les données manquantes
 Utiliser le format CSV  
 Utiliser le format xlsx  
 Utiliser la format html
-## **[Matplotlib](matplotlib/)** <a href="matplotlib"><img align="left" src="../assets/MatplotlibIcon.svg" alt="Matplotlib" height="24px"></a>
-[Matplotlib](matplotlib)  
+## **[Matplotlib](matplotlib)** <a href="matplotlib"><img align="left" src="../assets/MatplotlibIcon.svg" alt="Matplotlib" height="24px"></a>
 Représentation graphiques  
 Axes et titres des représentations  
+Réglage du tracé et des axes  
+Figures, subplots et axes  
+Histogrammes  
+Comparer les histogrammes  
+Diagrammes à boite  
+Nuages de points et courbes en 3D  
+Représentation en 3D et fonctions à 2 variables
