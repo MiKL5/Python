@@ -55,7 +55,7 @@ Nuages de points et courbes en 3D
 Représentation en 3D et fonctions à 2 variables
 ## **[Seaborn](Seaborn)** <a href="Seaborn"><img align="left" src="../assets/seaborn.svg" alt="Seaborn" height="24px"></a>
 Graphique d'une distribution de variable quantitative  
-<!-- La fonction `seaborn.catplot()`   -->
+La fonction `seaborn.catplot()`  
 <!-- Graphique d'une distribution de variable qualitative   -->
 <!-- Croisement de deux variables quantitatives   -->
 <!-- Croisement de deux variables qualitatives   -->
