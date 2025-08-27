@@ -60,7 +60,7 @@ Graphique d'une distribution de variable qualitative
 Croisement de deux variables quantitatives  
 Croisement de deux variables qualitatives  
 Croisement d'uen variable quantitatives et d'une qualitative  
-<!-- Multivariables : croisement de trois variables   -->
+Multivariables : croisement de trois variables  
 <!-- Étude des corélations   -->
 <!-- Représentation d'un TCD   -->
 <!-- Régesssion linéaire -->
