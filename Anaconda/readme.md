@@ -62,5 +62,5 @@ Croisement de deux variables qualitatives
 Croisement d'uen variable quantitatives et d'une qualitative  
 Multivariables : croisement de trois variables  
 Étude des corrélations  
-<!-- Représentation d'un TCD   -->
-<!-- Régesssion linéaire -->
+Représentation d'un TCD  
+Régesssion linéaire
