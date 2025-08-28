@@ -78,6 +78,12 @@
 <!-- [Exercices 28](exercises/practice28) ···· L'identification de type   -->
 <!-- [Exercices 29](exercises/practice29) ···· Les décorateurs   -->
 <!-- [Exercices 30](exercises/practice30) ···· Les bases de pygame   -->
+```
+    Data Analyse et Data Science
+```
+ <a href="#"><img align="right" src="assets/Jupyter.svg" alt="Jupyter" height="64px"></a>
+
+[Data Analyse](Anaconda)
 <h2 align="center"><b>🔗 Sujets connexes</b></h2>
 
 🧠 [Data science](https://github.com/MiKL5/DataScience)  
