@@ -1,4 +1,6 @@
 # **Python pour la Data Analyse et la Data Science**<a href="../"><img align="right" src="../assets/Jupyter.svg" alt="Jupyter" height="64px"><img align="right" src="../assets/Anaconda.svg" alt="Anaconda" height="64px"></a>
+## **Projets**
+[Analyse des données de Netflic](netflix) <kdb>_wip_</kbd>
 ## **[Numpy](numpy)** <a href="learningNumpy"><img align="left" src="../assets/numpy.svg" alt="Numpy" height="24px"></a>
 Vecteurs  
 Matrices  
@@ -64,3 +66,5 @@ Multivariables : croisement de trois variables
 Étude des corrélations  
 Représentation d'un TCD  
 Régesssion linéaire
+### **Machine learning**
+[Analyse des données de Netflix](netflix)

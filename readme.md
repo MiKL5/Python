@@ -10,7 +10,8 @@
     Projets avec Django
 ```
 [Docblog](projets/django/docBlog)  
-[Website](projets/django/website)
+[Website](projets/django/website)  
+[Analyse des données de Netflic](Anaconda/netflix) <kdb>_wip_</kbd>
 <!-- ```
     Projets en machine learning
 ```
