@@ -1,11 +1,11 @@
-# Analyse des Données Netflix<a href="../"><img align="right" src="../../../assets/Jupyter.svg" alt="Jupyter" height="64px"><img align="right" src="https://commons.wikimedia.org/wiki/File:Netflix_icon.svg" alt="netflix" height="64px"></a>
+<h1><b>Analyse des Données <a href="#"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Netflix_2015_N_logo.svg?uselang=fr" alt="netflix" height="36px"></a>etflix</b><a href="../"><img align="right" src="../../../assets/Jupyter.svg" alt="Jupyter" height="64px"></a></h1>
 
 > Ce projet explore les données des films et séries disponibles sur Netflix, en utilisant des techniques d'analyse de données et de visualisation pour identifier des tendances, des préférences par pays, et des évolutions au fil du temps.
 
 ---
 
 ## 📌 Contexte
-Netflix est l'une des plateformes de streaming les plus populaires au monde. Ce projet vise à :
+Ce projet vise à :
 - Analyser la répartition des films et séries par pays.
 - Identifier les tendances de production au fil des années.
 - Explorer les genres les plus populaires.
@@ -13,7 +13,7 @@ Netflix est l'une des plateformes de streaming les plus populaires au monde. Ce 
 ---
 
 ## 📦 Dépendances
-Pour exécuter ce projet, installez les librairies suivantes :
+Pour exécuter ce projet, installez les librairies :
 ```bash
 pip install pandas numpy matplotlib seaborn jupyter
 ```
@@ -56,9 +56,9 @@ plt.show()
 - **Top 5 des pays producteurs** : États-Unis, Inde, Royaume-Uni, Japon, Corée du Sud.
 - **Année avec le plus de contenus ajoutés** : 2020.
 - **Genres dominants** : Documentaires, Comédies, Dramas.
-
+<!-- 
 ---
 
 ## 👤 Auteur
-- **Mickaël Gaillard**
-- Date : 29/08/2025
+- **Mickael Gaillard**
+- Date : 29/08/2025 -->
