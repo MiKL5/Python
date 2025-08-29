@@ -1,64 +1,42 @@
-<h1><b>Analyse des Données <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Netflix_2015_N_logo.svg?uselang=fr" alt="netflix" height="36px">etflix</b><a href="../"><img align="right" src="../../../assets/Jupyter.svg" alt="Jupyter" height="64px"></a></h1>
 
-> Ce projet explore les données des films et séries disponibles sur Netflix, en utilisant des techniques d'analyse de données et de visualisation pour identifier des tendances, des préférences par pays, et des évolutions au fil du temps.
+# Analyse Descriptive des catégories<a href="../"><img align="right" src="../../../assets/Jupyter.svg" alt="Jupyter" height="64px"><img align="left000" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Netflix_2015_N_logo.svg?uselang=fr" alt="netflix" height="64px"></a>
+## Description
+Ce fichier décrit l'analyse de la colonne `rating` du jeu de données Netflix. Les catégories de notation indiquent l'audience cible pour chaque contenu.
+## Catégories de Notation
+Voici les différentes catégories de notation et leur signification :
 
----
-
-## 📌 Contexte
-Ce projet vise à :
-- Analyser la répartition des films et séries par pays.
-- Identifier les tendances de production au fil des années.
-- Explorer les genres les plus populaires.
-
----
-
-## 📦 Dépendances
-Pour exécuter ce projet, installez les librairies :
-```bash
-pip install pandas numpy matplotlib seaborn jupyter
-```
-
----
-
-## 🔧 Étapes Clés
-
-### 1. **Chargement et Prétraitement des Données**
-- Lecture du fichier CSV contenant les données Netflix.
-- Nettoyage des valeurs manquantes et des doublons.
-- Conversion des colonnes de dates en format exploitable.
-
+- **`g`** et **`tv-g`** : Contenu adapté à tous les âges.
+- **`tv-y`** : Contenu adapté aux enfants de 2 à 6 ans.
+- **`tv-y7`** : Contenu recommandé dès 7 ans.
+- **`tv-y7-fv`** : Contenu recommandé dès 7 ans avec une nuance supplémentaire.
+- **`pg`** : Certains passages ne sont pas adaptés aux enfants.
+- **`pg-13`** : Interdit aux moins de 12 ans.
+- **`tv-14`** : Contient des passages inadaptés aux moins de 14 ans.
+- **`tv-pg`** : Inadapté aux jeunes enfants.
+- **`R`** : Les moins de 18 ans doivent être accompagnés d'un adulte.
+- **`tv_ma`** : Destiné à un public adulte.
+- **`nc-17`** : Réservé à un public adulte uniquement.
+- **`nr`** et **`ur`** : Non évalué.
+## Visualisations
+### Histogramme des Fréquences en Pourcentage
+Un histogramme a été créé pour montrer la distribution des catégories de notation en pourcentage.
 ```python
-import pandas as pd
-data = pd.read_csv("netflix_data.csv")
-data['date_added'] = pd.to_datetime(data['date_added'], errors='coerce')
+plt.figure(figsize=(12,6))
+data['rating'].value_counts(normalize=True).plot.bar()
+plt.title('Distribution des catégories')
+plt.xlabel('Catégories')
+plt.ylabel('Fréquence en pourcentage')
 ```
-
-### 2. **Analyse Exploratoire**
-- Statistiques descriptives (nombre de films vs séries, répartition par pays).
-- Visualisation des tendances de production par année.
-
+### Histogramme avec Seaborn
+Un histogramme utilisant Seaborn a été généré pour afficher le nombre d'occurrences de chaque catégorie.
 ```python
-import matplotlib.pyplot as plt
-data['year_added'] = data['date_added'].dt.year
-data['year_added'].value_counts().sort_index().plot(kind='bar')
-plt.title("Nombre de contenus ajoutés par année")
-plt.show()
+sns.catplot(x='rating', data=data, kind='count')
+fig = plt.gcf()
+fig.set_size_inches(12,6)
+plt.title('Distribution des catégories')
 ```
-
-### 3. **Visualisation des Résultats**
-- Cartes et graphiques pour illustrer les résultats :
-  - Répartition des contenus par pays.
-  - Évolution des genres au fil du temps.
-
----
-
-## 📈 Résultats
-- **Top 5 des pays producteurs** : États-Unis, Inde, Royaume-Uni, Japon, Corée du Sud.
-- **Année avec le plus de contenus ajoutés** : 2020.
-- **Genres dominants** : Documentaires, Comédies, Dramas.
-<!-- 
----
-
-## 👤 Auteur
-- **Mickael Gaillard**
-- Date : 29/08/2025 -->
+### Diagramme Circulaire
+Un diagramme circulaire a été créé pour montrer la répartition des catégories sous forme de camembert.
+```python
+data['rating'].value_counts().plot.pie(autopct='%1.1f%%', shadow=False, figsize=(12,12))
+```
