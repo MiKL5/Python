@@ -11,7 +11,7 @@
 ```
 [Docblog](projets/django/docBlog)  
 [Website](projets/django/website)  
-[Analyse des données de Netflic](Anaconda/netflix) <kdb>_wip_</kbd>
+[Analyse des données de Netflic](Anaconda/netflix) <kbd>_wip_</kbd>
 <!-- ```
     Projets en machine learning
 ```
