@@ -1,4 +1,4 @@
-# Analyse des Données Netflix<a href="../../"><img align="right" src="../../../../assets/Jupyter.svg" alt="Jupyter" height="64px"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png" alt="netflix" height="36px"></a>
+# Analyse des Données <a href="#"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Netflix_2015_N_logo.svg?uselang=fr" alt="netflix" height="36px"></a>etflix<a href="../../"><img align="right" src="../../../../assets/Jupyter.svg" alt="Jupyter" height="64px"></a>
 Analyse d'un jeu de données de Netflix pour visualiser la répartition des types de programmes (films et séries).
 ## Description
 Les bibliothèques `pandas`, `seaborn`, et `matplotlib` servent à l'analyse et la visualisation des données.

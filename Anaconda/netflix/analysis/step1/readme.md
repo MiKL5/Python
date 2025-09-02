@@ -1,5 +1,5 @@
 
-# Analyse Descriptive des catégories<a href="../../"><img align="right" src="../../../../assets/Jupyter.svg" alt="Jupyter" height="64px"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png" alt="netflix" height="36px"></a>
+# Analyse Descriptive des catégories de <a href="#"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Netflix_2015_N_logo.svg?uselang=fr" alt="netflix" height="36px"></a>etflix<a href="../../"><img align="right" src="../../../../assets/Jupyter.svg" alt="Jupyter" height="64px"></a>
 ## Description
 Ce fichier décrit l'analyse de la colonne `rating` du jeu de données Netflix. Les catégories de notation indiquent l'audience cible pour chaque contenu.
 ## Catégories de Notation
