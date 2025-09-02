@@ -1,5 +1,5 @@
 <h1><b>Analyse des Données <a href="#"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Netflix_2015_N_logo.svg?uselang=fr" alt="netflix" height="36px"></a>etflix</b><a href="../"><img align="right" src="../../../../assets/Jupyter.svg" alt="Jupyter" height="64px"></a></h1>
-
+<!-- 
 ## Sommaire
 - [Objectif](#objectif)
 - [Étapes principales du traitement](#étapes-principales-du-traitement)  
@@ -7,9 +7,10 @@
   - [2. Analyse des pays producteurs](#2-analyse-des-pays-producteurs)  
   - [3. Visualisation du Top 25](#3-visualisation-du-top-25)  
   - [4. Visualisation du Top 15 avec style personnalisé](#4-visualisation-du-top-15-avec-style-personnalisé)  
-- [Compétences démontrées](#compétences-démontrées)  
-<!-- - [Perspectives d’amélioration](#perspectives-damélioration)   -->
----
+- [Compétences démontrées](#compétences-démontrées)   -->
+<!-- - [Perspectives d’amélioration](#perspectives-damélioration)
+--- -->
+
 ## Objectif
 Extraire, transformer et visualiser les données liées aux pays producteurs présents dans la base, afin d’identifier les pays les plus représentés et de produire des visualisations exploitables pour l’analyse.
 ---
