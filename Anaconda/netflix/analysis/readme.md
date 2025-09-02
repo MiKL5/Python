@@ -5,6 +5,6 @@
 [À chaque année, est-ce concentrer sur les films ou séries](step4)  
 [Tendance des acquisitions](step5)  
 [Type de production selon la catégorie d'évaluation](step6)  
-<!-- [Production par pays](step7)   -->
+[Production par pays](step7)  
 <!-- [Type de production par pays](step8)   -->
 <!-- [Top des 10 catégories](step9) -->
