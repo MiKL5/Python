@@ -1,15 +1,17 @@
 # **Python** <a href="docs"><img align="right" src="assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
 
 ```
+    Projets avec Jupyter notebook
+```
+[Analyse des données de Netflic](Anaconda/netflix)  
+<!-- [Analyse des données des universités américaines](Anaconda/usUniversities) -->
+```
     Projets
 ```
 [Casseur de mot de passe](projets/psswdBreaker) <!--<kbd>_**Wip**_</kbd>-->  
 [Chatbot basé sur l'IA générative](projets/firstChatbot)  
 <!-- [Jeu Snake](projects/snake) - _(soon)_  -->
-```
-    Projets avec Jupyter notebook
-```
-[Analyse des données de Netflic](Anaconda/netflix) <kbd>_wip_</kbd>
+
 ```
     Projets avec Django
 ```
