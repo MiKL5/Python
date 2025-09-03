@@ -1,0 +1,3 @@
+# Machine Learning avec <a href="#"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Netflix_2015_N_logo.svg?uselang=fr" alt="netflix" height="36px"></a>etflix<a href="../"><img align="right" src="../../../assets/Jupyter.svg" alt="Jupyter" height="64px"></a>
+[Les recommendatoins](makeRecommendations)  
+[L'analyse de similarité](similarity)  
