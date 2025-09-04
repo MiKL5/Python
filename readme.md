@@ -9,7 +9,7 @@
 [Prédiction immobilière à Melbourne](https://github.com/MiKL5/machineLearning/blob/master/projects/melbourne)  
 [Prédiction du prix des maisons](https://github.com/MiKL5/machineLearning/blob/master/projects/house)   -->
 ## **Projets**
-[Casseur de mot de passe](projets/psswdBreaker) <!--<kbd>_**Wip**_</kbd>-->  <!-- [Jeu Snake](projects/snake) - _(soon)_  -->
+[Casseur de mot de passe](projets/psswdBreaker) <!--<kbd>_**Wip**_</kbd>-->  <!-- [Jeu Snake](projects/snake) - _(soon)_  -->  
 👉 [**Tout voir**](projets)
 ## Mini-projets
 [Jeu de rôle](exercises/more/rpg)  
@@ -23,4 +23,4 @@
 
 🧠 [Data science](https://github.com/MiKL5/DataScience)  
 🤖🧠 [Machine Learning](https://github.com/MiKL5/machineLearning)
-<div align="center"><a href="anaconda"><img src="assets/images/snake.png" alt="Python" width="300px"></a>
+<div align="center"><a href="Anaconda"><img src="assets/images/snake.png" alt="Python" width="300px"></a>

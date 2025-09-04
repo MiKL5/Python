@@ -1,4 +1,4 @@
-# **Python pour la Data Analyse et la Data Science**<a href="../"><img align="right" src="../assets/logo/Jupyter.svg" alt="Jupyter" height="64px"><img align="right" src="../assets/Anaconda.svg" alt="Anaconda" height="64px"></a>
+# **Python pour la Data Analyse et la Data Science**<a href="../"><img align="right" src="../assets/logo/Jupyter.svg" alt="Jupyter" height="64px"><img align="right" src="../assets/logo/Anaconda.svg" alt="Anaconda" height="64px"></a>
 ## **Projets**
 [Analyse des données de Netflic](netflix)  
 [Analyse des données des universitées](usUniversities)  <kdb>_soon_</kbd>
