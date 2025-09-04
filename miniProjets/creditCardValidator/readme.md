@@ -1,4 +1,4 @@
-# **Valideur de carte de crédit**  <a href="../../"><img align="right" src="../../assets/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
+# **Valideur de carte de crédit**  <a href="../../"><img align="right" src="../../assets/logo/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
 
 Ce programme demande un numéro de carte bancaire puis vérifie si elle est valide ou non.
 

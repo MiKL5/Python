@@ -1,7 +1,4 @@
-# **Python** <a href="../"><img align="right" src="../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
-```
-    Exercices
-```
+# **Exercices** <a href="../"><img align="right" src="../assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 [Exercices 1](exercises/practice1) ······ Afficher et calculer les nombres  
 [Exercices 2](exercises/practice2) ······ Chaînes de caractères, variable et saisi de données par l'utilisateur  
 [Exercices 3](exercises/practice3) ······ Formatage des chaînes de caractères et traitement des entrées utilisateur  

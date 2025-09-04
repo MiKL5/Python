@@ -1,4 +1,4 @@
-# **Numpy**<a href="../"><img align="right" src="../../assets/NumPy_2020.svg" alt="Numpy" height="64px"></a>
+# **Numpy**<a href="../"><img align="right" src="../../assets/logo/NumPy_2020.svg" alt="Numpy" height="64px"></a>
 C'est une bibliothèque, un package Python signifie "`Numerical Python`" et un module C optimisé : son cœur est écrit en C pour la performance.  
 C'est l'une des principale bibliothèque pour l'informatique scientifique.  
 Elle est constituée d'objets, tableaux multidimensionnels (ndarray) & d'une collection de routines pour les tableaux ou les traitements de tableaux.

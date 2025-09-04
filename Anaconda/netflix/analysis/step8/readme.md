@@ -1,4 +1,4 @@
-## **Productions <a href="#"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Netflix_2015_N_logo.svg?uselang=fr" alt="netflix" height="36px"></a>etflix par pays selon le type**<a href="../"><img align="right" src="../../../../assets/Jupyter.svg" alt="Jupyter" height="64px"></a></h1>
+## **Productions <a href="#"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Netflix_2015_N_logo.svg?uselang=fr" alt="netflix" height="36px"></a>etflix par pays selon le type**<a href="../"><img align="right" src="../../../../assets/logo/Jupyter.svg" alt="Jupyter" height="64px"></a></h1>
 ## **🎯 Objectif**
 Identifier et comparer la répartition des productions audiovisuelles (films et émissions) dans les 10 pays les plus producteurs, afin de mettre en évidence les spécificités nationales.
 ## **🛠️ Étapes du traitement**

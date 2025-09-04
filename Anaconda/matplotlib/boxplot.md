@@ -1,4 +1,4 @@
-# **Le diagramme à boîte**<a href=",,/"><img align="right" src="../../assets/MatplotlibIcon.svg" alt="Matplotlib" height="64px"></a>
+# **Le diagramme à boîte**<a href=",,/"><img align="right" src="../../assets/logo/MatplotlibIcon.svg" alt="Matplotlib" height="64px"></a>
 La boîte à moustache (ou diagramme en boîte) est un outil graphique utilisé en statistique pour résumer et visualiser une série de données numériques de manière rapide et synthétique.
 ## **À quoi sert la boîte à moustache ?**
 * Visualiser la distribution : Elle permet d'afficher la répartition des valeurs d'un ensemble de données, notamment la médiane, les quartiles, ainsi que les valeurs extrêmes.

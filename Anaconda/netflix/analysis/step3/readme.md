@@ -1,4 +1,4 @@
-# Analyse des productions <a href="#"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Netflix_2015_N_logo.svg?uselang=fr" alt="netflix" height="36px"></a>etflix ajoutées par année<a href="../../"><img align="right" src="../../../../assets/Jupyter.svg" alt="Jupyter" height="64px"></a>
+# Analyse des productions <a href="#"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Netflix_2015_N_logo.svg?uselang=fr" alt="netflix" height="36px"></a>etflix ajoutées par année<a href="../../"><img align="right" src="../../../../assets/logo/Jupyter.svg" alt="Jupyter" height="64px"></a>
 Ce projet propose une **analyse exploratoire des données (EDA)** issues d’un dataset Netflix.  
 L’accent est mis sur la **visualisation et l’interprétation des tendances** liées aux productions présentes sur la plateforme.
 ---

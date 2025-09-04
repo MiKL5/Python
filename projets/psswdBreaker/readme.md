@@ -1,4 +1,4 @@
-# **Casseur de mot de passe** <a href="../../"><img align="right" src="../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
+# **Casseur de mot de passe** <a href="../../"><img align="right" src="../../assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 
 Ce programme est capable de 
 * deviner un mot de passe

@@ -1,4 +1,4 @@
-# **Les attributs de tableau**<a href="../../"><img align="right" src="../../../assets/numpy_2020.svg" alt="Numpy" height="64px"></a>
+# **Les attributs de tableau**<a href="../../"><img align="right" src="../../../assets/logo/numpy_2020.svg" alt="Numpy" height="64px"></a>
 Attribut|Description
 :-:|---
 T|Retourne une vue transposée du tableau.

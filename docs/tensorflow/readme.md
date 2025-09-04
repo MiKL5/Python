@@ -1,4 +1,4 @@
-# **Qu'est-ce que Tensorflow ?** <a href="../"><img align="right" src="../../assets/Tensorflow.png" alt="Tensorflow" height="64px"></a>
+# **Qu'est-ce que Tensorflow ?** <a href="../"><img align="right" src="../../assets/logo/Tensorflow.png" alt="Tensorflow" height="64px"></a>
 C'est une bibliothèque open source de Google. Elle est dédiée au calcul numérique et au machine learning à grande échelle. Son but est de créer, déployer des modèles de ML à certaines plateformes (ordis de bureau, appareils modèles, cloud, et cætera).
 ## **Les principales caractéristiques**  
 * La flexibilité  

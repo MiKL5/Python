@@ -1,4 +1,4 @@
-# **Créer un projet avec Django** <a href="../../"><img align="right" src="../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
+# **Créer un projet avec Django** <a href="../../"><img align="right" src="../../assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 Créer l'environnement virtuel.
 ```pwsh
 python3.12 -m venv .env

@@ -1,4 +1,4 @@
-# **La bibliothèque Pandas**<a href="../"><img align="right" src="../../assets/Pandas.svg" alt="Pandas" height="64px"></a>
+# **La bibliothèque Pandas**<a href="../"><img align="right" src="../../assets/logo/Pandas.svg" alt="Pandas" height="64px"></a>
 Pandas est une bibliothèque open source Python très populaire pour la manipulation et l'analyse de données [1][2]. Elle offre des structures de données performantes et faciles à utiliser, ainsi que des outils d'analyse de données.  
 Pandas Pandas est un package plus récent construit sur l'exploitation de Numpy et fournit une implémentation efficace appelée "DataFrame".
 

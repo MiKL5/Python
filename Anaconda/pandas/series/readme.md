@@ -1,4 +1,4 @@
-# **Les sériess**<a href="../"><img align="right" src="../../../assets/Pandas.svg" alt="Pandas" height="64px"></a>
+# **Les sériess**<a href="../"><img align="right" src="../../../assets/logo/Pandas.svg" alt="Pandas" height="64px"></a>
 Une Series Pandas est une structure de données unidimensionnelle étiquetée, capable de contenir des données de n'importe quel type (entiers, flottants, chaînes de caractères, etc.). On peut la considérer comme une colonne dans un tableur ou une simple colonne d'une table de base de données.
 ## **Ce qu'il faut retenir des séries Pandas**
 * Unidimensionnelle : Elle ne contient qu'une seule dimension de données, contrairement à un DataFrame qui en a deux (lignes et colonnes).

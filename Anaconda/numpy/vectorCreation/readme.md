@@ -1,4 +1,4 @@
-# **Création de vecteur**<a href="../"><img align="right" src="../../../assets/Numpy.svg" alt="Numpy" height="64px"></a>
+# **Création de vecteur**<a href="../"><img align="right" src="../../../assets/logo/Numpy.svg" alt="Numpy" height="64px"></a>
 ## 1️⃣ **À partir d’une liste existante**
 ```py
 import numpy as np

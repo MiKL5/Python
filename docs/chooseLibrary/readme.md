@@ -1,4 +1,4 @@
-# **Quelle librairie choisir ?**<a href="../"><img src="https://github.com/MiKL5/BI/raw/master/assets/bi.svg" alt="Les intelligences artificielles" align="right" height="64px"></a>
+# **Quelle librairie choisir ?**<a href="../"><img src="../../assets/logo/Python-logo-notext.svg" alt="Python" align="right" height="64px"></a>
 Le choix entre PyTorch et d'autres bibliothèques tel que TensorFlow, Scikit-learn, ou encore des frameworks spécialisés (e.g. `Keras`, `MXNet`) dépend de plusieurs critères du projet, des compétences de l'équipe et des contraintes techniques.   
 ## **Selon les objectifs du projet**
 Projet | PyTorch | Alternative

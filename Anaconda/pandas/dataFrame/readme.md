@@ -1,4 +1,4 @@
-# **Le DataFrame**<a href="../"><img align="right" src="../../../assets/Pandas.svg" alt="Pandas" height="64px"></a>
+# **Le DataFrame**<a href="../"><img align="right" src="../../../assets/logo/Pandas.svg" alt="Pandas" height="64px"></a>
 Un DataFrame (cadre de données) est le seconde structure de données fondamentale dans la bibliothèque Pandas. Il s'agit d'une structure de données tabulaire bidimensionnelle, de taille variable, potentiellement hétérogène, avec des lignes et des colonnes étiquetées. Vous pouvez le considérer comme une feuille de calcul ou une table SQL, ou encore comme un dictionnaire d'objets Series. C'est l'objet le plus couramment utilisé avec Pandas.  
 C'est comme une généralisation d'un tableau NumPy ou comme une spécialisation d'un tableau Python.
 # Les principales caractéristiques

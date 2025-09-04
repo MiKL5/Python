@@ -1,4 +1,4 @@
-# **Tableau structuré et détaillé des concepts clés en data analyse et science des données avec NumPy et Pandas**<a href="../"><img align="right" src="../../assets/Jupyter.svg" alt="Jupyter" height="64px"></a>
+# **Tableau structuré et détaillé des concepts clés en data analyse et science des données avec NumPy et Pandas**<a href="../"><img align="right" src="../../assets/logo/Jupyter.svg" alt="Jupyter" height="64px"></a>
 
 * NumPy est principalement utilisé pour la création, manipulation, indexation et calculs sur des tableaux numériques multidimensionnels.
 * Pandas étend ces capacités avec des structures de données plus avancées : Series (1D) et DataFrames (2D), adaptées à la gestion et analyse de données tabulaires.
@@ -31,7 +31,7 @@ Les bibliothèques NumPy et Pandas sont des piliers fondamentaux de l’écosyst
 **Traitement des données (Pandas)** | `df.dropna()`, `df.fillna()`    | Gestion des valeurs manquantes. Exemple : `df.dropna()` | `dropna` supprime les lignes avec NaN, `fillna` remplit avec une valeur | DataFrame | [Pandas dropna](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dropna.html) , [Pandas fillna](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.fillna.html)
 **Fonctions avancées (Pandas)** | `df.pivot_table()`, `df.apply()`| Création de tableaux croisés dynamiques et application de fonctions. Exemple : `df.pivot_table(values='D', index=['A', 'B'], columns=['C'], aggfunc=np.sum)` | Offrent des capacités avancées d’analyse et de transformation | DataFrame | [Pandas pivot_table](https://pandas.pydata.org/docs/reference/api/pandas.pivot_table.html) , [Pandas apply](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.apply.html)
 ## **Analyse détaillée**
-### **NumPy : Fondamentaux et manipulations de tableaux**<a href="../"><img align="left" src="../../assets/numpy.svg" alt="Numpy" height="24px"></a>
+### **NumPy : Fondamentaux et manipulations de tableaux**<a href="../"><img align="left" src="../../assets/logo/numpy.svg" alt="Numpy" height="24px"></a>
 NumPy est la bibliothèque de base pour le calcul scientifique en Python. Elle fournit des structures de données numériques multidimensionnelles (ndarray) et des outils pour leur manipulation.
 
 * Création de tableaux : Les fonctions np.array(), np.arange(), et np.linspace() permettent de créer des tableaux à partir de listes ou d’intervalles de valeurs. arange exclut la valeur stop, tandis que linspace l’inclut, ce qui est utile pour générer des axes de graphiques ou des échantillons uniformes.
@@ -40,7 +40,7 @@ NumPy est la bibliothèque de base pour le calcul scientifique en Python. Elle f
 * Algèbre linéaire : NumPy fournit des fonctions pour la multiplication matricielle (np.dot), la transposition (arr.T), et d’autres opérations matricielles essentielles pour les calculs scientifiques.
 * Calculs : Les méthodes sum(), mean(), et autres fonctions statistiques permettent d’effectuer des calculs sur les tableaux.
 * Fonctions avancées : Des fonctions comme argpartition() et where() offrent des capacités avancées de tri et de filtrage, utiles pour des analyses complexes.
-## **Pandas : Structures de données avancées et manipulation**<a href="../"><img align="left" src="../../assets/Pandas_mark.svg" alt="Pandas" height="24px"></a>
+## **Pandas : Structures de données avancées et manipulation**<a href="../"><img align="left" src="../../assets/logo/Pandas_mark.svg" alt="Pandas" height="24px"></a>
 Pandas étend NumPy en fournissant des structures de données plus flexibles et adaptées à la gestion de données tabulaires : les Series (1D) et les DataFrames (2D).
 
 * Series : Les Series sont des tableaux à une dimension avec un index, créés à partir de listes ou dictionnaires. Elles sont souvent utilisées comme colonnes dans les DataFrames.

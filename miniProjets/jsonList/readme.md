@@ -1,4 +1,4 @@
-# **Liste des livres en JSON** <a href="../../"><img align="right" src="../../assets/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
+# **Liste des livres en JSON** <a href="../../"><img align="right" src="../../assets/logo/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
 
 Le programme doit permettre : 
 * d'ajouter un livre ;

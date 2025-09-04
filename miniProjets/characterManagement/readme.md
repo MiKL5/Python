@@ -1,4 +1,4 @@
-# **Gestion de personnages**  <a href="../../"><img align="right" src="../../assets/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
+# **Gestion de personnages**  <a href="../../"><img align="right" src="../../assets/logo/Python-logo-notext.svg" alt="Python" title="Phthon" widht="auto" height="64px"></a>
 
 L'utilisateur peux :
 * Créer un personnage ;

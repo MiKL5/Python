@@ -1,4 +1,4 @@
-# **Python** <a href="docs"><img align="right" src="assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
+# **Python** <a href="docs"><img align="right" src="assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 ## **Projets avec Jupyter notebook**
 [Analyse des données de Netflix](Anaconda/netflix)  
 <!-- [Analyse des données des universités américaines](Anaconda/usUniversities) -->
@@ -14,29 +14,17 @@
 [Chatbot basé sur l'IA générative](projets/firstChatbot)  
 <!-- [Jeu Snake](projects/snake) - _(soon)_  -->
 ## Mini-projets
-[Calculateur de revenus](miniProjets/weeklySalaryCalculator "Calculateur simple de revenus")  
-[Fizz Buzz](miniProjets/FizzBuzz "Fizz Buzz")   
-[Budgets des films](miniProjets/filmBudgets "Troisième défi : budget des films")  
-[Nombre premier](miniProjets/primeNomber "Nombre premier")  
-[Nombre mystère](miniProjets/guessTheNumber)  
+[Budgets des films](miniProjets/filmBudgets)  
 [Jeu de rôle](exercises/more/rpg)  
-[Validateur de carte de crédit](miniProjets/creditCardValidator "Validateur de carte de crédit")  
-[Calculatrice avec opérations multiples](miniProjets/calculator "Calculatrice avec opérations multiples")  
-[Conversion d'entier et de binaire](miniProjets/integerBinaryConversion "Conversion de binaire en entier et vice versa")  
-[Calcul d'adresse et de masque réseau](miniProjets/networkAdressMask "Conversion de binaire en entier et vice versa")  
-[L'année de naissance](miniProjets/ageAndYearOfBirth "Saisir l'âge et afficher l'année de naissance")  
-[Liste de lecture](miniProjets/bookslist "Liste de lecture très simple")  
-[Liste de lecture dans un fichier CSV](miniProjets/booklist2 "Liste de lecture sauvegardée dans un fichier CSV (Comma Separated Values [valeurs séparées par des virgules])")  
-[Liste de course](exercises/more/shoppingList2)  
-[Les 50 premiers nombres premier](miniProjets/ListPrimeNumber "Liste des 50 premiers nombres premier")  
-[Dictionnaire de villes](miniProjets/dictionaryOfCities "Dictionnaire de ville")  
-[Gestion de personnages](miniProjets/characterManagement "Gestion de personnage")  
-[Tracer des graphiques](miniProjets/drawGraphs "Tracer un graphique")   
+[Validateur de carte de crédit](miniProjets/creditCardValidator)  
+[Calculatrice avec opérations multiples](miniProjets/calculator)  
+[Calcul d'adresse et de masque réseau](miniProjets/networkAdressMask)  
+[Liste de lecture dans un fichier CSV](miniProjets/booklist2)  
+[Dictionnaire de villes](miniProjets/dictionaryOfCities)  
+[Gestion de personnages](miniProjets/characterManagement)  
 [Password checker](exercises/more/passwordChecker)  
 [Calculatrice avec gestion d'erreur](exercises/more/calculatorWithErrorHandling)  
-<!-- [Lancer les dés](miniProjets/rollTheDices "Lancer les dés")    -->
-<!-- [Avocats](miniProjets/lawyers "Avocats")    -->
-<!-- [Web Scraping](miniProjets/webScraping "Web Scraping")    -->
+[**👉 Tout voir**](miniProjets)
 ##  [**Projets avec Django**](projets/django)
 ## [**📚 Exercices**](exercises)
 <h2 align="center"><b>🔗 Sujets connexes</b></h2>

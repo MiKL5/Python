@@ -1,4 +1,4 @@
-# **Les paramètres `blank` ou `null`**
+# **Les paramètres `blank` ou `null`** <a href="../../"><img align="right" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="Django" height="64px"></a>
 ## **Blank**
 Et utile pour les formulaires. Il évite qu'aucune valeur ne soit entrée, grâce à `blank = False`.  
 À l'inverse `blank = True` autorise que le champ soit vide.  

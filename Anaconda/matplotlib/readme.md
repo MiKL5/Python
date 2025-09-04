@@ -1,4 +1,4 @@
-# **Matplotlib** <a href="../"><img align="right" src="../../assets/MatplotlibIcon.svg" alt="Matplotlib" height="64px"></a>
+# **Matplotlib** <a href="../"><img align="right" src="../../assets/logo/MatplotlibIcon.svg" alt="Matplotlib" height="64px"></a>
 La datavviz est une technique permettant de transformer les données brutes en graphiques et diagrammes.  
 Ça facilite la lectures et la compréhension.
 

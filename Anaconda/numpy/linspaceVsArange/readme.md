@@ -1,4 +1,4 @@
-# **La fonction "`linspace()`"**<a href="../../"><img align="right" src="../../../assets/numpy_2020.svg" alt="Numpy" height="64px"></a>
+# **La fonction "`linspace()`"**<a href="../../"><img align="right" src="../../../assets/logo/numpy_2020.svg" alt="Numpy" height="64px"></a>
 Les fonctions numpy.linspace et numpy.arange sont toutes deux utilisées pour créer des séquences de nombres, mais elles fonctionnent différemment et sont adaptées à des besoins distincts. Voici leurs différences principales :
 ## **numpy.linspace**
 Objectif : Génère un nombre fixe de valeurs équidistantes entre une valeur de départ (start) et une valeur de fin (stop).

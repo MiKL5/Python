@@ -1,4 +1,4 @@
-# **La fonction "`linspace()`"**<a href="../../"><img align="right" src="../../../assets/numpy_2020.svg" alt="Numpy" height="64px"></a>
+# **La fonction "`linspace()`"**<a href="../../"><img align="right" src="../../../assets/logo/numpy_2020.svg" alt="Numpy" height="64px"></a>
 Si vous avez déjà eu besoin de créer une série de nombres régulièrement espacés (par exemple, pour tracer un graphique ou faire des calculs), cette fonction est faite pour vous.
 
 ## **À quoi ça sert ?**

@@ -1,8 +1,8 @@
-# **Python pour la Data Analyse et la Data Science**<a href="../"><img align="right" src="../assets/Jupyter.svg" alt="Jupyter" height="64px"><img align="right" src="../assets/Anaconda.svg" alt="Anaconda" height="64px"></a>
+# **Python pour la Data Analyse et la Data Science**<a href="../"><img align="right" src="../assets/logo/Jupyter.svg" alt="Jupyter" height="64px"><img align="right" src="../assets/Anaconda.svg" alt="Anaconda" height="64px"></a>
 ## **Projets**
 [Analyse des données de Netflic](netflix)  
 [Analyse des données des universitées](usUniversities)  <kdb>_soon_</kbd>
-## **[Numpy](numpy)** <a href="learningNumpy"><img align="left" src="../assets/numpy.svg" alt="Numpy" height="24px"></a>
+## **[Numpy](numpy)** <a href="learningNumpy"><img align="left" src="../assets/logo/numpy.svg" alt="Numpy" height="24px"></a>
 Vecteurs  
 Matrices  
 Tableau en 3D  
@@ -23,7 +23,7 @@ Modifier des tableaux selon des conditions
 Binariser une matrice  
 Opérations d'algèbre linéaire  
 Opération avec les matrice
-## **[Pandas](pandas/)** <a href="learningPandas"><img align="left" src="../assets/Pandas_mark.svg" alt="Pandas" height="24px"></a>
+## **[Pandas](pandas/)** <a href="learningPandas"><img align="left" src="../assets/logo/Pandas_mark.svg" alt="Pandas" height="24px"></a>
 Les séries  
 Séries comme dictionnaire  
 Modifier une série Pandas  
@@ -46,7 +46,7 @@ Traiter les données manquantes
 Utiliser le format CSV  
 Utiliser le format xlsx  
 Utiliser la format html
-## **[Matplotlib](matplotlib)** <a href="matplotlib"><img align="left" src="../assets/MatplotlibIcon.svg" alt="Matplotlib" height="24px"></a>
+## **[Matplotlib](matplotlib)** <a href="matplotlib"><img align="left" src="../assets/logo/MatplotlibIcon.svg" alt="Matplotlib" height="24px"></a>
 Représentation graphiques  
 Axes et titres des représentations  
 Réglage du tracé et des axes  
@@ -56,7 +56,7 @@ Comparer les histogrammes
 Diagrammes à boite  
 Nuages de points et courbes en 3D  
 Représentation en 3D et fonctions à 2 variables
-## **[Seaborn](Seaborn)** <a href="Seaborn"><img align="left" src="../assets/seaborn.svg" alt="Seaborn" height="24px"></a>
+## **[Seaborn](Seaborn)** <a href="Seaborn"><img align="left" src="../assets/logo/seaborn.svg" alt="Seaborn" height="24px"></a>
 Graphique d'une distribution de variable quantitative  
 La fonction `seaborn.catplot()`  
 Graphique d'une distribution de variable qualitative  
@@ -67,5 +67,3 @@ Multivariables : croisement de trois variables
 Étude des corrélations  
 Représentation d'un TCD  
 Régesssion linéaire
-<!-- ### **Data Analyse et Data Science**
-[Analyse des données de Netflix](netflix) -->

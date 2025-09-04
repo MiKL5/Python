@@ -1,4 +1,4 @@
-# **Qu'est-ce que PyTorch ?** <a href="../"><img align="right" src="../../assets/PyTorch.svg" alt="PyTorch" height="64px"></a>
+# **Qu'est-ce que PyTorch ?** <a href="../"><img align="right" src="../../assets/logo/PyTorch.svg" alt="PyTorch" height="64px"></a>
 PyTorch est une bibliothèque open-source de machine learning et de deep learning, développée principalement par Meta.  
 Largement utilisée pour construire, entraîner et déployer des modèles de réseaux neuronaux, elle est particulièrement appréciée pour sa flexibilité, sa simplicité et son intégration avec Python
 ## **Quelles sont ces principales caractéristiques ?**

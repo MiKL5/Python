@@ -1,4 +1,4 @@
-# 🔎 Analyse de Similarité des contenus de <a href="#"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Netflix_2015_N_logo.svg?uselang=fr" alt="netflix" height="36px"></a>etflix<!-- (Machine Learning)--><a href="../"><img align="right" src="../../../../assets/Jupyter.svg" alt="Jupyter" height="64px"></a>
+# 🔎 Analyse de Similarité des contenus de <a href="#"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Netflix_2015_N_logo.svg?uselang=fr" alt="netflix" height="36px"></a>etflix<!-- (Machine Learning)--><a href="../"><img align="right" src="../../../../assets/logo/Jupyter.svg" alt="Jupyter" height="64px"></a>
 ## 📌 Contexte
 >Ce module complète le système de recommandation en explorant les **relations de similarité entre contenus**.  
 À travers plusieurs visualisations (carte thermique, graphe de proximité, projection t-SNE), il met en évidence les **structures internes du catalogue** (films, séries) et permet de mieux comprendre la logique des recommandations.

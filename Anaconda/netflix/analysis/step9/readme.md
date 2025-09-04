@@ -1,4 +1,4 @@
-# **Top 10 des catégories de <a href="#"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Netflix_2015_N_logo.svg?uselang=fr" alt="netflix" height="36px"></a>etflix**<a href="../"><img align="right" src="../../../../assets/Jupyter.svg" alt="Jupyter" height="64px"></a></h1>
+# **Top 10 des catégories de <a href="#"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Netflix_2015_N_logo.svg?uselang=fr" alt="netflix" height="36px"></a>etflix**<a href="../"><img align="right" src="../../../../assets/logo/Jupyter.svg" alt="Jupyter" height="64px"></a></h1>
 ## **🎯 Objectifs**
 - Extraire et normaliser les informations pays et catégories.
 - Identifier les pays et catégories les plus productifs.
