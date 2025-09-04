@@ -1,4 +1,4 @@
-# **Joindre les éléments d'une liste**<a href="../../../"><img align="right" src="../../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
+# **Joindre les éléments d'une liste**<a href="../../../"><img align="right" src="../../../assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 ```py
 liste   = ["Python", "est", "un", "super", "langage"]
 

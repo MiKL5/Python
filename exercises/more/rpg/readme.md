@@ -1,4 +1,4 @@
-# **🎮 Jeu de role**<a href="../../../"><img align="right" src="../../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
+# **🎮 Jeu de role**<a href="../../../"><img align="right" src="../../../assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 Avec ce jeu de rôle très basique vous combattez un ennemi dans le terminal.  
 L'intérêt de ce projet est d'utiliser plusieurs concepts de programmation de base pour créer une expérience de jeu interactive.
 ## 📋 Description

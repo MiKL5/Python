@@ -1,4 +1,4 @@
-# **Les slices**<a href="../../../"><img align="right" src="../../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
+# **Les slices**<a href="../../../"><img align="right" src="../../../assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 Ce sont des tranches de lsite. Leur but est de récupérer certains éléménets de la liste (e.g. 1 éléments sur 2 ou les 3 premiers).  
 C'est exclusif, le deuxième élément n'est pas pris.
 ```py

@@ -1,4 +1,5 @@
-# **Les structures conditionnelles**
+# **Les structures conditionnelles**<a href="../../../"><img align="right" src="../../../assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
+```py
 ## **Les blocs d'instructions**
 À quoi servent-ils et quand sont-ils utilisés ?  
 Ils sont dans la pluspart des langages de programmations.  

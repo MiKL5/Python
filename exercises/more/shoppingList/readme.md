@@ -1,4 +1,4 @@
-# **Liste de courses teès simple et sans interface"**<a href="../../../"><img align="right" src="../../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
+# **Liste de courses teès simple et sans interface"**<a href="../../../"><img align="right" src="../../../assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 Ce script Python permet de gérer une liste de courses de manière interactive. Vous pouvez ajouter, retirer, lister et vider les éléments de votre liste de courses.
 
 ## **Fonctionnalités**

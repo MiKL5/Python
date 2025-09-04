@@ -1,4 +1,4 @@
-# **Le tuple**<a href="../../../"><img align="right" src="../../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
+# **Le tuple**<a href="../../../"><img align="right" src="../../../assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 Le tuple est limité en fonctionnalités et occupe moins de place en mémoire.  
 Il est immutable.
 

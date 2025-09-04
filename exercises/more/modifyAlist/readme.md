@@ -1,4 +1,4 @@
-# **Modifier un liste**<a href="../../../"><img align="right" src="../../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
+# **Modifier un liste**<a href="../../../"><img align="right" src="../../../assets/logo²/Python-logo-notext.svg" alt="Python" height="64px"></a>
 Pour ajouter une valeur, la méthode "``append``". Une méthode est analogue à une fonction. Elle est reliée directement par un point. Et entre parenthèse le contenu.
 ```py
 liste.append(5)

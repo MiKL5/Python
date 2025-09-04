@@ -1,4 +1,4 @@
-# **Règles et conventions de nommage**<a href="../../../"><img align="right" src="../../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
+# **Règles et conventions de nommage**<a href="../../../"><img align="right" src="../../../assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 ## **Impérativement**
 * Le nom d'une variable 
     * ne peut pas débuter par un chiffre. C'est possible à l'intérieur ou à la fin.

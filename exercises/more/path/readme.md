@@ -1,4 +1,4 @@
-# **Le problèmes des chemins**<a href="../../../"><img align="right" src="../../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
+# **Le problèmes des chemins**<a href="../../../"><img align="right" src="../../../assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 Il y a 3 modules pour créer ou gérer les fichiers.
 * `os` Concatener des morceaux de chemains. Créer et gérer des fichiers.
 * `shutil` pour déplacer les fichiers.

@@ -1,4 +1,4 @@
-# **Les opérateurs logiques**
+# **Les opérateurs logiques**<a href="../../../"><img align="right" src="../../../assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 `AND`, `OR` et `NOT`.
 
 En utilisant `AND` le code est exécuté si tout est vrai.  

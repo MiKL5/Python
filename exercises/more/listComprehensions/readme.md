@@ -1,4 +1,4 @@
-# **Les compréhensions de liste**<a href="../../../"><img align="right" src="../../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
+# **Les compréhensions de liste**<a href="../../../"><img align="right" src="../../../assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 Aussi nommée Liste en compréhension ou en anglais "Lis comprehension".
 
 Elle itère sur la lsite et filtre les éléments grâce aux structures conditionnelles, en une ligne.  

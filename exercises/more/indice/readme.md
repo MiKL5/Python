@@ -1,4 +1,4 @@
-# **Les indices**<a href="../../../"><img align="right" src="../../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
+# **Les indices**<a href="../../../"><img align="right" src="../../../assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 Les indices servent à récupérer les éléments dans une liste.  
 C'est la position d'un élément à la structure de données.  
 Python commence à compter de 0. Les indices négatifs sont disponibles, et correspondent au nombre éléments contenus. Ici "0" à pour indice négatif "-3".

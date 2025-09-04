@@ -1,4 +1,4 @@
-# **Les fonctions '`dir`' et '`help`'**<a href="../../../../"><img align="right" src="../../../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
+# **Les fonctions '`dir`' et '`help`'**<a href="../../../../"><img align="right" src="../../../../assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 Leurs but est de savoir ce que fait le module.
 ```py
 import random

@@ -1,4 +1,4 @@
-# **Manipuler les chaînes de caractères**<a href="../../../"><img align="right"src="../../../assets/Python-logo-notext.svg"alt="Python"height="64px"></a>
+# **Manipuler les chaînes de caractères**<a href="../../../"><img align="right" src="../../../assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 ## **Les méthodes pour changer la case**
 ```py
 "Bonjour".uipper()            # BONJOUR

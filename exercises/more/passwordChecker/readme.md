@@ -1,4 +1,4 @@
-# **Projet de Validation de Mot de Passe**<a href="../../../"><img align="right" src="../../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
+# **Projet de Validation de Mot de Passe**<a href="../../../"><img align="right" src="../../../assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 ## **Description**
 C'est un simple script qui demande un mot de passe et vérifie sa validité.  
 Le mot de passe doit respecter les critères de sécurité avant de terminer son inscription.

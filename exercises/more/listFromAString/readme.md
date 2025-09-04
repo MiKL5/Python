@@ -1,4 +1,4 @@
-# **Créer une liste depuis chaîne de caractères**<a href="../../../"><img align="right" src="../../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
+# **Créer une liste depuis chaîne de caractères**<a href="../../../"><img align="right" src="../../../assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 **La méthode `split`** converti une chaîne de caractère en liste.
 ```py
 courses = "Riz, Pommes, Lait, Salade, Saumon, Beure"

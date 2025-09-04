@@ -1,4 +1,4 @@
-# **Les erreurs**
+# **Les erreurs**<a href="../../../../"><img align="right" src="../../../../assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 ## **Syntaxe**
 Elles empêchent l'exécution du code.
 

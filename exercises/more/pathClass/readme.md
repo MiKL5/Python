@@ -1,4 +1,4 @@
-# **La class path**<a href="../../../"><img align="right" src="../../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
+# **La class path**<a href="../../../"><img align="right" src="../../../assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 L'objet '`Path`' est une classe permettant la création de chemin.  
 <!-- Il n'y a pas de se questionner à propos du sens des slashs. -->
 ```py

@@ -1,4 +1,4 @@
-# **Variable**<a href="../../../"><img align="right" src="../../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
+# **Variable**<a href="../../../"><img align="right" src="../../../assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 _Les nombres entre -5 et 256 sont particuliers , il se peut que les résultats obtenus soit différents d'un ordi à l'autre ; Python gère la mémoire avec le meilleure efficacité._
 ## **Singleton et "small integer caching"**
 ### **Le singleton**

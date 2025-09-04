@@ -1,4 +1,4 @@
-# **Chatbot basé sur l'IA générative d'OpenAI** <a href="../../"><img align="right" src="../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
+# **Chatbot basé sur l'IA générative d'OpenAI** <a href="../../"><img align="right" src="../../assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 
 1. Utiliser '`Streamlit`' pour créer une interface simplement ;
 2. Avec '`PdfReader`' de '`PyPDF2`' récupérer le texte au format PDF.

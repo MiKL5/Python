@@ -3,7 +3,7 @@
 [Analyse des données de Netflix](Anaconda/netflix)  
 <!-- [Analyse des données des universités américaines](Anaconda/usUniversities) -->
 <!--
-## **Projets en machine learning**
+## **Projets de machine learning**
 [Prédiction du score de dépenses des clients](https://github.com/MiKL5/machineLearning/blob/master/projects/spendingScore)  
 [Prédiction de la qualité du vin](https://github.com/MiKL5/machineLearning/blob/master/projects/wineQuality)  
 [Prédiction du courrier indésirable](https://github.com/MiKL5/machineLearning/blob/master/projects/spam)  
@@ -31,5 +31,4 @@
 
 🧠 [Data science](https://github.com/MiKL5/DataScience)  
 🤖🧠 [Machine Learning](https://github.com/MiKL5/machineLearning)
-<div align="center">
-<a href="docs"><img src="assets/images/snake.png" alt="Python" width="300px"></a>
+<div align="center"><a href="docs"><img src="assets/images/snake.png" alt="Python" width="300px"></a>

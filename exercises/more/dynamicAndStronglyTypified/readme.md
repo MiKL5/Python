@@ -1,4 +1,4 @@
-# **Python est un langage dynamique et fortement typé**<a href="../../../"><img align="right" src="../../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
+# **Python est un langage dynamique et fortement typé**<a href="../../../"><img align="right" src="../../../assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 ## **Pourquoi changer le type d'une variable ?**
 Il y a 2 principales raisons.  
 ➜ Utiliser les opérateurs mathématiques avec les variables

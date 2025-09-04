@@ -1,4 +1,4 @@
-# **Les infos de chemins**<a href="../../../"><img align="right" src="../../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
+# **Les infos de chemins**<a href="../../../"><img align="right" src="../../../assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 ```py
 print(p.name)            # nom : main.py
 print(p.stem)            # av. l'extention

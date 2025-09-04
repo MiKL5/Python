@@ -1,4 +1,4 @@
-# **Créer les constantes du projet avec `__file__`**<a href="../../../"><img align="right" src="../../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
+# **Créer les constantes du projet avec `__file__`**<a href="../../../"><img align="right" src="../../../assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 ## **Avec OS**
 ```py
 source_file = os.path.realpath(__file__)

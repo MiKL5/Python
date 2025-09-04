@@ -1,4 +1,4 @@
-# **Les opérateurs d'appartenances**<a href="../../../"><img align="right" src="../../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
+# **Les opérateurs d'appartenances**<a href="../../../"><img align="right" src="../../../assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 Il s'agit d'`IN` et `NOT IN`
 La casse est importante.
 ```py

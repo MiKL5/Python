@@ -1,4 +1,4 @@
-# **Différene entre les méthodes et les fonctions**<a href="../../../"><img align="right" src="../../../assets/Python-logo-notext.svg" alt="Python" height="64px"></a>
+# **Différene entre les méthodes et les fonctions**<a href="../../../"><img align="right" src="../../../assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 ## **La méthode**
 Fonction appartenant à un objet. 
 ## **La fonction**
