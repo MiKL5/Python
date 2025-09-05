@@ -15,7 +15,7 @@
 [Calculatrice avec gestion d'erreur](exercises/more/calculatorWithErrorHandling)  
 👉 [**Tout voir**](miniProjets)
 <!-- ## [**Exercices**](exercises) -->
-<div align="center"><a href="Anaconda"><img src="assets/images/snake.png" alt="Python" width="300px"></a>
+<div align="center"><a href="Anaconda"><img src="assets/images/snake.png" alt="Python" width="200px"></a>
 <h2 align="center"><b>🔗 Sujets connexes</b></h2>
 
 🧠 [Data science](https://github.com/MiKL5/DataScience)  
