@@ -1,4 +1,4 @@
-# **Python** <a href="../"><img align="right" src="../assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
+<h1 align="center"><b>Python</b> <a href="../"><img align="right" src="../assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a></h1>
 
 [Les dictionnaires](../exercises/practice10)  
 [Les sets](../exercises/practice11)  

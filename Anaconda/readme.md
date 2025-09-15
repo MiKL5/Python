@@ -1,7 +1,13 @@
-# **Python pour la Data Analyse et la Data Science**<a href="../"><img align="right" src="../assets/logo/Jupyter.svg" alt="Jupyter" height="64px"><img align="right" src="../assets/logo/Anaconda.svg" alt="Anaconda" height="64px"></a>
+<h1 align="center"><b>Python pour la Data Analyse et la Data Science</b><a href="../"><img align="right" src="../assets/logo/Jupyter.svg" alt="Jupyter" height="64px"><img align="right" src="../assets/logo/Anaconda.svg" alt="Anaconda" height="64px"></a></h1>
+
 ## **Projets**
 [Analyse des données de Netflic](netflix)  
-[Analyse des données des universitées](usUniversities)
+[Analyse des données des universitées](usUniversities)  
+<!-- [Décés par armes à feu aux USA]()   -->
+<!-- [Décés par mois]() -->
+<!-- [Décés par origine et genre]() -->
+<!-- [Rotio de décés par armes à feu selon l'origine]() -->
+<!-- [Filtrer par homicide]() -->
 ## **[Numpy](numpy)** <a href="learningNumpy"><img align="left" src="../assets/logo/numpy.svg" alt="Numpy" height="24px"></a>
 Vecteurs  
 Matrices  

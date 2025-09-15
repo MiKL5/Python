@@ -1,10 +1,11 @@
-# **Python** <a href="docs"><img align="right" src="assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
+<h1 align="center"><b>Python</b> <a href="docs"><img align="right" src="assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a></h1>
+
 ## **Data Science**
 [Analyse des données de Netflix](Anaconda/netflix)  
 [Analyse des données des universités américaines](Anaconda/usUniversities)
 ## **Machine learning**
 👉 [**Tout voir**](https://github.com/MiKL5/machineLearning)
-## **Projets**
+## **Projets**00
 👉 [**Tout voir**](projets)
 ## **Miniprojets**
 👉 [**Tout voir**](miniProjets)
