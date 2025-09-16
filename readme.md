@@ -5,7 +5,7 @@
 [Analyse des données des universités américaines](Anaconda/usUniversities)
 ## **Machine learning**
 👉 [**Tout voir**](https://github.com/MiKL5/machineLearning)
-## **Projets**00
+## **Projets**
 👉 [**Tout voir**](projets)
 ## **Miniprojets**
 👉 [**Tout voir**](miniProjets)
