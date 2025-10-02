@@ -9,3 +9,4 @@
 [Prédiction du prix des maisson](https://github.com/MiKL5/machineLearning/blob/master/projects/house) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat&logo=googlecloud&logoColor=white)  
 [Prédiction du prix des logements en Californie](https://github.com/MiKL5/machineLearning/blob/master/projects/california) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat&logo=googlecloud&logoColor=white)  
 [Prédire la survie dans le Titanic](https://github.com/MiKL5/machineLearning/blob/master/projects/titanic) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat&logo=googlecloud&logoColor=white)  
+[Systèle de recommandation de films](https://github.com/MiKL5/machineLearning/blob/master/projects/movies)![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat&logo=googlecloud&logoColor=white)  
