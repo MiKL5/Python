@@ -14,3 +14,4 @@ Vous trouverez une liste de projets variés, allant de l'analyse des données à
 [Prédire le prix des logements en Californie](https://github.com/MiKL5/machineLearning/blob/master/projects/california)  
 [Prédire la survie dans le Titanic](https://github.com/MiKL5/machineLearning/blob/master/projects/titanic)  
 [Système de recommandation de films](https://github.com/MiKL5/machineLearning/blob/master/projects/movies)  
+[Prédire le diabète](https://github.com/MiKL5/machineLearning/blob/master/projects/diabetes)  
