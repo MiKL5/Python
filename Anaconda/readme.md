@@ -24,3 +24,4 @@ Vous trouverez une liste de projets variés, allant de l'analyse des données à
 >> ### **Unsupervised**
 [Segmenter les données d’iris](https://github.com/MiKL5/machineLearning/blob/master/projects/clusteringOnIrisData)  
 [Segmentation de la clientèle d'un centre commercial](https://github.com/MiKL5/machineLearning/blob/master/projects/clusteringOfCustomersInAShoppingMall)  
+[Analyse et clustering non supervisé 👉 KMeans, DBSCAN et PCA](https://github.com/MiKL5/machineLearning/blob/master/projects/KMeans-DBSCAN-PCA)
