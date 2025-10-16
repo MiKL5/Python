@@ -11,7 +11,7 @@ Vous trouverez une liste de projets variés, allant de l'analyse des données à
 [Prédire la qualité du vin](https://github.com/MiKL5/machineLearning/blob/master/projects/wineQuality)  
 [Prédire les spams](https://github.com/MiKL5/machineLearning/blob/master/projects/spam)  
 [Prédire le prix de l'immobilière à Melbourne](https://github.com/MiKL5/machineLearning/blob/master/projects/melbourne)  
-[Prédire le prix prix des maisond](https://github.com/MiKL5/machineLearning/blob/master/projects/house)  
+[Prédire le prix prix des maisons](https://github.com/MiKL5/machineLearning/blob/master/projects/house)  
 [Prédire le prix des logements en Californie](https://github.com/MiKL5/machineLearning/blob/master/projects/california)  
 [Prédire la survie dans le Titanic](https://github.com/MiKL5/machineLearning/blob/master/projects/titanic)  
 [Système de recommandation de films](https://github.com/MiKL5/machineLearning/blob/master/projects/movies)  
