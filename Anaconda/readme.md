@@ -1,7 +1,6 @@
 # **Projets d'Analyse de Données** <a href="../"><img align="right" src="../assets/images/snake.png" alt="Python" height="64px"></a></h1>
 
-Vous trouverez une liste de projets variés, allant de l'analyse des données à la prédiction, pour explorer différentes facettes de l'analyse de données.
-
+<!-- Vous trouverez une liste de projets variés, allant de l'analyse des données à la prédiction, pour explorer différentes facettes de l'analyse de données. -->
 # **Data Science**
 
 [Analyse des données de Netflix](https://github.com/MiKL5/DataScience/blob/master/Anaconda/netflix) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-150458?style=flat&logo=analytics&logoColor=white) ![Data Science](https://img.shields.io/badge/Data_Science-4B6F44?style=flat&logo=databricks&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat&logo=googlecloud&logoColor=white)  
@@ -32,3 +31,4 @@ Vous trouverez une liste de projets variés, allant de l'analyse des données à
 [Segmentation de la clientèle d'un centre commercial](https://github.com/MiKL5/machineLearning/blob/master/projects/clusteringOfCustomersInAShoppingMall)  
 [Analyse et clustering non supervisé 👉 KMeans, DBSCAN et PCA](https://github.com/MiKL5/machineLearning/blob/master/projects/KMeans-DBSCAN-PCA)
 [L'algorithme Apriori](https://github.com/MiKL5/machineLearning/blob/master/projects/aprioriAlgorithmForShoppingBasketAnalysis)
+[Modélisation thématique avec LDA (Latent Dirichlet Allocation)](https://github.com/MiKL5/machineLearning/blob/master/projects/LDAmodeling)
