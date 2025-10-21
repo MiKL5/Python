@@ -31,3 +31,4 @@
 [Analyse et clustering non supervisé 👉 KMeans, DBSCAN et PCA](https://github.com/MiKL5/machineLearning/blob/master/projects/KMeans-DBSCAN-PCA)  
 [L'algorithme Apriori](https://github.com/MiKL5/machineLearning/blob/master/projects/aprioriAlgorithmForShoppingBasketAnalysis)  
 [Modélisation thématique avec LDA (Latent Dirichlet Allocation)](https://github.com/MiKL5/machineLearning/blob/master/projects/LDAmodeling)  
+[Réduire la dimensionnalité par t-SNE et UMAP](https://github.com/MiKL5/machineLearning/blob/master/projects/tSneUmap)  
