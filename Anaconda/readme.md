@@ -29,4 +29,4 @@
 [Estimer de la densité de noyau (KDE)](https://github.com/MiKL5/machineLearning/tree/master/projects/estimateTheDensityOfTheCore)  
 [Segmentater par le clustering hiérarchique](https://github.com/MiKL5/machineLearning/tree/master/projects/segmentingCustomersUsingHierarchicalClustering)
 [Détecter les anomalies avec OneClassSVM](https://github.com/MiKL5/machineLearning/tree/master/projects/detectingQnomaliesYithOneClassSVM)
-<!-- [Partitionner avec GMM, KMeans & DBSCAN](https://github.com/MiKL5/machineLearning/tree/master/projects/clusteringGMM_KMeans_DBSCAN) -->
+[Partitionner avec GMM, KMeans & DBSCAN](https://github.com/MiKL5/machineLearning/tree/master/projects/clusteringGMM_KMeans_DBSCAN)
