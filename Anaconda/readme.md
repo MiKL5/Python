@@ -27,6 +27,6 @@
 [Réduire la dimensionnalité par t-SNE et UMAP](https://github.com/MiKL5/machineLearning/blob/master/projects/tSneUmap)  
 [Détection d'anomalies 👉 Isolation Forest & LOF](https://github.com/MiKL5/machineLearning/blob/master/projects/anomalyDetectionUsingAnIsolationForestAndTheLocalOutlierFactor)  
 [Estimer de la densité de noyau (KDE)](https://github.com/MiKL5/machineLearning/tree/master/projects/estimateTheDensityOfTheCore)  
-[Segmentater par le clustering hiérarchique](https://github.com/MiKL5/machineLearning/tree/master/projects/segmentingCustomersUsingHierarchicalClustering)
-[Détecter les anomalies avec OneClassSVM](https://github.com/MiKL5/machineLearning/tree/master/projects/detectingQnomaliesYithOneClassSVM)
+[Segmentater par le clustering hiérarchique](https://github.com/MiKL5/machineLearning/tree/master/projects/segmentingCustomersUsingHierarchicalClustering)  
+[Détecter les anomalies avec OneClassSVM](https://github.com/MiKL5/machineLearning/tree/master/projects/detectingQnomaliesYithOneClassSVM)  
 [Partitionner avec GMM, KMeans & DBSCAN](https://github.com/MiKL5/machineLearning/tree/master/projects/clusteringGMM_KMeans_DBSCAN)
