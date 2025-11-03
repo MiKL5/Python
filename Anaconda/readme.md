@@ -26,7 +26,10 @@
 [Modélisation thématique avec LDA (Latent Dirichlet Allocation)](https://github.com/MiKL5/machineLearning/blob/master/projects/LDAmodeling)  
 [Réduire la dimensionnalité par t-SNE et UMAP](https://github.com/MiKL5/machineLearning/blob/master/projects/tSneUmap)  
 [Détection d'anomalies 👉 Isolation Forest & LOF](https://github.com/MiKL5/machineLearning/blob/master/projects/anomalyDetectionUsingAnIsolationForestAndTheLocalOutlierFactor)  
-[Estimer de la densité de noyau (KDE)](https://github.com/MiKL5/machineLearning/tree/master/projects/estimateTheDensityOfTheCore)  
-[Segmentater par le clustering hiérarchique](https://github.com/MiKL5/machineLearning/tree/master/projects/segmentingCustomersUsingHierarchicalClustering)  
-[Détecter les anomalies avec OneClassSVM](https://github.com/MiKL5/machineLearning/tree/master/projects/detectingQnomaliesYithOneClassSVM)  
-[Partitionner avec GMM, KMeans & DBSCAN](https://github.com/MiKL5/machineLearning/tree/master/projects/clusteringGMM_KMeans_DBSCAN)
+[Estimer de la densité de noyau (KDE)](https://github.com/MiKL5/machineLearning/blob/master/projects/estimateTheDensityOfTheCore)  
+[Segmentater par le clustering hiérarchique](https://github.com/MiKL5/machineLearning/blob/master/projects/segmentingCustomersUsingHierarchicalClustering)  
+[Détecter les anomalies avec OneClassSVM](https://github.com/MiKL5/machineLearning/blob/master/projects/detectingQnomaliesYithOneClassSVM)  
+[Partitionner avec GMM, KMeans & DBSCAN](https://github.com/MiKL5/machineLearning/blob/master/projects/clusteringGMM_KMeans_DBSCAN)
+[Associer des règles d’apprentissage avec FP-Growth](https://github.com/MiKL5/machineLearning/blob/master/projects/fpGrowth)  
+<!-- [Partitionner par un mélange bayésien gaussien](https://github.com/MiKL5/machineLearning/blob/master/projects/clusteringUsingABayesianGaussianMixtureModel) -->
+<!-- [Réduire la dimensionnalité par LDA et de SVD](https://github.com/MiKL5/machineLearning/blob/master/projects/dimensionReductionUsingLDA-SVD) -->
