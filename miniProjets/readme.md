@@ -1,5 +1,6 @@
 # **Miniprojets** <a href="../"><img align="right" src="../assets/logo/Python-logo-notext.svg" alt="Python" height="64px"></a>
 [Calculateur de revenus](weeklySalaryCalculator "Calculateur simple de revenus")  
+[Calculateur d'augmentation](increaseCalculator)
 [Fizz Buzz](FizzBuzz "Fizz Buzz")   
 [Budgets des films](filmBudgets "Troisième défi : budget des films")  
 [Nombre premier](primeNomber "Nombre premier")  
