@@ -20,9 +20,10 @@
 [Prédire les performances des étudiants](https://github.com/MiKL5/machineLearning/blob/master/projects/studentPerformance)  
 >> ### **Unsupervised**
 [Segmenter les données d’iris](https://github.com/MiKL5/machineLearning/blob/master/projects/clusteringOnIrisData)  
-[Segmentation de la clientèle d'un centre commercial](https://github.com/MiKL5/machineLearning/blob/master/projects/clusteringOfCustomersInAShoppingMall)  
+[Segmenter la clientèle d'un centre commercial](https://github.com/MiKL5/machineLearning/blob/master/projects/clusteringOfCustomersInAShoppingMall)  
 [Analyse et clustering non supervisé 👉 KMeans, DBSCAN et PCA](https://github.com/MiKL5/machineLearning/blob/master/projects/KMeans-DBSCAN-PCA)  
 [L'algorithme Apriori](https://github.com/MiKL5/machineLearning/blob/master/projects/aprioriAlgorithmForShoppingBasketAnalysis)  
+[Trouver les anomalies avec la forêt d'isolement](projects/isolationForest)  
 [Modélisation thématique avec LDA (Latent Dirichlet Allocation)](https://github.com/MiKL5/machineLearning/blob/master/projects/LDAmodeling)  
 [Réduire la dimensionnalité par t-SNE et UMAP](https://github.com/MiKL5/machineLearning/blob/master/projects/tSneUmap)  
 [Détection d'anomalies 👉 Isolation Forest & LOF](https://github.com/MiKL5/machineLearning/blob/master/projects/anomalyDetectionUsingAnIsolationForestAndTheLocalOutlierFactor)  
