@@ -31,5 +31,5 @@
 [Détecter les anomalies avec OneClassSVM](https://github.com/MiKL5/machineLearning/blob/master/projects/detectingQnomaliesYithOneClassSVM)  
 [Partitionner avec GMM, KMeans & DBSCAN](https://github.com/MiKL5/machineLearning/blob/master/projects/clusteringGMM_KMeans_DBSCAN)
 [Associer des règles d’apprentissage avec FP-Growth](https://github.com/MiKL5/machineLearning/blob/master/projects/fpGrowth)  
-<!-- [Partitionner par un mélange bayésien gaussien](https://github.com/MiKL5/machineLearning/blob/master/projects/clusteringUsingABayesianGaussianMixtureModel) -->
-<!-- [Réduire la dimensionnalité par LDA et de SVD](https://github.com/MiKL5/machineLearning/blob/master/projects/dimensionReductionUsingLDA-SVD) -->
+[Partitionner par un mélange bayésien gaussien](https://github.com/MiKL5/machineLearning/blob/master/projects/clusteringUsingABayesianGaussianMixtureModel)
+[Réduire la dimensionnalité par LDA et de SVD](https://github.com/MiKL5/machineLearning/blob/master/projects/dimensionReductionUsingLDA-SVD)
