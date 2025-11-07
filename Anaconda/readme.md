@@ -1,4 +1,4 @@
-# **Projets d'Analyse de Données** <a href="../"><img align="right" src="../assets/images/snake.png" alt="Python" height="64px"></a></h1>
+# **Projets** <a href="../"><img align="right" src="../assets/images/snake.png" alt="Python" height="64px"></a></h1>
 # **Data Science**
 [Analyse des données de Netflix](https://github.com/MiKL5/DataScience/blob/master/Anaconda/netflix) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-150458?style=flat&logo=analytics&logoColor=white) ![Data Science](https://img.shields.io/badge/Data_Science-4B6F44?style=flat&logo=databricks&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat&logo=googlecloud&logoColor=white)  
 [Analyse des données des universités américaines](https://github.com/MiKL5/DataScience/blob/master/Anaconda/usUniversities) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-150458?style=flat&logo=analytics&logoColor=white) ![Data Science](https://img.shields.io/badge/Data_Science-4B6F44?style=flat&logo=databricks&logoColor=white)
