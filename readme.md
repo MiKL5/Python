@@ -5,6 +5,8 @@
 [Analyse des données des universités américaines](https://github.com/MiKL5/DataScience/blob/master/Anaconda/usUniversities)
 ## **Machine learning**
 👉 [**Tout voir**](https://github.com/MiKL5/machineLearning)
+## **Web scraping**
+👉 [**Tout voir**](https://github.com/MiKL5/Web-scraping)
 ## **Projets**
 👉 [**Tout voir**](projets)
 ## **Miniprojets**
