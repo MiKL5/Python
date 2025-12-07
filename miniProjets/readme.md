@@ -20,6 +20,7 @@
 [Tracer des graphiques](drawGraphs "Tracer un graphique")   
 [Password checker](../exercises/more/passwordChecker)  
 [Calculatrice avec gestion d'erreur](../exercises/more/calculatorWithErrorHandling)  
+[Trieur de fichier](fileSorter)
 <!-- [Lancer les dés](miniProjets/rollTheDices "Lancer les dés")    -->
 <!-- [Avocats](miniProjets/lawyers "Avocats")    -->
 <!-- [Web Scraping](miniProjets/webScraping "Web Scraping")    -->
